@@ -1,0 +1,132 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<title>ASM Resurrected - 10th Anniversary! (April 29, 2011) | Performances | Anti-Social Music</title>
+
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta http-equiv="imagetoolbar" content="false" />
+	<meta name="author" content="Anti-Social Music" />
+	<meta name="robots" content="index, follow" />
+	<meta http-equiv="X-UA-Compatible" content="IE=7" />
+	<meta property="og:site_name" content="Anti-Social Music" />
+	<meta property="og:url" content="http://www.antisocialmusic.org/performances/ASMResurrected.shtml" />
+	<meta property="og:title" content="ASM Resurrected - 10th Anniversary!" />
+	<meta property="og:image" content="http://www.antisocialmusic.org/ASM_social.jpg" />
+	<link rel="SHORTCUT ICON" href="/favicon.ico" type="image/x-icon" />
+	<link rel="image_src" href="http://www.antisocialmusic.org/ASM_social.jpg" />
+	<meta name="description" content="Anti-Social Music, Inc., is a non-profit collective of composers and performers created for the purpose of presenting new music by emerging, primarily New York-based musicians." />
+
+	<link rel="stylesheet" href="/styles/init.css" type="text/css" />
+	<link rel="stylesheet" href="/styles/subpage.css" type="text/css" />
+	<!--[if IE 6]>
+	<link rel="stylesheet" href="/styles/ie6.css" type="text/css" />
+	<![endif]-->
+	<!--[if IE 7]>
+	<link rel="stylesheet" href="/styles/ie7.css" type="text/css" />
+	<![endif]-->
+</head>
+<body>
+<div id="performancespage">
+	<div id="header">
+		<h1>Anti-Social Music</h1>
+		<h2>Past Performance</h2>
+		<p class="accessibility">Jump to <a href="#content">Content</a> or <a href="#navigation">Main Navigation</a></p>
+		<ul id="navigation">
+			<li id="home"><a href="/">Home</a></li>
+			<li id="performances"><a href="/Performances.shtml">Performances</a></li>
+			<li id="music"><a href="/Music.html">Music</a></li>
+			<li id="members"><a href="/Members.html">Members</a></li>
+			<li id="history"><a href="/History.html">History</a></li>
+			<li id="press"><a href="/Press.html">Press</a></li>
+			<li id="store"><a href="/Store.html">Store</a></li>
+		</ul>
+	</div>
+
+	<div id="content" class="clear">
+
+		<div class="column">
+			<div id="intro">
+
+<h3>ASM Resurrected<br/>10th Anniversary Show</h3>
+
+			</div>
+	
+			<div id="details">
+
+<p>
+Ten years. It seems like just yesterday we were taking our first steps and throwing up on you after breakfast.<br/>
+<br/>
+We're starting to get in trouble at school, but it's only because our bodies are changing and we're becoming more sensitive. We're on the cusp of puberty. We're pre-teens, and now is the time you should start planning on having "the talk" with us, because in just 6 short years, we'll be driving. [And you don't want to even think what college is going to cost!]<br/>
+<br/>
+Our attention span is getting longer; we're becoming more discerning, able to focus on things that interest us. We're developing our own aspirations.<br/>
+<br/>
+Don't worry &ndash; we'll always be your baby. And we're going to enjoy that cake with all those candles.
+</p>
+
+<p>
+And so, in true extravaganza style, <strong>we're celebrating by performing our favorite large pieces that we've never played again... until now.</strong>
+</p>
+
+<p>
+What could it be? Special guests from California? New works? <em>Resurrecting classics that rarely see the light of day of your ears?</em><br/>
+<br/>
+Will it be Bill Brittelle's <em>Pink Taco</em> or <em>Seven Songs of Zen, Love, and Longing</em>? Will it be John Wriggle's <em>World/Music/Bank</em> for string sextext or <em>Dead Cat Bounce</em>?<br/>
+<br/>
+Maybe the piece we did with <b>D&auml;lek</b> or <em>The End</em> from The Nitrate Hymnal with Bob Massey?<br/>
+<br/>
+Hell, we might do John Stafford's <em>Ave Maria</em> for SATB again. Or Dan Lasaga's <em>Methadone for the Blooming Lotus</em>. Or Peter Hess' <em>Voiceprint VII "Constellations"</em> for effing CHAMBER ORCHESTRA.<br/>
+<br/>
+Or all of the above.<br/>
+<br/>
+It's our birthday. We're doing it up. You're invited.
+</p>
+
+<p>
+<strong>Chashama</strong><br/>
+217 East 42nd Street (between 2nd and 3rd Aves)<br/>
+New York, NY<br/>
+8PM<br/>
+<br/>
+</p>
+
+<p>You can find more information (video, audio, and links to live shows on bandcamp) on <a href="http://www.antisocialmusic.org/Music.html" target="more">here</a>.</p>
+
+<p class="smallprint">
+This program is supported, in part, by public funds from the New York City Department of Cultural Affairs, in partnership with the City Council, and in part with public funds from the New York State Council on the Arts, a state agency. Which is basically to say - your tax dollars at work. Yeah, frightening isn't it?
+</p>
+
+			</div>
+		</div>
+
+		<div class="column">
+			<div id="photo">
+
+<img src="/images/performances/Resurrected.jpg" alt="you are saved... by ASM" title="ASM is born again!" />
+
+			</div>
+	
+			<div id="pastperformances">
+<!--#INCLUDE VIRTUAL="/pastperformances.html"-->
+			</div>
+		</div>
+
+	</div>
+
+	<div id="footer">
+		<p>Copyright &copy; 2000-2015 by Anti-Social Music. All rights reserved. Like anyone looks at this.</p>
+	</div>
+</div>
+
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-17744388-1']);
+_gaq.push(['_trackPageview']);
+(function() {
+	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+</body>
+</html>

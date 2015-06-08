@@ -1,0 +1,111 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<title>Spooning with ASM (May 21, 2005) | Performances | Anti-Social Music</title>
+
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta http-equiv="imagetoolbar" content="false" />
+	<meta name="author" content="Anti-Social Music" />
+	<meta name="robots" content="index, follow" />
+	<meta http-equiv="X-UA-Compatible" content="IE=7" />
+	<meta property="og:site_name" content="Anti-Social Music" />
+	<meta property="og:url" content="http://www.antisocialmusic.org/performances/Spooning.shtml" />
+	<meta property="og:title" content="Spooning with ASM" />
+	<meta property="og:image" content="http://www.antisocialmusic.org/ASM_social.jpg" />
+	<link rel="SHORTCUT ICON" href="/favicon.ico" type="image/x-icon" />
+	<link rel="image_src" href="http://www.antisocialmusic.org/ASM_social.jpg" />
+	<meta name="description" content="Anti-Social Music, Inc., is a non-profit collective of composers and performers created for the purpose of presenting new music by emerging, primarily New York-based musicians." />
+
+	<link rel="stylesheet" href="/styles/init.css" type="text/css" />
+	<link rel="stylesheet" href="/styles/subpage.css" type="text/css" />
+	<!--[if IE 6]>
+	<link rel="stylesheet" href="/styles/ie6.css" type="text/css" />
+	<![endif]-->
+	<!--[if IE 7]>
+	<link rel="stylesheet" href="/styles/ie7.css" type="text/css" />
+	<![endif]-->
+</head>
+<body>
+<div id="performancespage">
+	<div id="header">
+		<h1>Anti-Social Music</h1>
+		<h2>Past Performance</h2>
+		<p class="accessibility">Jump to <a href="#content">Content</a> or <a href="#navigation">Main Navigation</a></p>
+		<ul id="navigation">
+			<li id="home"><a href="/">Home</a></li>
+			<li id="performances"><a href="/Performances.shtml">Performances</a></li>
+			<li id="music"><a href="/Music.html">Music</a></li>
+			<li id="members"><a href="/Members.html">Members</a></li>
+			<li id="history"><a href="/History.html">History</a></li>
+			<li id="press"><a href="/Press.html">Press</a></li>
+			<li id="store"><a href="/Store.html">Store</a></li>
+		</ul>
+	</div>
+	<div id="content" class="clear">
+
+		<div class="column">
+			<div id="intro">
+
+<h3>Spooning with ASM</h3>
+<p class="download"><a target="bandcamp" href="http://antisocialmusic.bandcamp.com/album/spooning-with-asm-cami-hall-5-21-05">STREAM/DOWNLOAD THIS SHOW</a></p>
+
+			</div>
+
+			<div id="details">
+
+<p>The nasty folks of Anti-Social Music sure are anti-social, nasty types. Nevertheless, even the nastiest most anti-socialest types need some semblance of affection now and again. Towards this end we've taken up spooning. Ah, spooning... But we won't be singing &quot;By the Light of the Silvery Moon&quot; for this show (you know, &quot;...I want to spoooooon! To my lover, I'll croon love's tune...&quot; Okay, so maybe I'm the only one who knows it...), 'cause we're all about new music that's hard to sing, such as:</p>
+<ul class="insidelist">
+	<li><span class="worktitle">Al-gharaniq II/Fracture IV</span> - for a slew of people - by the ever-cuddly, bemohawked Pat Muchmore</li>
+	<li><span class="worktitle">Hazed, at the&nbsp;Authority</span> - for 3 saxes and 3 brass - by the intriguing world-traveler Dan Lasaga</li>
+	<li><span class="worktitle">Al's Mysterious Death Project (title subject to change)</span> - for fretless guitar in 1/4 comma meantone - by microtonal Mainer Al Giusto</li>
+	<li><span class="worktitle">palisades...music from the film</span> - for string quintet and piano - by the voiceless-yet-eternally-cool Bill Brittelle</li>
+	<li><span class="worktitle">Top Dog Third World (Advancing Culture through Management)</span> - by that sly fox John Wriggle - featuring the always-lovely Philippa Thompson on spoons!</li>
+</ul>
+
+<p>Yeah, she's playing spoons! You know that's what we meant by spooning, right? ...that we now have a spoonist who spoons in our ranks, right? You thought that we were interested in snuggling?! Ewwwww. So...I don't know...<em>social</em>.</p>
+
+<p>
+Spooning with ASM!<br/>
+a world-premiere she-bang, with only one utensil.<br/>
+21 May 2005<br/>CAMI (across the street from Carnegie Hall on 57th btw 6&amp;7 aves.)<br/>
+8:30<br/>
+$9.99
+</p>
+
+<p>Extra-special thanks to NYSCA for funding us, and Tim Cook for letting us use his sweet spoon picture!</p>
+
+			</div>
+		</div>
+
+		<div class="column">
+			<div id="photo">
+
+<img src="/images/performances/ASMSpoon.jpg" alt="Spooning with ASM postcard" title="Spooning with ASM postcard" />
+
+			</div>
+
+			<div id="pastperformances">
+<!--#INCLUDE VIRTUAL="/pastperformances.html"-->
+			</div>
+		</div>
+
+	</div>
+
+	<div id="footer">
+		<p>Copyright &copy; 2000-2015 by Anti-Social Music. All rights reserved. Like anyone looks at this.</p>
+	</div>
+</div>
+
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-17744388-1']);
+_gaq.push(['_trackPageview']);
+(function() {
+	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+</body>
+</html>

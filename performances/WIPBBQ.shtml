@@ -1,0 +1,126 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<title>WIP Free-for-all BBQ potluck! (June 29, 2014) | Performances | Anti-Social Music</title>
+
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta http-equiv="imagetoolbar" content="false" />
+	<meta name="author" content="Anti-Social Music" />
+	<meta name="robots" content="index, follow" />
+	<meta http-equiv="X-UA-Compatible" content="IE=7" />
+	<meta property="og:site_name" content="Anti-Social Music" />
+	<meta property="og:url" content="http://www.antisocialmusic.org/performances/WIPBBQ.shtml" />
+	<meta property="og:title" content="WIP Free-for-all BBQ potluck!" />
+	<meta property="og:image" content="http://www.antisocialmusic.org/ASM_social.jpg" />
+	<link rel="SHORTCUT ICON" href="/favicon.ico" type="image/x-icon" />
+	<link rel="image_src" href="http://www.antisocialmusic.org/ASM_social.jpg" />
+	<meta name="description" content="Anti-Social Music, Inc., is a non-profit collective of composers and performers created for the purpose of presenting new music by emerging, primarily New York-based musicians." />
+
+	<link rel="stylesheet" href="/styles/init.css" type="text/css" />
+	<link rel="stylesheet" href="/styles/subpage.css" type="text/css" />
+	<!--[if IE 6]>
+	<link rel="stylesheet" href="/styles/ie6.css" type="text/css" />
+	<![endif]-->
+	<!--[if IE 7]>
+	<link rel="stylesheet" href="/styles/ie7.css" type="text/css" />
+	<![endif]-->
+</head>
+<body>
+<div id="performancespage">
+	<div id="header">
+		<h1>Anti-Social Music</h1>
+		<h2>Past Performance</h2>
+		<p class="accessibility">Jump to <a href="#content">Content</a> or <a href="#navigation">Main Navigation</a></p>
+		<ul id="navigation">
+			<li id="home"><a href="/">Home</a></li>
+			<li id="performances"><a href="/Performances.shtml">Performances</a></li>
+			<li id="music"><a href="/Music.html">Music</a></li>
+			<li id="members"><a href="/Members.html">Members</a></li>
+			<li id="history"><a href="/History.html">History</a></li>
+			<li id="press"><a href="/Press.html">Press</a></li>
+			<li id="store"><a href="/Store.html">Store</a></li>
+		</ul>
+	</div>
+
+	<div id="content" class="clear">
+
+		<div class="column">
+			<div id="intro">
+
+<h3>ANTI-SOCIAL MUSIC presents:<br/>WIP Free-for-all BBQ potluck!</h3>
+			</div>
+	
+			<div id="details">
+<p>
+Yeah, sorry.<br/>
+<br/>
+You've probably had your fill of going to a new music ensemble's Works-in-Progress-Free-For-All-Potluck-BBQ. Seems it's that time of year, and everyone else has probably beaten us to it.<br/>
+<br/>
+So it's with great shame that we, too, must doff our Serious Artist All-Black uniform in the name of that baby-shaking, hand-kissing thing.<br/>
+<br/>
+Just bring whatever you brought to the last two new music potlucks. Something with substance; you know, like macaroni salad.
+</p>
+
+<p>
+On the positive side, you get sneak peeks at ambitious new works by all your favorite composers all afternoon. Plus beer and brats! 
+</p>
+
+<p class="smallprint">
+Assuming someone brings beer.
+</p>
+
+<p>
+Did we mention it's free? And it's not in Manhattan! You can hoot and holler instead of golf clapping.
+</p>
+
+<p class="smallprint">
+Maybe not so much hollering.
+</p>
+
+<p>
+Don't forget the macaroni salad!
+</p>
+
+<p class="smallprint">
+Please don't everyone bring macaroni salad.
+</p>
+
+<p class="largeprint"><b>Sunday, June 29, 2014<br/>
+	noon until... ?<br/>
+	320 Stratford Road in Ditmas Park BK (Q to Cortelyou)<br/>
+	FREE</b>
+</p>
+
+<p>
+In no particular order (but <em>possibly</em> in order of best food contribution):<br/><br/>
+<b>JAMES BARRY</b> - <span class="worktitle">HUSTLE</span> for string quartet<br/><br/>
+<b>MAX DUYKERS</b> - <span class="worktitle">"Perch"</span> for Bass Clarinet, two MIDI Foot Controllers, and Bar Chimes<br/><br/>
+<b>JEFF HUDGINS</b> - <span class="worktitle">Mannequin Heart</span> for String Sextet<br/><br/>
+<b>BARRY SEROFF</b> - <span class="worktitle">What's a title?</span> flute solo suite<br/><br/>
+<b>ALLA ZAGAYKEVYCH</b> - <span class="worktitle">Voice/Way (2013)</span> for Cello, Piano, Violin, Clarinet, Flute and electronics<br/>
+</p>
+
+<p class="smallprint">This program is supported, in part, by public funds from the New York City Department of Cultural Affairs, in partnership with the City Council, and in part with public funds from the New York State Council on the Arts, a state agency. Which is basically to say - your tax dollars at work. Yeah, frightening isn't it?</p>
+
+			</div>
+		</div>
+
+		<div class="column">
+			<div id="photo">
+			</div>
+	
+			<div id="pastperformances">
+<!--#INCLUDE VIRTUAL="/pastperformances.html"-->
+			</div>
+		</div>
+
+	</div>
+
+	<div id="footer">
+		<p>Copyright &copy; 2000-2015 by Anti-Social Music. All rights reserved. Like anyone looks at this.</p>
+	</div>
+</div>
+
+</body>
+</html>

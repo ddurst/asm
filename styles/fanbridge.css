@@ -1,0 +1,61 @@
+/* FANBRIDGE */
+#getinvolvedpage h4.fanbridge, 
+#homepage h4.fanbridge {
+	font-size: 14px;
+	font-weight: bold;
+	margin: 8px 0px 3px 0px;
+	padding: 20px 0 0 300px;
+	width: 350px;
+}
+#homepage #solicit h4 {
+	padding-left: 0px;
+	padding-top: 8px;
+}
+#getinvolvedpage #section1 form {
+	padding: 8px 0 0 300px;
+	width: 350px;
+}
+form fieldset {
+	float: left;
+	margin: 0;
+	padding: 0;
+}
+fieldset.submit {
+	clear: right;
+}
+#homepage form fieldset {
+	display: inline;
+	float: none;
+}
+#email {
+	color: #777;
+	height: 18px;
+	padding: 1px 0px 1px 1px;
+}
+span.error {
+	position: absolute;
+	color: #d00;
+	right: 136px;
+	top: 440px;
+}
+#getinvolvedpage #section1 p.secret {
+	background: none;
+	padding-top: 28px;
+}
+#homepage #content #solicit p.secret {
+	clear: left;
+	margin-top: 0px;
+	padding-top: 8px;
+}
+p.secret a {
+	color: #eee;
+}
+p.secret a:hover {
+	color: #e99;
+}
+#homepage #content #solicit p.secret a {
+	color: #e7e7e7;
+}
+#homepage #content #solicit p.secret a:hover {
+	color: #d99;
+}

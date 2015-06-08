@@ -1,0 +1,112 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<title>Election Night Spectacular! (November 4, 2008) | Performances | Anti-Social Music</title>
+
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta http-equiv="imagetoolbar" content="false" />
+	<meta name="author" content="Anti-Social Music" />
+	<meta name="robots" content="index, follow" />
+	<meta http-equiv="X-UA-Compatible" content="IE=7" />
+	<meta property="og:site_name" content="Anti-Social Music" />
+	<meta property="og:url" content="http://www.antisocialmusic.org/performances/Election.shtml" />
+	<meta property="og:title" content="Election Night Spectacular!" />
+	<meta property="og:image" content="http://www.antisocialmusic.org/ASM_social.jpg" />
+	<link rel="SHORTCUT ICON" href="/favicon.ico" type="image/x-icon" />
+	<link rel="image_src" href="http://www.antisocialmusic.org/ASM_social.jpg" />
+	<meta name="description" content="Anti-Social Music, Inc., is a non-profit collective of composers and performers created for the purpose of presenting new music by emerging, primarily New York-based musicians." />
+
+	<link rel="stylesheet" href="/styles/init.css" type="text/css" />
+	<link rel="stylesheet" href="/styles/subpage.css" type="text/css" />
+	<!--[if IE 6]>
+	<link rel="stylesheet" href="/styles/ie6.css" type="text/css" />
+	<![endif]-->
+	<!--[if IE 7]>
+	<link rel="stylesheet" href="/styles/ie7.css" type="text/css" />
+	<![endif]-->
+</head>
+<body>
+<div id="performancespage">
+	<div id="header">
+		<h1>Anti-Social Music</h1>
+		<h2>Past Performance</h2>
+		<p class="accessibility">Jump to <a href="#content">Content</a> or <a href="#navigation">Main Navigation</a></p>
+		<ul id="navigation">
+			<li id="home"><a href="/">Home</a></li>
+			<li id="performances"><a href="/Performances.shtml">Performances</a></li>
+			<li id="music"><a href="/Music.html">Music</a></li>
+			<li id="members"><a href="/Members.html">Members</a></li>
+			<li id="history"><a href="/History.html">History</a></li>
+			<li id="press"><a href="/Press.html">Press</a></li>
+			<li id="store"><a href="/Store.html">Store</a></li>
+		</ul>
+	</div>
+
+	<div id="content" class="clear">
+
+		<div class="column">
+			<div id="intro">
+
+<h3>Election Night <br/>Spectacular!!</h3>
+
+			</div>
+
+			<div id="details">
+
+<p>
+8:30pm (doors open 8pm)<br/>
+Nuyorican Poets Caf&eacute;<br/>
+236 East 3rd Street, between Avenues B and C<br/>
+<a href="http://www.nuyorican.org" target="_blank">www.nuyorican.org</a><br/>
+(212) 505-8183<br/>
+$12 cover, but only $9.99 if you bring your voting stub.
+</p>
+
+<p>
+There's a lot of tension in the air about this upcoming election.  Loyal followers of Anti-Social Music already know where our political sensibilities lie:  imbalance, alcohol, loud noises and, ideally, Armageddon.  As such, there are once again no candidates that completely fit our perfect ticket.
+</p>
+
+<p>
+Therefore, on Tuesday night on the fourth of November, we're teaming up with our bestest friends Corey Dargel and Newspeak to provide at least the first three.  Corey will play some new tunes for us, then ASM&nbsp;will take the stage with world premieres from Brad Kemp, Kamala Sankaram, Andrea La Rose, Pat Muchmore, David Durst and Barry Seroff.  We might even throw in a couple of old favorites before Newspeak comes at you with music by Caleb Burhans, Mark Dancigers, Robert Davidson, Judd Greenstein, Sarah Kirkland Snider, Massey, Black Sabbath, The Who and ASM's own Pat Muchmore.
+</p>
+
+<p>
+Don't worry!&nbsp; You will not be missing out on the election results!  We'll have a live news feed running on a screen throughout the show--so we'll all be apprised as soon as a small group of voters in Florida and Ohio tell us who our next president will be.  We just think that none of us should be alone on this night. &nbsp;We should be drinking together, musicing together, celebrating/commiserating/arguing with each other.  Whatever your political affiliation:  There will be no blue America on this night. &nbsp;There will be no red America on this night.  There will be the United Beer-Drinkers of America, being noisy and uncouth and dissonant.  Together.
+</p>
+
+<p>
+Joining the composers above we'll also have Andie Springer, Hubert Chen, John Wriggle, Jeff Hudgins, Drew Fleming, Regina Rocke and others playing with us on this historic night. And who knows, there might even be a special guest appearance from a certain someone who will be battling a certain other person for the eternal souls of a certain species. &nbsp;You never know.
+</p>
+
+			</div>
+		</div>
+
+		<div class="column">
+			<div id="photo">
+			</div>
+
+			<div id="pastperformances">
+<!--#INCLUDE VIRTUAL="/pastperformances.html"-->
+			</div>
+		</div>
+
+	</div>
+
+	<div id="footer">
+		<p>Copyright &copy; 2000-2015 by Anti-Social Music. All rights reserved. Like anyone looks at this.</p>
+	</div>
+</div>
+
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-17744388-1']);
+_gaq.push(['_trackPageview']);
+(function() {
+	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+</body>
+</html>

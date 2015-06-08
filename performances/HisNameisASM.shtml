@@ -1,0 +1,109 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<title>His Name is ASM! (September 17, 2005) | Performances | Anti-Social Music</title>
+
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta http-equiv="imagetoolbar" content="false" />
+	<meta name="author" content="Anti-Social Music" />
+	<meta name="robots" content="index, follow" />
+	<meta http-equiv="X-UA-Compatible" content="IE=7" />
+	<meta property="og:site_name" content="Anti-Social Music" />
+	<meta property="og:url" content="http://www.antisocialmusic.org/performances/HisNameisASM.shtml" />
+	<meta property="og:title" content="His Name is ASM!" />
+	<meta property="og:image" content="http://www.antisocialmusic.org/ASM_social.jpg" />
+	<link rel="SHORTCUT ICON" href="/favicon.ico" type="image/x-icon" />
+	<link rel="image_src" href="http://www.antisocialmusic.org/ASM_social.jpg" />
+	<meta name="description" content="Anti-Social Music, Inc., is a non-profit collective of composers and performers created for the purpose of presenting new music by emerging, primarily New York-based musicians." />
+
+	<link rel="stylesheet" href="/styles/init.css" type="text/css" />
+	<link rel="stylesheet" href="/styles/subpage.css" type="text/css" />
+	<!--[if IE 6]>
+	<link rel="stylesheet" href="/styles/ie6.css" type="text/css" />
+	<![endif]-->
+	<!--[if IE 7]>
+	<link rel="stylesheet" href="/styles/ie7.css" type="text/css" />
+	<![endif]-->
+</head>
+<body>
+<div id="performancespage">
+	<div id="header">
+		<h1>Anti-Social Music</h1>
+		<h2>Past Performance</h2>
+		<p class="accessibility">Jump to <a href="#content">Content</a> or <a href="#navigation">Main Navigation</a></p>
+		<ul id="navigation">
+			<li id="home"><a href="/">Home</a></li>
+			<li id="performances"><a href="/Performances.shtml">Performances</a></li>
+			<li id="music"><a href="/Music.html">Music</a></li>
+			<li id="members"><a href="/Members.html">Members</a></li>
+			<li id="history"><a href="/History.html">History</a></li>
+			<li id="press"><a href="/Press.html">Press</a></li>
+			<li id="store"><a href="/Store.html">Store</a></li>
+		</ul>
+	</div>
+	<div id="content" class="clear">
+
+		<div class="column">
+			<div id="intro">
+
+<p style="font-size:18px;margin-top:0;text-align:center;"><strong>ASM Sleeps Around II:</strong></p>
+<h3>His Name is ASM!</h3>
+<p class="download"><a target="bandcamp" href="http://antisocialmusic.bandcamp.com/album/his-name-is-asm-la-tea-9-17-05">STREAM/DOWNLOAD THIS SHOW</a></p>
+
+			</div>
+
+			<div id="details">
+
+<p>
+La Tea at the Clemente Soto Velez Center<br/>
+107 Suffolk Street (@ Rivington)<br/>
+FJMZ to Delancey Street<br/>
+8:00 in the PM<br/>
+Only $9.99 (cheap!)
+</p>
+
+<p>Relive the magic of <b>ASM Sleeps Around</b> this September: You remember the bone-rattling, gut-throbbing, unholy noise that was the first installment of the five-part trilogy that is <b>ASM Sleeps Around</b>, right?  This time you can leave your earplugs at home, my friends.  <b>Warn Defever</b>, better known as <b>His Name Is Alive</b>, has brought us sweet, sweet music hiding in tiny boxes. Cue the trailer...</p>
+<p>...thus did Jean appear to the punk chamber group, saying, &quot;Fear not! I bring you glad tidings of joy, yo. <b>Warn Defever</b> shall bring forth a piece and you shall play it and play it well, and you shall call it <i>After Devil's Night</i>, for it is written in memory of the Burning Cars of Detroit.&quot;</p>
+<p>And Franz thusly spake, &quot;Crikey! We're not even married! What will people say?!&quot;</p>
+<p>To which Patrick Thomas Thomas More Muchmore duly replied, &quot;We shall wrap this babe in swaddling pieces by Andrea La Rose, Peter Hess, and Patrick Castillo (oh my!) and no one can say nothing about nothing.&quot;</p>
+<p>And punk chamber group known as Anti-Social Music or ASM breathed a collective sigh and prepared for the exodus to the lower east side...</p>
+
+<p>Coming to La Tea/Clemente Soto Velez Center this September 17, 2005! Based in part on a true story.</p>
+
+<p>This show has been supported in part by the grand and generous folks at NYSCA.  Three cheers for NYSCA!</p>
+
+			</div>
+		</div>
+
+		<div class="column">
+			<div id="photo">
+
+<img src="/images/performances/HisNameIsASM.jpg" alt="ASM hits the medium time poster" title="ASM hits the medium time poster" />
+
+			</div>
+
+			<div id="pastperformances">
+<!--#INCLUDE VIRTUAL="/pastperformances.html"-->
+			</div>
+		</div>
+
+	</div>
+
+	<div id="footer">
+		<p>Copyright &copy; 2000-2015 by Anti-Social Music. All rights reserved. Like anyone looks at this.</p>
+	</div>
+</div>
+
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-17744388-1']);
+_gaq.push(['_trackPageview']);
+(function() {
+	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+</body>
+</html>

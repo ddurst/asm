@@ -1,0 +1,107 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<title>ASM Family Reunion in DC (August 28, 2004) | Performances | Anti-Social Music</title>
+
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta http-equiv="imagetoolbar" content="false" />
+	<meta name="author" content="Anti-Social Music" />
+	<meta name="robots" content="index, follow" />
+	<meta http-equiv="X-UA-Compatible" content="IE=7" />
+	<meta property="og:site_name" content="Anti-Social Music" />
+	<meta property="og:url" content="http://www.antisocialmusic.org/performances/ACFDC.shtml" />
+	<meta property="og:title" content="ASM Family Reunion in DC" />
+	<meta property="og:image" content="http://www.antisocialmusic.org/ASM_social.jpg" />
+	<link rel="SHORTCUT ICON" href="/favicon.ico" type="image/x-icon" />
+	<link rel="image_src" href="http://www.antisocialmusic.org/ASM_social.jpg" />
+	<meta name="description" content="Anti-Social Music, Inc., is a non-profit collective of composers and performers created for the purpose of presenting new music by emerging, primarily New York-based musicians." />
+
+	<link rel="stylesheet" href="/styles/init.css" type="text/css" />
+	<link rel="stylesheet" href="/styles/subpage.css" type="text/css" />
+	<!--[if IE 6]>
+	<link rel="stylesheet" href="/styles/ie6.css" type="text/css" />
+	<![endif]-->
+	<!--[if IE 7]>
+	<link rel="stylesheet" href="/styles/ie7.css" type="text/css" />
+	<![endif]-->
+</head>
+<body>
+<div id="performancespage">
+	<div id="header">
+		<h1>Anti-Social Music</h1>
+		<h2>Past Performance</h2>
+		<p class="accessibility">Jump to <a href="#content">Content</a> or <a href="#navigation">Main Navigation</a></p>
+		<ul id="navigation">
+			<li id="home"><a href="/">Home</a></li>
+			<li id="performances"><a href="/Performances.shtml">Performances</a></li>
+			<li id="music"><a href="/Music.html">Music</a></li>
+			<li id="members"><a href="/Members.html">Members</a></li>
+			<li id="history"><a href="/History.html">History</a></li>
+			<li id="press"><a href="/Press.html">Press</a></li>
+			<li id="store"><a href="/Store.html">Store</a></li>
+		</ul>
+	</div>
+	<div id="content" class="clear">
+
+		<div class="column">
+			<div id="intro">
+
+<h3 class="verysmallprint">ASM Family Reunion in DC, Saturday August 28, 8 PM</h3>
+<p style="line-height:normal;margin-left:28px;margin-top:18px;">
+Flashpoint 916 G Street, NW (Metro to Gallery Place)<br/>
+$10.00
+</p>
+			</div>
+
+			<div id="details">
+
+<p>We know it's hard when families live apart - daughters growing up without mothers, sons without fathers, no real role models, no example of love gone right. We don't want you to feel like that. We've been living a lie lo these many years. Anti-Social Music has a shadow family in D.C. There, we said it. ASM is a polygamous American. And we want you to be together - like a real, weird family - New York and Washington, Mama Jean and Papa Bob Massey in the spirit of his Punk Not Rock Salons featuring their bastard cousins ASM.</p>
+
+<p>So, we'll be piling in the old station wagon and playing at the American Composers Forum (DC chapter) New Music Salon on Saturday, August 28. It's at 8pm, $10, at Flashpoint 916 G Street, NW (Metro to Gallery Place). Potato salad and awkward conversation to follow.</p>
+
+<p>
+The Program:<br/>
+Peter Hess - <span class="worktitle">Salt or Hail</span><br/>
+Pat Muchmore - <span class="worktitle">brokenAphorisms_12-14</span> (<b>World Premiere!</b>)<br/>
+Pat Muchmore - <span class="worktitle">PortRait of the ArTist,**NYC2001</span><br/>
+Franz Nicolay - <span class="worktitle">Anti-Social Wedding Music</span><br/>
+John Wriggle - <span class="worktitle">Dead Cat Bounce Suite</span> [for Paul Chuffo]<br/>
+John Wriggle - <span class="worktitle">Material Breach</span>
+</p>
+
+<p>Try not to hit on your hot cousin.</p>
+
+<p>Love, <br/>ASM</p>
+
+			</div>
+		</div>
+
+		<div class="column">
+			<div id="photo">
+			</div>
+
+			<div id="pastperformances">
+<!--#INCLUDE VIRTUAL="/pastperformances.html"-->
+			</div>
+		</div>
+
+	</div>
+
+	<div id="footer">
+		<p>Copyright &copy; 2000-2015 by Anti-Social Music. All rights reserved. Like anyone looks at this.</p>
+	</div>
+</div>
+
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-17744388-1']);
+_gaq.push(['_trackPageview']);
+(function() {
+	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+</body>
+</html>

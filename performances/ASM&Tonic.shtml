@@ -1,0 +1,106 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<title>Gin and Tonic?  Try ASM and Tonic! (July 11, 2004) | Performances | Anti-Social Music</title>
+
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta http-equiv="imagetoolbar" content="false" />
+	<meta name="author" content="Anti-Social Music" />
+	<meta name="robots" content="index, follow" />
+	<meta http-equiv="X-UA-Compatible" content="IE=7" />
+	<meta property="og:site_name" content="Anti-Social Music" />
+	<meta property="og:url" content="http://www.antisocialmusic.org/performances/ASM&Tonic.shtml" />
+	<meta property="og:title" content="Gin and Tonic?  Try ASM and Tonic!" />
+	<meta property="og:image" content="http://www.antisocialmusic.org/ASM_social.jpg" />
+	<link rel="SHORTCUT ICON" href="/favicon.ico" type="image/x-icon" />
+	<link rel="image_src" href="http://www.antisocialmusic.org/ASM_social.jpg" />
+	<meta name="description" content="Anti-Social Music, Inc., is a non-profit collective of composers and performers created for the purpose of presenting new music by emerging, primarily New York-based musicians." />
+
+	<link rel="stylesheet" href="/styles/init.css" type="text/css" />
+	<link rel="stylesheet" href="/styles/subpage.css" type="text/css" />
+	<!--[if IE 6]>
+	<link rel="stylesheet" href="/styles/ie6.css" type="text/css" />
+	<![endif]-->
+	<!--[if IE 7]>
+	<link rel="stylesheet" href="/styles/ie7.css" type="text/css" />
+	<![endif]-->
+</head>
+<body>
+<div id="performancespage">
+	<div id="header">
+		<h1>Anti-Social Music</h1>
+		<h2>Past Performance</h2>
+		<p class="accessibility">Jump to <a href="#content">Content</a> or <a href="#navigation">Main Navigation</a></p>
+		<ul id="navigation">
+			<li id="home"><a href="/">Home</a></li>
+			<li id="performances"><a href="/Performances.shtml">Performances</a></li>
+			<li id="music"><a href="/Music.html">Music</a></li>
+			<li id="members"><a href="/Members.html">Members</a></li>
+			<li id="history"><a href="/History.html">History</a></li>
+			<li id="press"><a href="/Press.html">Press</a></li>
+			<li id="store"><a href="/Store.html">Store</a></li>
+		</ul>
+	</div>
+	<div id="content" class="clear">
+
+		<div class="column">
+			<div id="intro">
+
+<h3 class="verysmallprint">Gin and Tonic?  Try ASM and Tonic!</h3>
+<p class="download"><a target="bandcamp" href="http://antisocialmusic.bandcamp.com/album/gin-tonic-try-asm-tonic-tonic-7-11-04">STREAM/DOWNLOAD THIS SHOW</a></p>
+
+<p style="line-height:normal;margin-left:28px;margin-top:18px;">
+Anti-Social Music is putting on a show of exceptionally bad jokes just like this one, plus some music if we get around to it, at the one and only Tonic (that we're aware of).
+<br/><br/>
+Sunday July 11 @ <a href="http://www.tonicnyc.com/">Tonic</a> (107 Norfolk)<br/>
+Anti-Social Music<br/>
+Andrew Spencer<br/>
+Kristin Mueller<br/>
+8pm, $8
+</p>
+
+			</div>
+
+			<div id="details">
+
+<p>I mean, seriously, it's probably enough to get you to come when we say that singer/songwriters Kristin Mueller and Andrew Spencer are featured that night.  But in case it isn't, howzabout some ASMers joining Andrew Spencer on his set?  No?  How about a full set of ASM classics including <span class="worktitle">Dead Cat Bounce</span> by John Wriggle, <span class="worktitle">Trails of the Forlorn Dawn Donkey</span> by Dan Lasaga, <span class="worktitle">Anti-Social Wedding Music</span> by Franz Nicolay, and <span class="worktitle">PortRait_2,**NYC2k2</span> by Pat Muchmore?</p>
+
+<p>You haven't already booked it into your calendar?  What the hell? You guys are really busting our balls here...</p>
+
+<p>OK, OK, we'll throw in Andrea LaRose's <span class="worktitle">take out</span>.  It's never been on an ASM concert before.  And if you call within the next 10 minutes I'll even add the rarely heard Pat Muchmore piece, <span class="worktitle">Gumpdrops and Kittens</span>, previously only played at heavy metal and punk shows.</p>
+
+<p>That's right Alex!  You get the Andrew Spencer and Kristin Mueller sets, ASM guest appearances, ASM classics, and two new pieces you very likely have never heard before!  All for the low, low price of $8.  Act now, supply is limited, void where prohibited, VISA and MasterCard accepted, se habla espanol.  Guaranteed! (except for the VISA and MasterCard part)</p>
+
+			</div>
+		</div>
+
+		<div class="column">
+			<div id="photo">
+			</div>
+
+			<div id="pastperformances">
+<!--#INCLUDE VIRTUAL="/pastperformances.html"-->
+			</div>
+		</div>
+
+	</div>
+
+	<div id="footer">
+		<p>Copyright &copy; 2000-2015 by Anti-Social Music. All rights reserved. Like anyone looks at this.</p>
+	</div>
+</div>
+
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-17744388-1']);
+_gaq.push(['_trackPageview']);
+(function() {
+	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+</body>
+</html>
+	

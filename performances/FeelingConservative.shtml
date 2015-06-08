@@ -1,0 +1,122 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<title>Feeling Conservative? (November 10, 2007) | Performances | Anti-Social Music</title>
+
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta http-equiv="imagetoolbar" content="false" />
+	<meta name="author" content="Anti-Social Music" />
+	<meta name="robots" content="index, follow" />
+	<meta http-equiv="X-UA-Compatible" content="IE=7" />
+	<meta property="og:site_name" content="Anti-Social Music" />
+	<meta property="og:url" content="http://www.antisocialmusic.org/performances/FeelingConservative.shtml" />
+	<meta property="og:title" content="Feeling Conservative?" />
+	<meta property="og:image" content="http://www.antisocialmusic.org/ASM_social.jpg" />
+	<link rel="SHORTCUT ICON" href="/favicon.ico" type="image/x-icon" />
+	<link rel="image_src" href="http://www.antisocialmusic.org/ASM_social.jpg" />
+	<meta name="description" content="Anti-Social Music, Inc., is a non-profit collective of composers and performers created for the purpose of presenting new music by emerging, primarily New York-based musicians." />
+
+	<link rel="stylesheet" href="/styles/init.css" type="text/css" />
+	<link rel="stylesheet" href="/styles/subpage.css" type="text/css" />
+	<!--[if IE 6]>
+	<link rel="stylesheet" href="/styles/ie6.css" type="text/css" />
+	<![endif]-->
+	<!--[if IE 7]>
+	<link rel="stylesheet" href="/styles/ie7.css" type="text/css" />
+	<![endif]-->
+</head>
+<body>
+<div id="performancespage">
+	<div id="header">
+		<h1>Anti-Social Music</h1>
+		<h2>Past Performance</h2>
+		<p class="accessibility">Jump to <a href="#content">Content</a> or <a href="#navigation">Main Navigation</a></p>
+		<ul id="navigation">
+			<li id="home"><a href="/">Home</a></li>
+			<li id="performances"><a href="/Performances.shtml">Performances</a></li>
+			<li id="music"><a href="/Music.html">Music</a></li>
+			<li id="members"><a href="/Members.html">Members</a></li>
+			<li id="history"><a href="/History.html">History</a></li>
+			<li id="press"><a href="/Press.html">Press</a></li>
+			<li id="store"><a href="/Store.html">Store</a></li>
+		</ul>
+	</div>
+
+	<div id="content" class="clear">
+
+		<div class="column">
+			<div id="intro">
+
+<h3>Feeling Conservative?</h3>
+<p class="download"><a target="bandcamp" href="http://antisocialmusic.bandcamp.com/album/feeling-conservative-yippie-cafe-11-10-07">STREAM/DOWNLOAD THIS SHOW</a></p>
+
+			</div>
+
+			<div id="details">
+
+<p>
+The folks at Anti-Social Music are sick and tired of playing the fool.  That's right, our wild days are over. And no more of that peace, love, and happiness crap we were into this time last year. It's all about tradition, formality, proper behavior, and capitalism from now on.  You'll see. We've booked our flagship PREMIERES show at the posh and exclusive Yippie Museum Caf&eacute; -- be sure to wear evening gowns and tuxes (no cross dressing, you punks!). We've prepared only the finest in new Classical music that duly pays homage to the masters of our art.
+</p>
+
+<p>Behold:</p>
+<p>Anti-Social Music presents:<br/>
+<strong>The pre-ASM presents the Pat Muchmore show</strong>
+</p>
+
+<p>
+Saturday, November 10th at 8pm<br/>
+Yippie Museum Caf&eacute;<br/>
+9 Bleecker St, near Bowery in Manhattan<br/>
+Price? $9.99
+</p>
+
+<p>
+BDFV to Broadway/Lafayette<br/>
+6 to Bleecker
+</p>
+
+<p>Brand spanking new works composed by David Durst, Al Giusto, Pat Muchmore, Jonathan Vincent, Charles Waters, and John Wriggle</p>
+<p>Featuring the peerless talents of:</p>
+<p>John Altieri, Hubert Chen, Josh Camp, Leanne Darling, Al Giusto, Russ Kaplan, Andrea LaRose, Pat Muchmore, Eric Rockwin, Kamala Sankaram,Maria Sonevytsky, Andie Springer, Charles Waters, Peter Wise, and John Wriggle </p>
+<p>Art by Scrapworm</p>
+<p>Truly, the fact that we're playing a trio sonata by anyone should be enough proof that we are to be taken very, very seriously. So, stick your noses high in the air and come quaff coffee avec nous. Pip pip!</p>
+
+<p>Luv,<br/>ASM</p>
+
+<p>This show is made possible by support from the great folks at Meet the Composer/JPMorganChase Fund for Small Ensembles, NYSCA, and public funds from the New York City Department of Cultural Affairs.</p>
+
+			</div>
+		</div>
+
+		<div class="column">
+			<div id="photo">
+
+<img src="/images/performances/conservative.jpg" alt="picture of a certain conservative someone" title="my friends?" />
+
+			</div>
+
+			<div id="pastperformances">
+<!--#INCLUDE VIRTUAL="/pastperformances.html"-->
+			</div>
+		</div>
+
+	</div>
+
+	<div id="footer">
+		<p>Copyright &copy; 2000-2015 by Anti-Social Music. All rights reserved. Like anyone looks at this.</p>
+	</div>
+</div>
+
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-17744388-1']);
+_gaq.push(['_trackPageview']);
+(function() {
+	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+</body>
+</html>

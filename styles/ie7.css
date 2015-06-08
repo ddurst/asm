@@ -1,0 +1,127 @@
+#homepage {
+	padding-top: 15px;
+}
+#homepage #header ul {
+	left: 166px;
+	top: 0px;
+}
+#homepage #content #solicit {
+	margin-top: 35px;
+}
+#homepage #recordings-promo p {
+	width: 343px;
+}
+#homepage #news ul.schedule li {
+	font-size: 16px;
+}
+
+#navigation {
+	left: 102px;
+	position: absolute;
+	top: 7px;
+	width: 600px;
+}
+
+#presspage #content {
+	padding-top: 8px;
+}
+
+
+/* CONTENT ADJUSTMENTS */
+#morepresspage #header {
+	height: 229px;
+}
+#presspage p.lead,
+#morepresspage p.lead {
+padding-top: 48px;
+	background-position: 296px top;
+}
+
+#musicpage #content {
+width: 766px;
+}
+
+#musicpage p {
+/*
+float: left;
+padding-left: 0px;
+*/
+}
+
+#historypage #header {
+	height: 222px;
+}
+#historypage #section1 {
+	background-position: 49px top;
+}
+#historypage #section1 h3 {
+	margin-left: 0px;
+	padding-left: 9px;
+}
+
+#memberspage #header {
+	height: 230px;
+}
+#memberspage #section1 {
+	padding-left: 2px;
+}
+#memberspage #section2 {
+	padding-left: 2px;
+}
+#memberspage #section2 {
+	background-position: 2px bottom;
+}
+
+#friendspage #header {
+	height: 230px;
+}
+#friendspage #section1 {
+	padding-left: 3px;
+}
+#friendspage #section1 p {
+	font-size: 14px;
+}
+
+#memberssubpage #header {
+	height: 230px;
+}
+#memberssubpage #content {
+	background-position: 9px 1px;
+}
+#memberssubpage p, h3, h4, li {
+	font-size: 13px;
+}
+
+#performancespage #header {
+	height: 229px;
+}
+#performancespage #content {
+	background-position: 10px 0px;
+}
+#performancespage #photo {
+	zoom: 1;
+}
+#performancespage #intro{
+	padding-top: 5px;
+}
+
+#getinvolvedpage #header {
+	height: 222px;
+}
+#getinvolvedpage #header h2 {
+	background: url(/images/getinvolved_divider_0.jpg) 2px 7px no-repeat;
+	height: 91px;
+}
+#getinvolvedpage #section1 {
+	background-position: 49px top;
+}
+
+#storepage #header {
+	height: 226px;
+}
+#storepage #albums h3 {
+	background-position: 2px 0px;
+}
+#storepage #othercrap h3 {
+	background-position: 24px -3px;
+}

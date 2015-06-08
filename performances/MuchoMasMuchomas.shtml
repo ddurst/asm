@@ -1,0 +1,115 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<title>Mucho Mas Muchomas! (May 27, 2010) | Performances | Anti-Social Music</title>
+
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta http-equiv="imagetoolbar" content="false" />
+	<meta name="author" content="Anti-Social Music" />
+	<meta name="robots" content="index, follow" />
+	<meta http-equiv="X-UA-Compatible" content="IE=7" />
+	<meta property="og:site_name" content="Anti-Social Music" />
+	<meta property="og:url" content="http://www.antisocialmusic.org/performances/MuchoMasMuchomas.shtml" />
+	<meta property="og:title" content="Mucho Mas Muchomas!" />
+	<meta property="og:image" content="http://www.antisocialmusic.org/ASM_social.jpg" />
+	<link rel="SHORTCUT ICON" href="/favicon.ico" type="image/x-icon" />
+	<link rel="image_src" href="http://www.antisocialmusic.org/ASM_social.jpg" />
+	<meta name="description" content="Anti-Social Music, Inc., is a non-profit collective of composers and performers created for the purpose of presenting new music by emerging, primarily New York-based musicians." />
+
+	<link rel="stylesheet" href="/styles/init.css" type="text/css" />
+	<link rel="stylesheet" href="/styles/subpage.css" type="text/css" />
+	<!--[if IE 6]>
+	<link rel="stylesheet" href="/styles/ie6.css" type="text/css" />
+	<![endif]-->
+	<!--[if IE 7]>
+	<link rel="stylesheet" href="/styles/ie7.css" type="text/css" />
+	<![endif]-->
+</head>
+<body>
+<div id="performancespage">
+	<div id="header">
+		<h1>Anti-Social Music</h1>
+		<h2>Past Performance</h2>
+		<p class="accessibility">Jump to <a href="#content">Content</a> or <a href="#navigation">Main Navigation</a></p>
+		<ul id="navigation">
+			<li id="home"><a href="/">Home</a></li>
+			<li id="performances"><a href="/Performances.shtml">Performances</a></li>
+			<li id="music"><a href="/Music.html">Music</a></li>
+			<li id="members"><a href="/Members.html">Members</a></li>
+			<li id="history"><a href="/History.html">History</a></li>
+			<li id="press"><a href="/Press.html">Press</a></li>
+			<li id="store"><a href="/Store.html">Store</a></li>
+		</ul>
+	</div>
+
+	<div id="content" class="clear">
+
+		<div class="column">
+			<div id="intro">
+
+<h3>CD Release Party! <br/>Mucho Mas <br/>Muchomas!</h3>
+
+			</div>
+
+			<div id="details">
+
+<p>
+<strong>Mucho Mas Muchomas!<br/>
+CD RELEASE PARTY!<br/>
+Thursday, May 27th 2010<br/>
+8 PM<br/>
+Space #3 at Space on White<br/>
+81 White Street<br/>
+NY NY 10013<br/>
+take just about any train to Canal St.<br/>
+$14.99 for both admittance and a CD</strong><br/>
+</p>
+
+<p>
+We have a brand new CD coming out, entitled <strong>Fracture: The Music of Pat Muchmore</strong>, and like all things this is a perfect excuse to drink and play music.  Now, your traditional ensembles would simply play the pieces on the record and make you purchase a copy of the CD at a price above and beyond what you've already paid.  Not us!  A single payment of $14.99 gets you a copy of the album AND admittance to the Thursday, May 27th show, which show will feature versions of the tracklist personally mangled by our performers and composers. That's right! We brought good old Number 5's most-feared verb to bear on Pat's music:  DISASSEMBLE.  Hubert Chen, Kamala Sankaram, Jeff Hudgins, John Wriggle, Brad Kemp and David Durst have all taken one of Muchmore's pieces from the record and broken, fixed, truncated, lengthened, eviscerated and/or spat upon them, all for your viewing and listening pleasure.  We've had our way with him.  Hell, we even made him write this very concert announcement in a faux-<i>Virgin Suicides</i>-y first person plural.  Screw that guy.
+</p>
+
+<p>
+So come enjoy the lovely carnage in Space #3 at Space on White on 81 White Street.  We'll also have artwork by the one and only scrapworm&mdash;who designed the CD digipak&mdash;and a performace of an original, unmutilated piece for trombone and electronics written by Pat for trombonist Jen Baker. With new CDs, liquor, art, music and degradation, it's gotta be good.
+</p>
+
+<p>
+Love,<br/>
+ASM
+</p>
+
+			</div>
+		</div>
+
+		<div class="column">
+			<div id="photo">
+
+<img src="/images/performances/Muchomas.jpg" width="360" alt="muchomas collage" title="muchomas collage" />
+
+			</div>
+
+			<div id="pastperformances">
+<!--#INCLUDE VIRTUAL="/pastperformances.html"-->
+			</div>
+		</div>
+
+	</div>
+
+	<div id="footer">
+		<p>Copyright &copy; 2000-2015 by Anti-Social Music. All rights reserved. Like anyone looks at this.</p>
+	</div>
+</div>
+
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-17744388-1']);
+_gaq.push(['_trackPageview']);
+(function() {
+	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+</body>
+</html>

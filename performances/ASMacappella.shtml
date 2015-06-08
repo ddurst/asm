@@ -1,0 +1,110 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<title>A S M: A Ca Pe La (April 26, 2013) | Performances | Anti-Social Music</title>
+
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta http-equiv="imagetoolbar" content="false" />
+	<meta name="author" content="Anti-Social Music" />
+	<meta name="robots" content="index, follow" />
+	<meta http-equiv="X-UA-Compatible" content="IE=7" />
+	<meta property="og:site_name" content="Anti-Social Music" />
+	<meta property="og:url" content="http://www.antisocialmusic.org/performances/ASMacappella.shtml" />
+	<meta property="og:title" content="A S M: A Ca Pe La" />
+	<meta property="og:image" content="http://www.antisocialmusic.org/ASM_social.jpg" />
+	<link rel="SHORTCUT ICON" href="/favicon.ico" type="image/x-icon" />
+	<link rel="image_src" href="http://www.antisocialmusic.org/ASM_social.jpg" />
+	<meta name="description" content="Anti-Social Music, Inc., is a non-profit collective of composers and performers created for the purpose of presenting new music by emerging, primarily New York-based musicians." />
+
+	<link rel="stylesheet" href="/styles/init.css" type="text/css" />
+	<link rel="stylesheet" href="/styles/subpage.css" type="text/css" />
+	<!--[if IE 6]>
+	<link rel="stylesheet" href="/styles/ie6.css" type="text/css" />
+	<![endif]-->
+	<!--[if IE 7]>
+	<link rel="stylesheet" href="/styles/ie7.css" type="text/css" />
+	<![endif]-->
+</head>
+<body>
+<div id="performancespage">
+	<div id="header">
+		<h1>Anti-Social Music</h1>
+		<h2>Past Performance</h2>
+		<p class="accessibility">Jump to <a href="#content">Content</a> or <a href="#navigation">Main Navigation</a></p>
+		<ul id="navigation">
+			<li id="home"><a href="/">Home</a></li>
+			<li id="performances"><a href="/Performances.shtml">Performances</a></li>
+			<li id="music"><a href="/Music.html">Music</a></li>
+			<li id="members"><a href="/Members.html">Members</a></li>
+			<li id="history"><a href="/History.html">History</a></li>
+			<li id="press"><a href="/Press.html">Press</a></li>
+			<li id="store"><a href="/Store.html">Store</a></li>
+		</ul>
+	</div>
+
+	<div id="content" class="clear">
+
+		<div class="column">
+			<div id="intro">
+
+<h3>A CA PE LA</h3>
+<p style="font-size:14px;text-align:center;"><strong>Anti-Social Music + Opera On Tap's New Brew</strong></p>
+			</div>
+	
+			<div id="details">
+
+<p><b>Multiple OOTASMs!</b></p>
+<p><b>Anti-Vocal Music!</b></p>
+
+<p>That's right, it's another ASM + OOT joint. Only this time, ASM eschews instruments entirely and OOT brings the New Brew.</p>
+
+<p>Won't you join us as we present an evening of all world premieres, all a cappella, all totally bitchin'.</p>
+
+<p>
+	<b>Friday, April 26, 2013<br/>
+	8 pm<br/>
+	National Opera Center<br/>
+	330 Seventh Avenue, New York, NY 10001</b>
+</p>
+
+<p>
+	<b>Composed by the foolish and somewhat confident</b><br/>
+	David Durst: <span class="worktitle">Aurora</span><br/>
+	Jeff Hudgins: <span class="worktitle">Cane</span><br/>
+	Gilda Lyons: <span class="worktitle">The Prayer</span><br/>
+	Pat Muchmore: <span class="worktitle">GREEN_BLUE_BLUE(babel)</span><br/>
+	Paul Pinto: <span class="worktitle">Agnus Dei</span><br/>
+	Ed RosenBerg: <span class="worktitle">The Peace Place</span><br/>
+	Kamala Sankaram: <span class="worktitle">Baby</span>
+</p>
+
+<p>
+	<b>Performed by the very brave and exceedingly tolerant (and probably quite polite)</b><br/><br/>
+	New Brew represent! Kayleigh Butcher, Seth Gilman, David Gordon, Alex Guerrero, Anne Hiatt, Kamala Sankaram, and Delea Shand<br/><br/>
+	Anti-Social Music represent! Jeff Hudgins, Pat Muchmore, Ed RosenBerg
+</p>
+
+<p class="mediumprint">This program is supported, in part, by public funds from the New York City Department of Cultural Affairs, in partnership with the City Council, and in part with public funds from the New York State Council on the Arts, a state agency. Which is basically to say - your tax dollars at work. Yeah, frightening isn't it?</p>
+
+			</div>
+		</div>
+
+		<div class="column">
+			<div id="photo">
+			</div>
+	
+			<div id="pastperformances">
+<!--#INCLUDE VIRTUAL="/pastperformances.html"-->
+			</div>
+		</div>
+
+	</div>
+
+	<div id="footer">
+		<p>Copyright &copy; 2000-2015 by Anti-Social Music. All rights reserved. Like anyone looks at this.</p>
+	</div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,98 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<title>What's that Lassie? (August 24, 2002) | Performances | Anti-Social Music</title>
+
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta http-equiv="imagetoolbar" content="false" />
+	<meta name="author" content="Anti-Social Music" />
+	<meta name="robots" content="index, follow" />
+	<meta http-equiv="X-UA-Compatible" content="IE=7" />
+	<meta property="og:site_name" content="Anti-Social Music" />
+	<meta property="og:url" content="http://www.antisocialmusic.org/performances/Lassie.shtml" />
+	<meta property="og:title" content="What's that Lassie?" />
+	<meta property="og:image" content="http://www.antisocialmusic.org/ASM_social.jpg" />
+	<link rel="SHORTCUT ICON" href="/favicon.ico" type="image/x-icon" />
+	<link rel="image_src" href="http://www.antisocialmusic.org/ASM_social.jpg" />
+	<meta name="description" content="Anti-Social Music, Inc., is a non-profit collective of composers and performers created for the purpose of presenting new music by emerging, primarily New York-based musicians." />
+
+	<link rel="stylesheet" href="/styles/init.css" type="text/css" />
+	<link rel="stylesheet" href="/styles/subpage.css" type="text/css" />
+	<!--[if IE 6]>
+	<link rel="stylesheet" href="/styles/ie6.css" type="text/css" />
+	<![endif]-->
+	<!--[if IE 7]>
+	<link rel="stylesheet" href="/styles/ie7.css" type="text/css" />
+	<![endif]-->
+</head>
+<body>
+<div id="performancespage">
+	<div id="header">
+		<h1>Anti-Social Music</h1>
+		<h2>Past Performance</h2>
+		<p class="accessibility">Jump to <a href="#content">Content</a> or <a href="#navigation">Main Navigation</a></p>
+		<ul id="navigation">
+			<li id="home"><a href="/">Home</a></li>
+			<li id="performances"><a href="/Performances.shtml">Performances</a></li>
+			<li id="music"><a href="/Music.html">Music</a></li>
+			<li id="members"><a href="/Members.html">Members</a></li>
+			<li id="history"><a href="/History.html">History</a></li>
+			<li id="press"><a href="/Press.html">Press</a></li>
+			<li id="store"><a href="/Store.html">Store</a></li>
+		</ul>
+	</div>
+	<div id="content" class="clear">
+
+		<div class="column">
+			<div id="intro">
+
+<h3 class="verysmallprint">What's that Lassie?</h3>
+<p style="line-height:normal;margin-left:28px;margin-top:18px;">
+Anti-Social Music needs to be at Raw Space (543 W. 42nd St.) by Saturday, August 24th at 8pm to play in the <b>AugustArt Festival</b>?
+They're doing a full 90-minute set of ASM favorites including John Wriggle's <span class="worktitle">Dead Cat Bounce</span>, Peter Hess' <span class="worktitle">Trios I-III</span>, Dan Lasaga's <span class="worktitle">Parizade &amp; the Singing Tree</span>, Franz Nicolay's <span class="worktitle">...some time later...</span>?
+</p>
+
+			</div>
+
+			<div id="details">
+
+<p>I'm sorry, I didn't catch that. Louder, girl! They're even doing Pat Muchmore's <span class="worktitle">String Quartet No. 2</span>, never before heard in an ASM concert? Those poor children!</p>
+
+<p>Come again? Ken has already given up on this earthly life and is gnawing on Jean's elbow in a fit of despondent nihilistic hysteria? Well, we better hurry then! Go tell Grandpa to bring the winch around and lower them some hardtack.</p>
+
+<p>AugustArt info: 212-643-6399; <a href="http://www.augustart.com">www.augustart.com</a></p>
+
+<p>For more information, e-mail <a href="mailto:info@antisocialmusic.org">info@antisocialmusic.org</a>.</p>
+
+			</div>
+		</div>
+
+		<div class="column">
+			<div id="photo">
+			</div>
+
+			<div id="pastperformances">
+<!--#INCLUDE VIRTUAL="/pastperformances.html"-->
+			</div>
+		</div>
+
+	</div>
+
+	<div id="footer">
+		<p>Copyright &copy; 2000-2015 by Anti-Social Music. All rights reserved. Like anyone looks at this.</p>
+	</div>
+</div>
+
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-17744388-1']);
+_gaq.push(['_trackPageview']);
+(function() {
+	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+</body>
+</html>

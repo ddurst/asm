@@ -1,0 +1,120 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<title>Democracy! (March 25, 2010) | Performances | Anti-Social Music</title>
+
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta http-equiv="imagetoolbar" content="false" />
+	<meta name="author" content="Anti-Social Music" />
+	<meta name="robots" content="index, follow" />
+	<meta http-equiv="X-UA-Compatible" content="IE=7" />
+	<meta property="og:site_name" content="Anti-Social Music" />
+	<meta property="og:url" content="http://www.antisocialmusic.org/performances/Democracy.shtml" />
+	<meta property="og:title" content="Democracy!" />
+	<meta property="og:image" content="http://www.antisocialmusic.org/ASM_social.jpg" />
+	<link rel="SHORTCUT ICON" href="/favicon.ico" type="image/x-icon" />
+	<link rel="image_src" href="http://www.antisocialmusic.org/ASM_social.jpg" />
+	<meta name="description" content="Anti-Social Music, Inc., is a non-profit collective of composers and performers created for the purpose of presenting new music by emerging, primarily New York-based musicians." />
+
+	<link rel="stylesheet" href="/styles/init.css" type="text/css" />
+	<link rel="stylesheet" href="/styles/subpage.css" type="text/css" />
+	<!--[if IE 6]>
+	<link rel="stylesheet" href="/styles/ie6.css" type="text/css" />
+	<![endif]-->
+	<!--[if IE 7]>
+	<link rel="stylesheet" href="/styles/ie7.css" type="text/css" />
+	<![endif]-->
+</head>
+<body>
+<div id="performancespage">
+	<div id="header">
+		<h1>Anti-Social Music</h1>
+		<h2>Past Performance</h2>
+		<p class="accessibility">Jump to <a href="#content">Content</a> or <a href="#navigation">Main Navigation</a></p>
+		<ul id="navigation">
+			<li id="home"><a href="/">Home</a></li>
+			<li id="performances"><a href="/Performances.shtml">Performances</a></li>
+			<li id="music"><a href="/Music.html">Music</a></li>
+			<li id="members"><a href="/Members.html">Members</a></li>
+			<li id="history"><a href="/History.html">History</a></li>
+			<li id="press"><a href="/Press.html">Press</a></li>
+			<li id="store"><a href="/Store.html">Store</a></li>
+		</ul>
+	</div>
+
+	<div id="content" class="clear">
+
+		<div class="column">
+			<div id="intro">
+
+<h3>Anti-Social Music and Barry Seroff:<br/>Democracy!</h3>
+<p class="download"><a target="bandcamp" href="http://antisocialmusic.bandcamp.com/album/democracy-issue-project-room-3-25-10">STREAM/DOWNLOAD THIS SHOW</a></p>
+
+			</div>
+	
+			<div id="details">
+
+<p>
+<strong>March 25th 2010<br/>
+9 PM &ndash; 11 PM<br/>
+Issue Project Room<br/>
+<a href="http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Issue+Project+Room,+232+3rd+St.,+Brooklyn+NY&sll=40.674877,-73.987813&sspn=0.007226,0.01929&ie=UTF8&hq=Issue+Project+Room,&hnear=232+3rd+St,+Brooklyn,+NY+11215&ll=40.674877,-73.987813&spn=0.007226,0.01929&z=16" title="map it!" target="map">(OA Can Factory, 232 3rd St. in Brooklyn)</a><br/>
+$15</strong>
+</p>
+
+<p>
+On March 25th, Anti-Social Music will be reviving our most fervently democratic compositions, opening for the fabulous World Premiere of
+<strong>Barry Seroff's Quaker Cantata, <span class="worktitle">Democracy</span>.</strong>  We promise some classic pieces, many of which haven't been played for 
+years, such as Pat Muchmore's large-ensemble piece Fracture II, the first track on our first record.  We'll also be resurrecting some 
+tunes from our November 4th concert that got Obama elected, such as <strong>Andrea La Rose's <span class="worktitle">reminder</span></strong> and 
+<strong>Kamala Sankaram's <span class="worktitle">Bitter Suite</span></strong>.  Also scheduled to appear:  pieces by <strong>Peter Hess</strong>, 
+<strong>David Durst</strong> and <strong>Dan Lasaga</strong>.  Or maybe not, we'll probably just wing it like the true Americans we are.  
+We promise that every piece will have a connection to the Democracy theme or a painfully obvious confabulated simulacrum thereof.
+</p>
+
+<p>
+This is going to be a really fantastic show, and Barry's cooking up something spectacular for the main course.  <strong>Don't be like the majority
+of the American electorate!  Show up, damn it!  You will almost certainly never have a chance to hear some of the pieces ever again.
+Also, Pat's mom and sister will be there!</strong>  You want to meet them right?
+</p>
+
+<p>
+We love you,<br/>
+ASM
+</p>
+
+			</div>
+		</div>
+
+		<div class="column">
+			<div id="photo">
+
+<img src="/images/performances/democracy.gif" alt="awesomest illuminati pyramid ever" title="ASM + Democracy = New World Order" />
+
+			</div>
+	
+			<div id="pastperformances">
+<!--#INCLUDE VIRTUAL="/pastperformances.html"-->
+			</div>
+		</div>
+
+	</div>
+
+	<div id="footer">
+		<p>Copyright &copy; 2000-2015 by Anti-Social Music. All rights reserved. Like anyone looks at this.</p>
+	</div>
+</div>
+
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-17744388-1']);
+_gaq.push(['_trackPageview']);
+(function() {
+	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+</body>
+</html>

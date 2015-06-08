@@ -1,0 +1,1254 @@
+body {
+	background-color: rgb(255,255,255); /* #fff */
+	color: rgb(0,0,0); /* #000 */
+}
+
+/* GENERAL LINKS */
+a:link,
+a:visited,
+a:hover,
+a:active {
+	color: rgb(167,14,9); /* #a70e09 */
+	text-decoration: none;
+}
+a:visited {
+	color: rgb(92,124,163); /* #5c7ca3 */
+}
+a:active {
+	color: rgb(255,194,31); /* #ffc21f */
+}
+a:hover {
+	text-decoration: underline;
+}
+
+/* Float Clearing */
+.clear { zoom: 1; }
+.clear:after { clear: both; content: "."; display: block; height: 0; visibility: hidden; }
+
+/* Accessibility */
+.accessibility { left: -9999px; position: absolute; top: -9999px; }
+
+#presspage,
+#morepresspage,
+#musicpage,
+#historypage,
+#memberspage,
+#memberssubpage,
+#friendspage,
+#performancespage,
+#getinvolvedpage,
+#storepage {
+	font-family: Courier New,Courier,Monaco,serif;
+	font-weight: 400;
+	letter-spacing: normal;
+	margin: 0px auto;
+	padding: 8px 8px 2px 8px;
+	width: 766px;
+}
+
+
+/* HEADER: LOGO, NAVIGATION */
+#header {
+	height: 270px;
+	xmargin: 0px auto;
+	position: relative;
+}
+#presspage #header,
+#morepresspage #header {
+	height: 222px;
+}
+#musicpage #header {
+	height: 223px;
+}
+#historypage #header,
+#getinvolvedpage #header {
+	height: 215px;
+}
+#memberspage #header,
+#memberssubpage #header,
+#friendspage #header {
+	height: 223px;
+}
+#performancespage #header {
+	height: 222px;
+}
+#storepage #header {
+	height: 219px;
+}
+#header h2,
+#header h1 {
+	height: 0px;
+	left: -100px;
+	position: absolute;
+	text-indent: -999px;
+	top: -100px;
+	width: 0px;
+}
+#navigation {
+	height: 223px;
+	left: 100px;
+	margin: 0;
+	padding: 0;
+	position: absolute;
+}
+#navigation li {
+	display: block;
+	font-size: 10px;
+	line-height: 1;
+	margin: 0;
+	overflow: hidden;
+	position: absolute;
+	text-indent: -999px;
+}
+#header ul li a {
+	display: block;
+}
+#header ul li#home {
+	left: 195px;
+	top: 1px;
+}
+#header ul li#home a {
+	background: url(/images/logo_subpage.jpg) 0px 0px no-repeat;
+	height: 139px;
+	width: 125px;
+}
+
+
+/* press */
+#header ul li#press {
+	left: 314px;
+	top: 108px;
+}
+#header ul li#press a {
+	background: url(/images/nav_press.jpg) 0px 0px no-repeat;
+	height: 64px;
+	width: 101px;
+}
+#header ul li#press a:active,
+#header ul li#press a:hover {
+	background-position: 0px -64px;
+}
+/* press page(s) */
+#presspage #header ul li#press,
+#morepresspage #header ul li#press {
+	left: 179px;
+	top: 140px;
+}
+#presspage #header ul li#press a,
+#morepresspage #header ul li#press a {
+	background: url(/images/title_press.jpg) 0px 0px no-repeat;
+	height: 83px;
+	width: 141px;
+}
+#presspage #header ul li#press a:active,
+#presspage #header ul li#press a:hover,
+#morepresspage #header ul li#press a:active,
+#morepresspage #header ul li#press a:hover {
+	background: url(/images/title_press.jpg) 0px 0px no-repeat;
+}
+
+/* performances */
+#header ul li#performances {
+	left: 52px;
+	top: 1px;
+}
+#header ul li#performances a {
+	background: url(/images/nav_performances.jpg) 0px 0px no-repeat;
+	height: 49px;
+	width: 156px;
+}
+#header ul li#performances a:active,
+#header ul li#performances a:hover {
+	background-position: 0px -49px;
+}
+/* performances page */
+#performancespage #header ul li#performances {
+	left: 135px;
+	top: 140px;
+}
+#performancespage #header ul li#performances a {
+	background: url(/images/title_performances.jpg) 0px 0px no-repeat;
+	height: 82px;
+	width: 211px;
+}
+#performancespage #header ul li#performances a:active,
+#performancespage #header ul li#performances a:hover {
+	background: url(/images/title_performances.jpg) 0px 0px no-repeat;
+}
+#performancespage #navigation {
+	height: 216px;
+}
+
+/* music */
+#header ul li#music{
+	left: 24px; /* was 71 */
+	top: 127px; /* was 85 */
+}
+#header ul li#music a {
+	background: url(/images/nav_music.jpg) 0px 0px no-repeat;
+	height: 54px;
+	width: 108px;
+}
+#header ul li#music a:active,
+#header ul li#music a:hover {
+	background-position: 0px -54px;
+}
+/* music page */
+#musicpage #header ul li#music {
+	left: 167px;
+	top: 140px;
+}
+#musicpage #header ul li#music a {
+	background: url(/images/title_music.jpg) 0px 0px no-repeat;
+	height: 83px;
+	width: 163px;
+}
+#musicpage #header ul li#music a:active,
+#musicpage #header ul li#music a:hover {
+	background: url(/images/title_music.jpg) 0px 0px no-repeat;
+}
+
+/* members */
+#header ul li#members {
+	left: 325px;
+	top: 10px;
+}
+#header ul li#members a {
+	background: url(/images/nav_members.jpg) 0px 0px no-repeat;
+	height: 48px;
+	width: 131px;
+}
+#header ul li#members a:active,
+#header ul li#members a:hover {
+	background-position: 0px -48px;
+}
+/* members page */
+#memberspage #header ul li#members,
+#friendspage #header ul li#members,
+#memberssubpage #header ul li#members {
+	left: 151px;
+	top: 140px;
+}
+#memberspage #header ul li#members a,
+#friendspage #header ul li#members a {
+	background: url(/images/title_members_main.jpg) 0px 0px no-repeat;
+	height: 84px;
+	width: 165px;
+}
+#memberspage #header ul li#members a:active,
+#memberspage #header ul li#members a:hover,
+#friendspage #header ul li#members a:active,
+#friendspage #header ul li#members a:hover {
+	background: url(/images/title_members_main.jpg) 0px 0px no-repeat;
+}
+#memberspage #navigation,
+#friendspage #navigation,
+#memberssubpage #navigation {
+	height: 216px;
+}
+#memberssubpage #header ul li#members a {
+	background: url(/images/title_members_sub.jpg) 0px 0px no-repeat;
+	height: 84px;
+	width: 165px;
+}
+#memberssubpage #header ul li#members a:active,
+#memberssubpage #header ul li#members a:hover {
+	background: url(/images/title_members_sub.jpg) 0px 0px no-repeat;
+}
+
+/* store */
+#header ul li#store {
+	left: 80px;
+	top: 55px;
+}
+#header ul li#store a {
+	background: url(/images/nav_store.jpg) 0px 0px no-repeat;
+	height: 66px;
+	width: 90px;
+}
+#header ul li#store a:active,
+#header ul li#store a:hover {
+	background-position: 0px -66px;
+}
+
+/* store page */
+#storepage #header ul li#store {
+	left: 179px;
+	top: 140px;
+}
+#storepage #header ul li#store a {
+	background: url(/images/title_store.jpg) 0px 0px no-repeat;
+	height: 80px;
+	width: 111px;
+}
+#storepage #header ul li#store a:active,
+#storepage #header ul li#store a:hover {
+	background: url(/images/title_store.jpg) 0px 0px no-repeat;
+}
+
+/* history */
+#header ul li#history {
+	left: 344px;
+	top: 59px;
+}
+#header ul li#history a {
+	background: url(/images/nav_history.jpg) 0px 0px no-repeat;
+	height: 49px;
+	width: 125px;
+}
+#header ul li#history a:active,
+#header ul li#history a:hover {
+	background-position: 0px -49px;
+}
+/* history page */
+#historypage #header ul li#history {
+	left: 151px;
+	top: 140px;
+}
+#historypage #header ul li#history a {
+	background: url(/images/title_history.jpg) 0px 0px no-repeat;
+	height: 76px;
+	width: 187px;
+}
+#historypage #header ul li#history a:active,
+#historypage #header ul li#history a:hover {
+	background: url(/images/title_history.jpg) 0px 0px no-repeat;
+}
+#historypage #navigation {
+	height: 216px;
+}
+#getinvolvedpage #header h2 {
+	left: 308px;
+	top: 116px;
+	width: 106px;
+	background: url(/images/getinvolved_divider_0.jpg) 0px 0px no-repeat;
+	height: 84px;
+}
+
+/* CONTENT STYLES */
+#content {
+	font-size: 13px;
+	xmargin: 0px auto;
+	padding-top: 1px;
+}
+#musicpage #content {
+	padding-top: 0px;
+}
+#presspage #brief {
+	background: url(/images/subhd_raves_brief.jpg) 365px 0px no-repeat;
+	height: 25px;
+}
+#presspage #full {
+	background: url(/images/subhd_raves_full.jpg) 123px bottom no-repeat;
+	height: 25px;
+/*	margin-top: 0px;*/
+}
+#presspage #content ul {
+	background: url(/images/press_divider_2.jpg) 0px bottom no-repeat;
+	margin: 0px 0px 0px 0px;
+	padding: 2px 0px 143px 0px;
+	width: 766px;
+}
+#presspage #content ul li {
+	line-height: 16px;
+	padding: 18px 0px 0px 122px;
+	width: 350px;
+}
+#morepresspage .section1 {
+	background: url(/images/press_divider_1.jpg) 0px bottom no-repeat;
+	padding-bottom: 92px;
+	padding-left: 365px;
+}
+#morepresspage .section2 {
+	background: url(/images/press_divider_2.jpg) 0px bottom no-repeat;
+	padding-bottom: 143px;
+	padding-left: 123px;
+}
+#morepresspage .section3 {
+	background: url(/images/press_divider_3.jpg) 0px bottom no-repeat;
+	padding-bottom: 107px;
+	padding-left: 255px;
+}
+#morepresspage .section4 {
+	background: url(/images/press_divider_4.jpg) 0px bottom no-repeat;
+	padding-bottom: 125px;
+	padding-left: 24px;
+}
+#morepresspage .section5 {
+	background: url(/images/press_divider_5.jpg) 0px bottom no-repeat;
+	padding-bottom: 51px;
+	padding-left: 420px;
+}
+#presspage p,
+#morepresspage p {
+	line-height: 16px;
+	margin: 0;
+	padding: 12px 0px 5px 0px;
+	width: 350px;
+}
+#presspage p.intro,
+#morepresspage p.intro {
+	padding-left: 365px;
+	padding-top: 12px;
+}
+#presspage p.lead,
+#morepresspage p.lead {
+	background: url(/images/press_divider_0.jpg) 295px top no-repeat;
+	padding-top: 48px;
+}
+#morepresspage p.subtitle {
+	font-style: italic;
+	padding-bottom: 10px;
+}
+#presspage blockquote {
+	background: url(/images/press_background.gif) 365px bottom no-repeat;
+	margin: 0;
+	padding: 6px 0px 21px 365px;
+	width: 350px;
+}
+#presspage blockquote.last {
+	background: url(/images/press_divider_1.jpg) 0px bottom no-repeat;
+	padding-bottom: 92px;
+	padding-top: 0px;
+}
+#presspage blockquote p {
+	padding: 10px 0px 2px 0px;
+}
+#presspage blockquote cite {
+	display: block;
+	line-height: 16px;
+	padding-left: 150px;
+	width: 215px;
+}
+#presspage blockquote cite .publication {
+	font-style: italic;
+	font-weight: bold;
+}
+#presspage blockquote cite .station,
+#presspage blockquote cite .program,
+#presspage blockquote cite .website {
+	font-weight: bold;
+}
+#presspage h3,
+#morepresspage h3 {
+	display: block;
+	font-size: 10px;
+	line-height: 1;
+	margin: 0;
+	margin-top: 16px;
+	overflow: hidden;
+	padding: 0;
+	text-indent: -999px;
+	width: 766px;
+}
+#morepresspage h4 {
+	line-height: 16px;
+	margin: 0;
+	padding: 10px 0px 0px 0px;
+	width: 350px; /* 766 */
+}
+#morepresspage h4 span.publication,
+#morepresspage h4 span.website,
+#morepresspage h4 span.station {
+	font-style: italic;
+}
+#morepresspage blockquote {
+	margin-bottom: 0px;
+	margin-top: 0px;
+}
+#morepresspage blockquote cite {
+	display: block;
+	font-style: italic;
+	padding-top: 12px;
+}
+#morepresspage p.volume {
+	padding-bottom: 0px;
+}
+#morepresspage p.byline {
+	padding-bottom: 16px;
+	padding-top: 0px;
+}
+#morepresspage #NYP120604 h3 {
+	background: url(/images/logo_nyp.gif) 0px 0px no-repeat;
+	height: 93px;
+}
+#morepresspage #Newsday120504 h3 {
+	background: url(/images/logo_newsday.gif) 0px 0px no-repeat;
+	height: 52px;
+	margin-top: 0px;
+}
+#morepresspage #Newsday120504 h4 {
+	padding-top: 16px;
+}
+#morepresspage #AidAbet070502 h4,
+#morepresspage #AidAbet110505 h4,
+#morepresspage #Romine h4 {
+	padding-top: 20px;
+}
+#morepresspage #Maneri h4 em {
+	font-style: italic;
+	font-weight: bold;
+}
+#morepresspage #KnD091005 p {
+	padding-bottom: 10px;
+	padding-top: 1px;
+}
+#morepresspage #KnD091005 .website {
+	font-weight: bold;
+}
+#morepresspage #EPM110205 p.subtitle {
+	padding-bottom: 5px;
+}
+#morepresspage #RDW010406 p.subtitle,
+#morepresspage #RDW010406 p.byline {
+	padding: 0;
+}
+#morepresspage #section1 p,
+#morepresspage #section2 p,
+#morepresspage #section3 p,
+#morepresspage #section4 p,
+#morepresspage #section5 p {
+	font-family: serif;
+	font-size: 16px;
+	line-height: 20px;
+	padding-left: 0px;
+}
+#morepresspage #continue p {
+	padding-bottom: 0px;
+	padding-top: 0px;
+}
+#morepresspage #pressphotos ul,
+#morepresspage #pressphotos p {
+	padding: 0px 0px 20px 0px;
+	margin: 0px;
+	width: 766px;
+}
+#morepresspage #pressphotos p {
+	padding-bottom: 4px;
+	padding-top: 20px;
+}
+#pressphotos li {
+	padding: 4px 0px 4px 0px;
+}
+#morepresspage #pressphotos li a p {
+	font-family: serif;
+	font-size: 16px;
+	line-height: 20px;
+	padding-bottom: 30px;
+	padding-top: 4px;
+	text-decoration: underline;
+}
+#musicpage h3 {
+	display: block;
+	font-size: 10px;
+	line-height: 1;
+	margin: 0;
+	overflow: hidden;
+	padding: 0;
+	text-indent: -999px;
+}
+#musicpage #audio {
+	background: url(/images/music_divider_1.jpg) 0px bottom no-repeat;
+	float: left;
+	padding-bottom: 42px;
+	width: 370px;
+}
+#musicpage #video {
+	background: url(/images/music_divider_2.jpg) 0px bottom no-repeat;
+	float: left;
+	padding-bottom: 42px;
+	width: 395px;
+}
+#musicpage p {
+	line-height: 16px;
+	margin: 0px 0px 20px 0px;
+	text-align: left;
+}
+#musicpage #audio p {
+	padding-left: 17px;
+}
+#musicpage #video p {
+	padding-left: 28px;
+}
+
+#musicpage #content ul {
+	margin: 0;
+	padding: 0;
+}
+#musicpage #content li {
+	line-height: 16px;
+	margin-bottom: 16px;
+}
+#musicpage #content li.last {
+	margin-bottom: 3px;
+}
+#musicpage #audio ul {
+	padding: 3px 0px 0px 17px;
+}
+#musicpage #video ul {
+	padding: 3px 32px 0px 8px;
+	text-align: right;
+}
+#musicpage #audio h3 {
+	background: url(/images/subhd_music_audio.jpg) 0px 0px no-repeat;
+	height: 80px;
+	width: 370px;
+}
+#musicpage #video h3 {
+	background: url(/images/subhd_music_video.jpg) 0px 0px no-repeat;
+	height: 131px;
+	width: 395px;
+}
+#musicpage .title {
+	font-weight: bold;
+}
+#historypage {
+	font-size: 16px;
+}
+#historypage #section1 {
+	background: url(/images/history_divider_1.jpg) 48px top no-repeat;
+	padding-left: 50px;
+	padding-top: 51px;
+}
+#historypage #section1 h3 {
+	font-size: 18px;
+	line-height: 21px;
+	margin: 0px 0px 0px 9px;
+	width: 350px;
+}
+#historypage #section1 p {
+	background: url(/images/history_divider_2.jpg) -50px top no-repeat;
+	line-height: 16px;
+	margin: 0;
+	padding: 94px 0px 0px 300px;
+	width: 350px;
+}
+#historypage #section2 {
+	background: url(/images/history_divider_3.jpg) 0px top no-repeat;
+	padding-top: 143px;
+}
+#historypage #section2 p {
+	line-height: 16px;
+	margin: 0;
+	padding-left: 164px;
+	width: 350px;
+}
+#historypage #section3 {
+	background: url(/images/history_divider_4.jpg) 0px top no-repeat;
+	padding-top: 107px;
+}
+#historypage #section3 p {
+	line-height: 16px;
+	margin: 0;
+	padding-left: 104px;
+	width: 350px;
+}
+#historypage #section4 {
+	background: url(/images/history_divider_5.jpg) 0px top no-repeat;
+	padding-top: 129px;
+}
+#historypage #section4 p {
+	line-height: 16px;
+	margin: 0;
+	padding-left: 404px;
+	width: 350px;
+}
+#historypage #content {
+	background: url(/images/history_content_footer.jpg) 0px bottom no-repeat;
+	padding-bottom: 51px;
+}
+#memberssubpage #content {
+	background: url(/images/memberssub_divider_1.jpg) 7px 1px no-repeat;
+	padding-top: 64px;
+	xwidth: 766px;
+}
+#performancespage #content {
+	background: url(/images/performances_divider_1.jpg) 8px 0px no-repeat;
+	padding-top: 66px;
+	xwidth: 766px;
+}
+#memberspage h3,
+#friendspage h3 {
+	display: block;
+	font-size: 10px;
+	line-height: 1;
+	margin: 0;
+	overflow: hidden;
+	padding: 0;
+	text-indent: -999px;
+}
+#friendspage h4 {
+	margin: 24px 0px 0px 140px;
+	padding: 0;
+}
+#memberspage #section1 h3 {
+	background: url(/images/subhd_members_rundown.jpg) 193px top no-repeat;
+	height: 58px;
+	width: 100%;
+}
+#memberspage #section1 {
+	margin: 0;
+	padding: 0;
+}
+#memberspage #section1 ul {
+	font-size: 10px;
+	line-height: 13px;
+	margin: 2px 0px 0px 3px;
+	text-align: left;
+	width: 715px;
+}
+#memberspage #section1 ul li {
+	margin-bottom: 12px;
+}
+
+#memberspage #section2,
+#friendspage #section2 {
+	background: url(/images/members_divider_1.jpg) 0px bottom no-repeat;
+	padding: 3px 0px 39px 0px;
+}
+#memberspage #section2 h3 {
+	background: url(/images/subhd_members_members.jpg) 0px 0px no-repeat;
+	height: 143px;
+	width: 100%;
+}
+#memberspage #section2 ul,
+#friendspage #section2 ul {
+	margin: 17px 0px 0px 140px;
+	width: 350px;
+}
+#friendspage #section2 ul {
+	margin-top: 6px;
+	margin-bottom: 30px;
+}
+#memberspage #section2 li {
+	margin-bottom: 18px;
+}
+#friendspage #section2 li {
+	margin-bottom: 4px;
+}
+#memberspage #section2 p {
+	margin-left: 140px;
+	width: 280px;
+}
+#friendspage #section1 h3 {
+	background: url(/images/subhd_friends_prophecy.jpg) 193px top no-repeat;
+	height: 58px;
+	width: 100%;
+}
+#friendspage #section1 p {
+	font-size: 12px;
+	line-height: normal;
+	margin: 0px 0px 0px 10px;
+	padding: 0;
+	text-align: center;
+	width: 650px;
+}
+#friendspage #section2 h3 {
+	background: url(/images/subhd_friends_friends.jpg) 0px 0px no-repeat;
+	height: 143px;
+	width: 100%;
+}
+#memberssubpage p, h3, h4, li {
+	font-size: 13px;
+}
+#memberssubpage li,
+#memberssubpage p {
+	line-height: 16px;
+	margin: 0;
+}
+#memberssubpage h3 {
+	margin: 0;
+}
+#memberssubpage h4 {
+	font-style: italic;
+	font-weight: normal;
+	line-height: 16px;
+	margin: 0;
+	padding-left: 20px;
+	padding-top: 3px;
+}
+#memberssubpage .column {
+	float: left;
+	width: 383px;
+}
+#memberssubpage #bio_text {
+	background: url(/images/memberssub_divider_2.jpg) 0px bottom no-repeat;
+	padding: 0px 30px 132px 21px;
+	width: 330px;
+}
+#memberssubpage #bio_text p {
+	padding-top: 16px;
+}
+#memberssubpage #bio_photo,
+#memberssubpage #bio_haiku {
+	background: url(/images/memberssub_divider_3.jpg) 0px bottom no-repeat;
+	padding-bottom: 94px;
+	padding-left: 2px;
+}
+#memberssubpage #bio_photo {
+	text-align: center;
+}
+#memberssubpage #bio_photo p {
+	text-align: center;
+}
+#memberssubpage #bio_photo p.caption {
+	font-size: 10px;
+}
+#memberssubpage #bio_haiku p {
+	padding-bottom: 12px;
+	text-align: center;
+}
+#memberssubpage #bio_turntable {
+	background: url(/images/memberssub_divider_4.jpg) 0px bottom no-repeat;
+	padding: 10px 0px 50px 20px;
+	text-align: right;
+	width: 330px;
+}
+#memberssubpage #bio_haiku.bio_turntable {
+	background: url(/images/memberssub_divider_4.jpg) 0px bottom no-repeat;
+	padding: 10px 0px 50px 20px;
+}
+#memberssubpage #bio_haiku.bio_turntable p {
+	padding-right: 50px;
+	text-align: right;
+}
+#memberssubpage #bio_turntable p,
+#memberssubpage #bio_turntable ul {
+	margin: 0;
+	padding-right: 12px;
+}
+#memberssubpage #bio_turntable.freeform p,
+#memberssubpage #bio_turntable.freeform ul {
+	padding-bottom: 16px;
+}
+#memberssubpage #bio_link {
+	background: url(/images/memberssub_divider_5.jpg) 0px bottom no-repeat;
+	padding: 0px 30px 52px 21px;
+	text-align: center;
+	width: 330px;
+}
+#performancespage h3,
+#performancespage h4 {
+	margin: 0;
+}
+#performancespage .column {
+	float: left;
+	font-family: Courier New,Courier,Monaco;
+	width: 383px;
+}
+#performancespage #intro {
+	background: url(/images/performances_divider_2.jpg) 0px bottom no-repeat;
+	margin-top: -15px;
+	padding: 0px 0px 132px 0px;
+	width: 380px;
+}
+#performancespage #intro h3 {
+	font-size: 32px;
+	font-weight: bold;
+	text-align: center;
+}
+#performancespage #intro h3.largeprint {
+	font-size: 48px;
+}
+#performancespage #intro h3.smallprint {
+	font-size: 18px;
+}
+#performancespage #intro h3.verysmallprint {
+	font-size: 13px;
+	line-height: normal;
+	margin-left: 28px;
+	text-align: left;
+}
+#performancespage #intro h3.jazzy {
+	font-family: JazzText,Helvetica,Arial,Courier New,Courier,Monaco;
+	font-weight: normal;
+}
+#performancespage .download a,
+#performancespage .download a:visited {
+	color: rgb(227,135,0);
+}
+/*
+#pastperformances .download a:before,
+#pastperformances .download a::before {
+	content: "\25B6";
+	float: left;
+	font-size: 73.5%;
+	left: 0px;
+	padding-right: 3px;
+	position: relative;
+	top: 1px;
+}
+*/
+#performancespage #intro p.download {
+	font-weight: bold;
+	margin-top: 24px;
+	text-align: center;
+}
+#performancespage #intro .download a:hover {
+	text-decoration: none;
+}
+#performancespage #intro .download a:after,
+#performancespage #intro .download a::after {
+	content: "\25B6";
+	font-size: 73.5%;
+	padding-left: 3px;
+}
+#performancespage #details {
+	background: url(/images/performances_divider_5.jpg) 0px bottom no-repeat;
+	padding: 0px 0px 52px 0px;
+	width: 380px;
+}
+#performancespage #details p {
+	font-size: 14px;
+	line-height: 16px;
+	margin: 14px 0px 24px 0px;
+}
+#performancespage #details ul {
+	font-size: 14px;
+	line-height: 16px;
+	list-style-position: outside;
+	list-style-type: disc;
+	margin-left: 40px;
+}
+#performancespage #details ul.insidelist {
+	list-style-position: inside;
+	list-style-type: square;
+	margin-left: 0px;
+}
+#performancespage #details li {
+	margin-bottom: 6px;
+}
+#performancespage #details ul.insidelist li {
+	font-size: 14px;
+	line-height: 16px;
+	margin-bottom: 24px;
+}
+#performancespage #details ol {
+	font-size: 14px;
+	line-height: 16px;
+	list-style-position: outside;
+	list-style-type: square;
+	margin-left: 30px;
+}
+#performancespage #details ol li {
+	margin-bottom: 13px;
+}
+#performancespage span.worktitle {
+	font-style: italic;
+}
+#performancespage span.clean {
+	font-style: normal !important;
+}
+#performancespage ul.insidelist span.worktitle {
+	font-style: normal;
+	font-weight: bold;
+}
+
+#performancespage #photo {
+	background: url(/images/performances_divider_3.jpg) 0px bottom no-repeat;
+	padding-bottom: 94px;
+	padding-left: 2px;
+	text-align: center;
+}
+#performancespage #release,
+#performancespage #pastperformances {
+	background: url(/images/performances_divider_4.jpg) 0px bottom no-repeat;
+	padding: 4px 30px 52px 34px;
+	width: 330px;
+}
+#performancespage #release h4,
+#performancespage #release p,
+#performancespage #release li,
+#performancespage #pastperformances h4,
+#performancespage #pastperformances p {
+	font-size: 13px;
+	line-height: 16px;
+}
+#performancespage #release h4 {
+	font-weight: bold;
+	text-align: center;
+}
+#performancespage #release p {
+	font-weight: normal;
+}
+#performancespage #pastperformances h4,
+#performancespage #pastperformances p {
+	font-weight: bold;
+}
+#performancespage #pastperformances li {
+	color: rgb(170,170,170);
+	font-size: 13px;
+	line-height: 14px;
+	margin-bottom: 16px;
+}
+#performancespage #pastperformances li a {
+	display: block;
+	font-weight: normal;
+}
+#performancespage #details ul.upcomingperformances {
+	list-style: none;
+	margin: 0;
+	margin-bottom: 20px;
+	padding: 0;
+}
+ul.upcomingperformances li {
+	display: block;
+	font-size: 16px;
+	margin-bottom: 25px;
+	margin-top: 22px;
+	line-height: 24px;
+}
+ul.upcomingperformances li a {
+	font-weight: bold;
+	line-height: 24px;
+}
+ul.upcomingperformances .showtitle {
+	color: rgb(34,34,34); /* #222 */
+	display: block;
+	font-size: 20px;
+	font-weight: bold;
+	line-height: 20px;
+}
+
+#performancespage #details p.faint {
+	color: rgb(204,204,204); /* #ccc */
+}
+#performancespage #details p.pretty {
+	font-family: Times New Roman,Times,CG Times,serif;
+	font-size: 16px;
+	line-height: normal;
+	margin-bottom: 16px;
+}
+#performancespage #details p.smallprint {
+	font-size: 11px;
+	line-height: 14px;
+}
+#performancespage #details p.mediumprint {
+	font-size: 12px;
+	line-height: 16px;
+}
+#performancespage #details p.largeprint {
+	font-size: 16px;
+	line-height: 20px;
+	margin-bottom: 14px;
+}
+#performancespage #details .largeprint {
+	font-size: 18px;
+}
+#performancespage #details .verylargeprint {
+	font-size: 32px;
+}
+#performancespage #details .jazzy {
+	font-family: JazzText,Helvetica,Arial,Courier New,Courier,Monaco;
+}
+#performancespage #details em {
+	font-style: italic;
+}
+#performancespage #details blockquote p {
+	font-style: italic;
+}
+#performancespage #details dl {
+	line-height: normal;
+}
+#performancespage #details dt {
+	font-style: italic;
+	font-weight: bold;
+}
+#performancespage #details dd {
+	margin-bottom: 32px;
+	margin-left: 40px;
+}
+
+#getinvolvedpage #section1 {
+	background: url(/images/getinvolved_divider_1.jpg) 48px top no-repeat;
+	padding-left: 50px;
+	padding-top: 51px;
+}
+#getinvolvedpage #section1 h3 {
+	font-size: 13px;
+	font-weight: normal;
+	line-height: normal;
+	margin: 0px 0px 0px 9px;
+	width: 350px;
+}
+#getinvolvedpage #section1 p {
+	background: url(/images/getinvolved_divider_2.jpg) -50px top no-repeat;
+	line-height: 16px;
+	margin: 0;
+	padding: 94px 0px 0px 300px;
+	width: 350px;
+}
+#getinvolvedpage #section2 {
+	background: url(/images/getinvolved_divider_3.jpg) 0px top no-repeat;
+	padding-top: 143px;
+}
+#getinvolvedpage #section2 p {
+	line-height: normal;
+	margin: 0;
+	margin-bottom: 14px;
+	padding-left: 164px;
+	width: 350px;
+}
+#getinvolvedpage #section3 {
+	background: url(/images/getinvolved_divider_4.jpg) 0px top no-repeat;
+	padding-top: 107px;
+}
+#getinvolvedpage #section3 p {
+	line-height: normal;
+	margin: 0;
+	margin-bottom: 14px;
+	padding-left: 104px;
+	width: 350px;
+}
+#getinvolvedpage #section3 ol {
+	list-style-position: inside;
+	list-style-type: decimal;
+	margin: 0;
+	padding-left: 104px;
+	width: 350px;
+}
+#getinvolvedpage #section3 li {
+	font-size: 13px;
+	line-height: normal;
+	margin-bottom: 14px;
+	padding: 0;
+}
+
+#getinvolvedpage #section4 {
+	background: url(/images/getinvolved_divider_5.jpg) 0px top no-repeat;
+	padding-top: 129px;
+}
+#getinvolvedpage #section4 p {
+	line-height: 16px;
+	margin: 0;
+	padding-left: 444px;
+	width: 350px;
+}
+#getinvolvedpage #content {
+	background: url(/images/getinvolved_content_footer.jpg) 0px bottom no-repeat;
+	padding-bottom: 51px;
+}
+
+#storepage h3 {
+	display: block;
+	font-size: 10px;
+	line-height: 1;
+	margin: 0;
+	overflow: hidden;
+	padding: 0;
+	text-indent: -999px;
+}
+#storepage #albums {
+	background: url(/images/store_divider_1.jpg) 0px bottom no-repeat;
+	float: left;
+	padding-bottom: 42px;
+	width: 370px;
+}
+#storepage #othercrap {
+	background: url(/images/store_divider_2.jpg) 0px bottom no-repeat;
+	float: left;
+	margin-top: 22px;
+	padding-bottom: 42px;
+	padding-left: 30px;
+	width: 364px;
+}
+#storepage #albums h3 {
+	background: url(/images/subhd_store_albums.jpg) 0px 0px no-repeat;
+	height: 83px;
+	width: 394px;
+}
+#storepage span.worktitle {
+	font-style: italic;
+}
+#storepage span.worktitle_muchmore {
+	font-style: normal;
+}
+#storepage h4 span.worktitle {
+	display: block;
+}
+#storepage h4 {
+	line-height: 16px;
+	margin-bottom: 4px;
+}
+
+#storepage #albums {
+	font-size: 14px;
+}
+#storepage #albums h4,
+#storepage #albums p {
+	font-size: 13px;
+	padding-left: 16px;
+}
+#storepage #albums .info {
+	margin-bottom: 20px;
+	margin-top: 0;
+}
+#storepage #albums div {
+	margin-bottom: 34px;
+	padding-bottom: 2px;
+	background: url(/images/store_background.gif) 0px bottom no-repeat;
+}
+#storepage #albums img {
+	float: left;
+	margin-left: 16px;
+}
+#storepage #albums #Fracture img {
+	width: 93px;
+}
+#storepage #albums #GreatAmericanSongbook img {
+	width: 92px;
+}
+#storepage #albums #NitrateHymnal img {
+	border: 1px solid rgb(136,136,136); /* #888 */
+	width: 92px;
+}
+#storepage #albums p.tracks,
+#storepage #albums ul {
+	line-height: 15px;
+	padding-left: 115px;
+}
+#storepage #albums p.buynow {
+	font-size: 15px;
+	font-weight: bold;
+	margin: 20px 0 20px 0;
+	padding-left: 0;
+	text-align: center;
+}
+#storepage #albums li {
+	font-family: Times New Roman,Times,CG Times,serif;
+	font-size: 14px;
+	margin-bottom: 12px;
+}
+
+#storepage #othercrap h3 {
+	background: url(/images/subhd_store_othercrap.jpg) 24px -4px no-repeat;
+	height: 112px;
+	width: 352px;
+}
+#storepage #othercrap p {
+	font-size: 14px;
+	padding: 5px 32px 0px 0px;
+}
+#othercrap img {
+	margin-left: 10px;
+	margin-bottom: 10px;
+}
+#othercrap img.bordered {
+	border: 1px solid rgb(0,0,0); /* #000 */
+}
+#storepage #othercrap h4 {
+	margin-top: 30px;
+}
+
+/* FOOTER */
+#footer {
+	color: rgb(248,248,248); /* #f8f8f8 */
+	font-size: 11px;
+	xmargin: 0px auto;
+	text-align: center;
+}
+#footer p {
+	margin: 0 auto;
+	padding: 0;
+	xwidth: 766px;
+}

@@ -1,0 +1,116 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<title>Glue Gun Optimism + ASM (December 15, 2013) | Performances | Anti-Social Music</title>
+
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta http-equiv="imagetoolbar" content="false" />
+	<meta name="author" content="Anti-Social Music" />
+	<meta name="robots" content="index, follow" />
+	<meta http-equiv="X-UA-Compatible" content="IE=7" />
+	<meta property="og:site_name" content="Anti-Social Music" />
+	<meta property="og:url" content="http://www.antisocialmusic.org/performances/GlueGunning.shtml" />
+	<meta property="og:title" content="Glue Gun Optimism + ASM" />
+	<meta property="og:image" content="http://www.antisocialmusic.org/ASM_social.jpg" />
+	<link rel="SHORTCUT ICON" href="/favicon.ico" type="image/x-icon" />
+	<link rel="image_src" href="http://www.antisocialmusic.org/ASM_social.jpg" />
+	<meta name="description" content="Anti-Social Music, Inc., is a non-profit collective of composers and performers created for the purpose of presenting new music by emerging, primarily New York-based musicians." />
+
+	<link rel="stylesheet" href="/styles/init.css" type="text/css" />
+	<link rel="stylesheet" href="/styles/subpage.css" type="text/css" />
+	<!--[if IE 6]>
+	<link rel="stylesheet" href="/styles/ie6.css" type="text/css" />
+	<![endif]-->
+	<!--[if IE 7]>
+	<link rel="stylesheet" href="/styles/ie7.css" type="text/css" />
+	<![endif]-->
+</head>
+<body>
+<div id="performancespage">
+	<div id="header">
+		<h1>Anti-Social Music</h1>
+		<h2>Past Performance</h2>
+		<p class="accessibility">Jump to <a href="#content">Content</a> or <a href="#navigation">Main Navigation</a></p>
+		<ul id="navigation">
+			<li id="home"><a href="/">Home</a></li>
+			<li id="performances"><a href="/Performances.shtml">Performances</a></li>
+			<li id="music"><a href="/Music.html">Music</a></li>
+			<li id="members"><a href="/Members.html">Members</a></li>
+			<li id="history"><a href="/History.html">History</a></li>
+			<li id="press"><a href="/Press.html">Press</a></li>
+			<li id="store"><a href="/Store.html">Store</a></li>
+		</ul>
+	</div>
+
+	<div id="content" class="clear">
+
+		<div class="column">
+			<div id="intro">
+
+<h3>Glue Gun Optimism + ASM</h3>
+
+			</div>
+	
+			<div id="details">
+
+<p>
+<strong>Anti-Social Music and Ed RosenBerg's Glue Gun Optimism will be performing separately.... and then together.</strong>
+</p>
+
+<p>
+Anti-Social Music will play a Whitmans's sampler of duo and trio madness, featuring Jean Cook (violin), Hubert Chen (violin), Pat Muchmore (Cello), Brad Kemp (Contrabass), Ed Rosenberg (various reeds).</p>
+
+<ul>
+	<li><span class="worktitle">Concerto for Anyone</span> by ...  anyone!</li>
+	<li>selections from <span class="worktitle">Fr.V.a–m</span> by Ed and Pat!</li>
+	<li><span class="worktitle">Fr.VI.a–j</span> by Brad and Pat!</li>
+	<li>A trio of Brad Kemp's by Brad, Pat, and Ed!</li>  
+	<li>A duet of Ed's by Pat and Ed!</li>
+	<li>Possibly <span class="worktitle">Vafþruðnismal</span> if Pat and Hu want to do it!</li>
+	<li>And concluding with ASM joining GGO for a group rendition of Ed's piece <span class="worktitle">Gore</span>!</li>
+</ul>
+
+<p>
+<a href="http://gluegunoptimism.com" target="glue">Glue Gun Optimism</a>, featuring James Hirschfeld, Alex Wyatt, Simon Jermyn, Landon Knoblock and Ed RosenBerg will play selections from their debut album, <span class="worktitle">The Warming</span>, as well as several brand new compositions. 
+</p>
+
+<p>
+<b>Sunday, December 15, 2013<br/>
+7-8 pm: ASM<br/>
+8-9 pm: GGO<br/>
+9:30 sharp: show will end!</b><br/>
+<br/>
+<strong>Spectrum</strong><br/>
+121 Ludlow St, Second Floor<br/>
+New York, NY 10002<br/>
+<br/>
+<b>directions: F to Delancy St or J/M to Essex St, a short walk to Ludlow, then head towards Houston</b>
+</p>
+
+<p class="mediumprint">This program is supported, in part, by public funds from the New York City Department of Cultural Affairs, in partnership with the City Council, and in part with public funds from the New York State Council on the Arts, a state agency. Which is basically to say - your tax dollars at work. Yeah, frightening isn't it?</p>
+
+			</div>
+		</div>
+
+		<div class="column">
+			<div id="photo">
+
+<img src="/images/performances/GGOASM.jpg" alt="GGO + ASM" title="No messing around: it's Glue Gun Optimism + Anti-Social Music" />
+
+			</div>
+	
+			<div id="pastperformances">
+<!--#INCLUDE VIRTUAL="/pastperformances.html"-->
+			</div>
+		</div>
+
+	</div>
+
+	<div id="footer">
+		<p>Copyright &copy; 2000-2015 by Anti-Social Music. All rights reserved. Like anyone looks at this.</p>
+	</div>
+</div>
+
+</body>
+</html>

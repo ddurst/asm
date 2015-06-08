@@ -1,0 +1,104 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<title>Big Pieces For Small Groups (February 23, 2014) | Performances | Anti-Social Music</title>
+
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta http-equiv="imagetoolbar" content="false" />
+	<meta name="author" content="Anti-Social Music" />
+	<meta name="robots" content="index, follow" />
+	<meta http-equiv="X-UA-Compatible" content="IE=7" />
+	<meta property="og:site_name" content="Anti-Social Music" />
+	<meta property="og:url" content="http://www.antisocialmusic.org/performances/BigAndSmall.shtml" />
+	<meta property="og:title" content="Big Pieces For Small Groups" />
+	<meta property="og:image" content="http://www.antisocialmusic.org/ASM_social.jpg" />
+	<link rel="SHORTCUT ICON" href="/favicon.ico" type="image/x-icon" />
+	<link rel="image_src" href="http://www.antisocialmusic.org/ASM_social.jpg" />
+	<meta name="description" content="Anti-Social Music, Inc., is a non-profit collective of composers and performers created for the purpose of presenting new music by emerging, primarily New York-based musicians." />
+
+	<link rel="stylesheet" href="/styles/init.css" type="text/css" />
+	<link rel="stylesheet" href="/styles/subpage.css" type="text/css" />
+	<!--[if IE 6]>
+	<link rel="stylesheet" href="/styles/ie6.css" type="text/css" />
+	<![endif]-->
+	<!--[if IE 7]>
+	<link rel="stylesheet" href="/styles/ie7.css" type="text/css" />
+	<![endif]-->
+</head>
+<body>
+<div id="performancespage">
+	<div id="header">
+		<h1>Anti-Social Music</h1>
+		<h2>Past Performance</h2>
+		<p class="accessibility">Jump to <a href="#content">Content</a> or <a href="#navigation">Main Navigation</a></p>
+		<ul id="navigation">
+			<li id="home"><a href="/">Home</a></li>
+			<li id="performances"><a href="/Performances.shtml">Performances</a></li>
+			<li id="music"><a href="/Music.html">Music</a></li>
+			<li id="members"><a href="/Members.html">Members</a></li>
+			<li id="history"><a href="/History.html">History</a></li>
+			<li id="press"><a href="/Press.html">Press</a></li>
+			<li id="store"><a href="/Store.html">Store</a></li>
+		</ul>
+	</div>
+
+	<div id="content" class="clear">
+
+		<div class="column">
+			<div id="intro">
+
+<h3>Big Pieces For Small Groups</h3>
+
+			</div>
+	
+			<div id="details">
+
+<p>
+<strong>Due to technical difficulties, we had to postpone our January 17 show. The new date is February 23.</strong>
+</p>
+
+<p>
+Anti-Social Music will play a night of <strong>world premieres</strong> with a catch: only small ensembles, and no piece is over seven minutes long. So, it's "big" in the sense that it's momentous, and "small" in the sense that they are more focused, svelte works and groups.</p>
+
+<p class="largeprint"><b>There will be WORLD PREMIERES by Dan Lasaga, Pat Muchmore, Ed Rosenberg, Charles Waters, and John Wriggle!</b></p>
+
+<p class="smallprint"><b>Ensembles consisting of cello, clarinet, saxophone, violin, and piano!</b></p>
+
+<p class="largeprint"><b>Sunday, February 23, 2014
+	8 pm<br/>
+	Greenwich House Music School<br/>
+	46 Barrow Street, New York, NY 10014</b>
+</p>
+
+<p class="smallprint">We promise we won't postpone this one, because we have a busy Spring coming up.</p>
+
+<p class="largeprint"><b>Performed by the attractive, educated, and dextrous Hubert Chen, Jean Cook, Domenica Fossati, Dan Lasaga, Pat Muchmore, Ed Rosenberg, and Charles Waters!</b></p>
+
+<p class="mediumprint">This program is supported, in part, by public funds from the New York City Department of Cultural Affairs, in partnership with the City Council, and in part with public funds from the New York State Council on the Arts, a state agency. Which is basically to say - your tax dollars at work. Yeah, frightening isn't it?</p>
+
+			</div>
+		</div>
+
+		<div class="column">
+			<div id="photo">
+<!--
+<img src="/images/performances/..." alt="..." title="..." />
+-->
+
+			</div>
+	
+			<div id="pastperformances">
+<!--#INCLUDE VIRTUAL="/pastperformances.html"-->
+			</div>
+		</div>
+
+	</div>
+
+	<div id="footer">
+		<p>Copyright &copy; 2000-2015 by Anti-Social Music. All rights reserved. Like anyone looks at this.</p>
+	</div>
+</div>
+
+</body>
+</html>

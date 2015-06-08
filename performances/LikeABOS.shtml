@@ -1,0 +1,112 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<title>ASMin' like a BOS (Bushwick Open Studios) (May 31, 2014) | Performances | Anti-Social Music</title>
+
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta http-equiv="imagetoolbar" content="false" />
+	<meta name="author" content="Anti-Social Music" />
+	<meta name="robots" content="index, follow" />
+	<meta http-equiv="X-UA-Compatible" content="IE=7" />
+	<meta property="og:site_name" content="Anti-Social Music" />
+	<meta property="og:url" content="http://www.antisocialmusic.org/performances/LikeABOS.shtml" />
+	<meta property="og:title" content="ASMin' like a BOS" />
+	<meta property="og:image" content="http://www.antisocialmusic.org/ASM_social.jpg" />
+	<link rel="SHORTCUT ICON" href="/favicon.ico" type="image/x-icon" />
+	<link rel="image_src" href="http://www.antisocialmusic.org/ASM_social.jpg" />
+	<meta name="description" content="Anti-Social Music, Inc., is a non-profit collective of composers and performers created for the purpose of presenting new music by emerging, primarily New York-based musicians." />
+
+	<link rel="stylesheet" href="/styles/init.css" type="text/css" />
+	<link rel="stylesheet" href="/styles/subpage.css" type="text/css" />
+	<!--[if IE 6]>
+	<link rel="stylesheet" href="/styles/ie6.css" type="text/css" />
+	<![endif]-->
+	<!--[if IE 7]>
+	<link rel="stylesheet" href="/styles/ie7.css" type="text/css" />
+	<![endif]-->
+</head>
+<body>
+<div id="performancespage">
+	<div id="header">
+		<h1>Anti-Social Music</h1>
+		<h2>Past Performance</h2>
+		<p class="accessibility">Jump to <a href="#content">Content</a> or <a href="#navigation">Main Navigation</a></p>
+		<ul id="navigation">
+			<li id="home"><a href="/">Home</a></li>
+			<li id="performances"><a href="/Performances.shtml">Performances</a></li>
+			<li id="music"><a href="/Music.html">Music</a></li>
+			<li id="members"><a href="/Members.html">Members</a></li>
+			<li id="history"><a href="/History.html">History</a></li>
+			<li id="press"><a href="/Press.html">Press</a></li>
+			<li id="store"><a href="/Store.html">Store</a></li>
+		</ul>
+	</div>
+
+	<div id="content" class="clear">
+
+		<div class="column">
+			<div id="intro">
+
+<h3>ASMin' like a BOS (Bushwick Open Studios)</h3>
+<h3 class="smallprint">curated by Spread Art and ThingNY</h3>
+			</div>
+	
+			<div id="details">
+
+<p>
+So we got this email offering us a chance to play outside. Must be in the afternoon. Must be acoustic. In three weeks.<br/>
+<br/>
+We like acoustic. And we like outside. And we like the afternoon.<br/>
+<br/>
+Also, we can do this sh*t in our sleep. Because AWESOMENESS.
+</p>
+
+<p>
+thingNY and Spread Art (Detroit) are curating this outdoor event, and we're gonna drop in and throw down. Just a quick little show-you-how-it's-done to get you all fired up for the spectacle that is June.
+</p>
+
+<p>
+There will be food trucks and porta potties organized by Pine Box Rock Shop (on the same block), Spread Art will be there with their truck with a piano soundboard mounted on an A-frame that can detach and be pushed around the block, Shua Group will be creating a river of plastic bottles, another artist group will be there with their bus, and there will be a dance performance.<br/>
+<br/>
+And that's <em>not even including performances by thingNY and ASM</em>, which will also happen.
+</p>
+
+<p>And if you think <strong>that</strong> is all, let me school you on something else: it's free. Yes, <strong>FREE</strong>.</p>
+
+<p>
+So. If you like outside, afternoon, acousticosity, and freeness, you have no possible excuse to not check out this total awesomeness.
+</p>
+
+<p class="largeprint"><b>Saturday, May 31, 2014<br/>
+	3 pm<br/>
+	Bushwick Open Studios<br/>
+	Grattan St. between Bogart St. and Morgan Ave (take the L to Montrose)<br/>
+	FREE</b>
+</p>
+
+<p class="smallprint">This program is supported, in part, by public funds from the New York City Department of Cultural Affairs, in partnership with the City Council, and in part with public funds from the New York State Council on the Arts, a state agency. Which is basically to say - your tax dollars at work. Yeah, frightening isn't it?</p>
+
+			</div>
+		</div>
+
+		<div class="column">
+			<div id="photo">
+<img src="/images/performances/likeaboss.jpg" alt="LIKE A BOSS" title="Mandatory meme insert" />
+
+			</div>
+	
+			<div id="pastperformances">
+<!--#INCLUDE VIRTUAL="/pastperformances.html"-->
+			</div>
+		</div>
+
+	</div>
+
+	<div id="footer">
+		<p>Copyright &copy; 2000-2015 by Anti-Social Music. All rights reserved. Like anyone looks at this.</p>
+	</div>
+</div>
+
+</body>
+</html>

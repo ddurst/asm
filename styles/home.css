@@ -1,0 +1,418 @@
+body {
+	background-color: #fff;
+	color: #222;
+}
+
+/* GENERAL LINKS */
+a:link,
+a:visited,
+a:hover,
+a:active {
+	color: #a70e09;
+	text-decoration: none;
+}
+a:visited {
+	color: #5c7ca3;
+}
+a:active {
+	color: #ffc21f;
+}
+a:hover {
+	text-decoration: underline;
+}
+
+/* Float Clearing */
+.clear { zoom: 1; }
+.clear:after { clear: both; content: "."; display: block; height: 0; visibility: hidden; }
+
+/* Accessibility */
+.accessibility { left: -9999px; position: absolute; top: -9999px; }
+
+#homepage {
+	font-family: Courier New,Courier,Monaco,serif;
+	font-weight: 400;
+	letter-spacing: normal;
+	margin: 0px auto;
+	padding: 8px 8px 2px 8px;
+}
+
+
+/* HEADER: LOGO, NAVIGATION */
+#header {
+	background: url(/images/background_home.jpg) 47px 32px no-repeat;
+	height: 329px;
+	margin: 0 auto;
+	position: relative;
+	width: 766px;
+}
+#header h1 {
+	background: url(/images/logo_home.jpg) no-repeat;
+	display: block;
+	font-size: 10px;
+	height: 123px;
+	left: 0px;
+	line-height: 1;
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	text-indent: -9999px;
+	top: 0px;
+	width: 494px;
+}
+
+#header ul {
+	margin: 0px 0px 20px 0px;
+	padding: 13px 0px 0px 0px;
+}
+#header ul li {
+	display: block;
+	font-size: 10px;
+	overflow: hidden;
+	line-height: 1;
+	margin: 0;
+	position: absolute;
+	text-indent: -9999px;
+}
+#header ul li a {
+	display: block;
+}
+#header ul li#performances {
+	right: 4px;
+	top: 13px;
+}
+#header ul li#performances a {
+	background: url(/images/nav_home_performances.jpg) 0px 0px no-repeat;
+	height: 47px;
+	width: 147px;
+}
+#header ul li#performances a:active,
+#header ul li#performances a:hover {
+	background-position: 0px -47px;
+}
+
+#header ul li#music {
+	right: 25px;
+	top: 60px;
+}
+#header ul li#music a {
+	background: url(/images/nav_home_music.jpg) 0px 0px no-repeat;
+	height: 44px;
+	width: 103px;
+}
+#header ul li#music a:active,
+#header ul li#music a:hover {
+	background-position: 0px -44px;
+}
+
+#header ul li#members {
+	right: 19px;
+	top: 111px;
+}
+#header ul li#members a {
+	background: url(/images/nav_home_members.jpg) 0px 0px no-repeat;
+	height: 45px;
+	width: 123px;
+}
+#header ul li#members a:active,
+#header ul li#members a:hover {
+	background-position: 0px -45px;
+}
+
+#header ul li#history {
+	right: 15px;
+	top: 163px;
+}
+#header ul li#history a {
+	background: url(/images/nav_home_history.jpg) 0px 0px no-repeat;
+	height: 44px;
+	width: 118px;
+}
+#header ul li#history a:active,
+#header ul li#history a:hover {
+	background-position: 0px -44px;
+}
+
+#header ul li#press {
+	right: 25px;
+	top: 221px;
+}
+#header ul li#press a {
+	background: url(/images/nav_home_press.jpg) 0px 0px no-repeat;
+	height: 59px;
+	width: 103px;
+}
+#header ul li#press a:active,
+#header ul li#press a:hover {
+	background-position: 0px -59px;
+}
+
+#header ul li#store {
+	right: 190px;
+	top: 193px;
+}
+#header ul li#store a {
+	background: url(/images/nav_store.jpg) 0px 0px no-repeat;
+	height: 66px;
+	width: 90px;
+}
+#header ul li#store a:active,
+#header ul li#store a:hover {
+	background-position: 0px -66px;
+}
+
+/* CONTENT AREA */
+p {
+	margin: 0;
+	padding: 0;
+}
+
+#content {
+	margin: 0 auto;
+	position: relative;
+	width: 766px;
+}
+
+#content #performances-promo {
+	font-size: 36px;
+	font-weight: bold;
+	line-height: 40px;
+	padding-bottom: 40px;
+	position: relative;
+	text-align: center;
+	width: 766px;
+}
+#news {
+	clear: right;
+	float: right;
+	padding-left: 23px;
+	position: relative;
+	width: 360px;
+}
+#community {
+	clear: left;
+	float: left;
+	margin-right: 20px;
+	padding: 20px 10px 0px 0px;
+	position: relative;
+	width: 343px;
+}
+
+#bandcamp_player {
+	position: absolute;
+	left: 10px;
+}
+
+#news h4 {
+	margin: 16px 0;
+	font-size: 28px;
+}
+.breaking {
+	padding: 0px 0px 18px 0px;
+}
+.recent {
+	margin-bottom: 20px;
+	margin-top: 40px;
+	padding: 2px 0;
+}
+.recent h4 {
+	color: #777;
+}
+ul.schedule {
+	font-size: 16px;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+ul.schedule li {
+	color: #555;
+	display: block;
+	margin-bottom: 25px;
+}
+ul.schedule li a {
+	font-weight: 800;
+}
+ul.schedule li:first-child {
+	margin-top: 16px;
+}
+
+ul.schedule .showtitle {
+	color: #222;
+	display: block;
+	font-weight: bold;
+}
+ul.schedule .showtitle:hover {
+	text-decoration: none;
+}
+.recent ul.schedule li, 
+.recent ul.schedule li .showtitle, 
+.recent ul.schedule li a {
+	color: #777;
+}
+.recent ul.schedule li a {
+	font-weight: normal;
+}
+
+#solicit {
+	background-color: #eee;
+	border: 1px solid #999;
+	border-top: 1px solid #ccc;
+	border-right: 1px solid #ccc;
+	font-size: 13px;
+	line-height: 16px;
+	margin-top: 40px;
+	padding: 10px 10px 0px 10px;
+	text-align: center;
+}
+#solicit p {
+	margin-top: 15px;
+}
+#solicit #form_container {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/* FOOTER: RECORDINGS PROMO, FOOTER */
+#recordings-promo {
+	font-size: 16px;
+	line-height: 18px;
+	position: relative;
+}
+
+#recordings-promo ul {
+	position: absolute;
+	left: -100px;
+	top: -11px;
+}
+#recordings-promo li {
+	margin-bottom: 10px;
+}
+
+#recordings-promo h4 {
+	font-size: 28px;
+	font-weight: bold;
+	line-height: 26px;
+	margin: -3px 0px 12px 0px;
+}
+
+#recordings-promo p {
+	clear: left;
+	display: block;
+	float:left;
+	margin: 0px 0px 25px 0px;
+}
+#recordings-promo p:first-child {
+	margin-top: 20px;
+}
+
+#recordings-promo p.promo {
+	font-size: 15px;
+}
+
+#recordings-promo p.promo img {
+	float: left;
+	margin-right: 10px;
+}
+
+#recordings-promo img#paypal_button {
+	margin-right: 150px;
+}
+
+#recordings-promo img#cd4 {
+	border: 1px solid #A70E09;
+	height: 91px;
+	width: 91px;
+}
+#recordings-promo img#cd3 {
+	height: 93px;
+	width: 93px;
+}
+#recordings-promo img#cd2 {
+	border: 1px solid #888;
+	height: 92px;
+	width: 92px;
+}
+#recordings-promo img#cd1 {
+	height: 93px;
+	width: 92px;
+}
+
+
+/* SOCIAL NETWORKING */
+#networking ul {
+	list-style: none;
+	left: 25%;
+	/*
+	left: 50%;
+	margin: 13px 0px 0px -104px;
+	position: absolute;
+	top: 0px;
+	*/
+	margin: 0px 0px 0px 0px;
+	padding: 0;
+	position: absolute;
+/*
+	top: 42%;
+	top: 70%;
+*/
+	top: 75%;
+}
+#networking li {
+	display: block;
+	float: left;
+	line-height: 1;
+	margin: 0;
+	margin-right: 12px;
+	padding: 0;
+	text-indent: -9999px;
+	zoom: 1;
+}
+#networking li.social a {
+	display: block;
+	background: url(/images/asm_networking.png) 0 0 no-repeat;
+	height: 32px;
+	padding: 0;
+	text-decoration: none;
+	width: 32px;
+}
+#networking li.facebook a { background-position:  0 -192px; }
+#networking li.facebook a:hover { background-position:  0 -224px; }
+#networking li.twitter a { background-position: 0 -256px; }
+#networking li.twitter a:hover { background-position: 0 -288px; }
+#networking li.bandcamp a { background-position:  0 0; }
+#networking li.bandcamp a:hover { background-position: 0 -32px; }
+#networking li.myspace a { background-position:  0 -128px; }
+#networking li.myspace a:hover { background-position:  0 -160px; }
+#networking li.youtube a { background-position:  0 -64px; }
+#networking li.youtube a:hover { background-position:  0 -96px; }
+#networking li.youtube { margin-right: 0px; }
+
+
+#footer {
+	font-size: 11px;
+	color: #f8f8f8;
+	padding-top: 20px;
+	text-align: center;
+}
+
+/* sleeps around images/links are negatively positioned absolutely outside of the main container, so bring 'em inside */
+@media screen and (min-width:766px) and (max-width:966px) {
+	#recordings-promo h4 {
+		margin-bottom: 66px;
+	}
+
+	#recordings-promo ul {
+		left: -14px;
+		top: 16px;
+	}
+
+	#recordings-promo li {
+		display: inline;
+		margin-left: 13px;
+	}
+
+	#recordings-promo ul li img {
+		height: 50px;
+		width: 50px;
+	}
+}

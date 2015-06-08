@@ -1,0 +1,116 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<title>ASM Back at Union Pool! (December 8, 2010) | Performances | Anti-Social Music</title>
+
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta http-equiv="imagetoolbar" content="false" />
+	<meta name="author" content="Anti-Social Music" />
+	<meta name="robots" content="index, follow" />
+	<meta http-equiv="X-UA-Compatible" content="IE=7" />
+	<meta property="og:site_name" content="Anti-Social Music" />
+	<meta property="og:url" content="http://www.antisocialmusic.org/performances/UnionPoolTwo.shtml" />
+	<meta property="og:title" content="ASM Back at Union Pool!" />
+	<meta property="og:image" content="http://www.antisocialmusic.org/ASM_social.jpg" />
+	<link rel="SHORTCUT ICON" href="/favicon.ico" type="image/x-icon" />
+	<link rel="image_src" href="http://www.antisocialmusic.org/ASM_social.jpg" />
+	<meta name="description" content="Anti-Social Music, Inc., is a non-profit collective of composers and performers created for the purpose of presenting new music by emerging, primarily New York-based musicians." />
+
+	<link rel="stylesheet" href="/styles/init.css" type="text/css" />
+	<link rel="stylesheet" href="/styles/subpage.css" type="text/css" />
+	<!--[if IE 6]>
+	<link rel="stylesheet" href="/styles/ie6.css" type="text/css" />
+	<![endif]-->
+	<!--[if IE 7]>
+	<link rel="stylesheet" href="/styles/ie7.css" type="text/css" />
+	<![endif]-->
+</head>
+<body>
+<div id="performancespage">
+	<div id="header">
+		<h1>Anti-Social Music</h1>
+		<h2>Past Performance</h2>
+		<p class="accessibility">Jump to <a href="#content">Content</a> or <a href="#navigation">Main Navigation</a></p>
+		<ul id="navigation">
+			<li id="home"><a href="/">Home</a></li>
+			<li id="performances"><a href="/Performances.shtml">Performances</a></li>
+			<li id="music"><a href="/Music.html">Music</a></li>
+			<li id="members"><a href="/Members.html">Members</a></li>
+			<li id="history"><a href="/History.html">History</a></li>
+			<li id="press"><a href="/Press.html">Press</a></li>
+			<li id="store"><a href="/Store.html">Store</a></li>
+		</ul>
+	</div>
+
+	<div id="content" class="clear">
+
+		<div class="column">
+			<div id="intro">
+
+<h3>ASM's Triumphant Return,<br/>Union Pool style!</h3>
+<p class="download"><a target="bandcamp" href="http://antisocialmusic.bandcamp.com/album/return-to-union-pool-12-8-2010">STREAM/DOWNLOAD THIS SHOW</a></p>
+
+			</div>
+	
+			<div id="details">
+
+<p>
+Fresh from a whirlwind tour of Ukraine (<a href="http://asminukraine.blogspot.com" target="asmblog">read about it</a>),<br/>
+<strong>ASM returns to Union Pool</strong><br/>
+to warm up your December with our friends <a href="http://myspace.com/aesings" target="more">&AElig;</a> and <a href="http://www.gatolocomusic.com" target="more">Gato Loco</a>!<br/>
+<br/>
+<b>Wednesday, December 8th<br/>
+$9.99<br/>
+8 pm: &AElig;<br/>
+9 pm: ASM<br/>
+10 pm: Gato Loco</b><br/>
+</p>
+
+<p>ASM will be featuring the performing talents of Barry Seroff, Jeff Hudgins, Kamala Sankaram, Brad Kemp, Pat Muchmore, Hubert Chen, Drew Fleming, Maria Sonevytsky, Jean Cook, and David Durst (or some combination thereof) &ndash; presenting your new favorites from Franz Nicolay, Kamala Sankaram, Pat Muchmore, Jeff Hudgins, Barry Seroff, Al Giusto, and Jonathan Vincent (or some combination thereof).</p>
+
+<p><strong>Union Pool!</strong><br/>
+484 Union Avenue<br/>
+Brooklyn, NY<br/>
+<br/>
+<b>directions: L/G to Lorimer Street</b>.
+</p>
+
+<p class="smallprint">
+This program is supported, in part, by public funds from the New York City Department of Cultural Affairs, in partnership with the City Council, and in part with public funds from the New York State Council on the Arts, a state agency. Which is basically to say - your tax dollars at work. Yeah, frightening isn't it?
+</p>
+
+			</div>
+		</div>
+
+		<div class="column">
+			<div id="photo">
+
+<a href="/images/asm_unionpool_20101208.jpg" title="click to download the full-size poster!"><img style="border: 1px #a70e09 solid;" src="/images/performances/ae_and_gato.jpg" alt="union pool 12/8 poster" title="click to download the full-size poster!" /></a>
+
+			</div>
+	
+			<div id="pastperformances">
+<!--#INCLUDE VIRTUAL="/pastperformances.html"-->
+			</div>
+		</div>
+
+	</div>
+
+	<div id="footer">
+		<p>Copyright &copy; 2000-2015 by Anti-Social Music. All rights reserved. Like anyone looks at this.</p>
+	</div>
+</div>
+
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-17744388-1']);
+_gaq.push(['_trackPageview']);
+(function() {
+	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+</body>
+</html>

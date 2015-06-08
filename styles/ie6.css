@@ -1,0 +1,12 @@
+#performancespage #intro {
+	margin-top: 0px;
+}
+#performancespage #photo {
+	overflow: hidden;
+}
+#storepage #othercrap {
+	background-position: -10px bottom;
+}
+#storepage #othercrap h3 {
+	background-position: left -3px;
+}

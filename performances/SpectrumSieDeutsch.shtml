@@ -1,0 +1,113 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<title>ASM Goes Deutsch (May 16, 2014) | Performances | Anti-Social Music</title>
+
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta http-equiv="imagetoolbar" content="false" />
+	<meta name="author" content="Anti-Social Music" />
+	<meta name="robots" content="index, follow" />
+	<meta http-equiv="X-UA-Compatible" content="IE=7" />
+	<meta property="og:site_name" content="Anti-Social Music" />
+	<meta property="og:url" content="http://www.antisocialmusic.org/performances/SpectrumSieDeutsch.shtml" />
+	<meta property="og:title" content="ASM Goes Deutsch" />
+	<meta property="og:image" content="http://www.antisocialmusic.org/ASM_social.jpg" />
+	<link rel="SHORTCUT ICON" href="/favicon.ico" type="image/x-icon" />
+	<link rel="image_src" href="http://www.antisocialmusic.org/ASM_social.jpg" />
+	<meta name="description" content="Anti-Social Music, Inc., is a non-profit collective of composers and performers created for the purpose of presenting new music by emerging, primarily New York-based musicians." />
+
+	<link rel="stylesheet" href="/styles/init.css" type="text/css" />
+	<link rel="stylesheet" href="/styles/subpage.css" type="text/css" />
+	<!--[if IE 6]>
+	<link rel="stylesheet" href="/styles/ie6.css" type="text/css" />
+	<![endif]-->
+	<!--[if IE 7]>
+	<link rel="stylesheet" href="/styles/ie7.css" type="text/css" />
+	<![endif]-->
+</head>
+<body>
+<div id="performancespage">
+	<div id="header">
+		<h1>Anti-Social Music</h1>
+		<h2>Past Performance</h2>
+		<p class="accessibility">Jump to <a href="#content">Content</a> or <a href="#navigation">Main Navigation</a></p>
+		<ul id="navigation">
+			<li id="home"><a href="/">Home</a></li>
+			<li id="performances"><a href="/Performances.shtml">Performances</a></li>
+			<li id="music"><a href="/Music.html">Music</a></li>
+			<li id="members"><a href="/Members.html">Members</a></li>
+			<li id="history"><a href="/History.html">History</a></li>
+			<li id="press"><a href="/Press.html">Press</a></li>
+			<li id="store"><a href="/Store.html">Store</a></li>
+		</ul>
+	</div>
+
+	<div id="content" class="clear">
+
+		<div class="column">
+			<div id="intro">
+
+<h3>ASM G&#776oes&#776 D&#776eut&#776s&#776c&#776h&#776</h3>
+
+			</div>
+	
+			<div id="details">
+
+<p class="smallprint">
+<strong>Disclaimer:</strong> ASM has nothing against German (uppercase G) or egalitarianism (lowercase e), but we do love us some funny little typographical marks. <i>-ed</i>
+</p>
+
+<p class="largeprint">
+Going deutsch is just like going dutch, in that we'll pay our part and you'll pay yours, only with way more umlauts and also you pay our part too. 
+<br/>
+<br/>
+We're going to share a bill with two lovely bands that sound like they are but probably are not really from Germany. Ironically, our resident German resident will not be present. Non-ironically, our non-resident non-German residents will be present representing.
+<br/>
+<br/>
+We're opening the show, so come early! Stay late for the other bands! Come have a stein with us after our set!
+</p>
+
+<p>The pieces we plan to present for your perceiving pleasure:<br/><br/>
+<b>Jeff Hudg&iuml;ns'</b> <span class="worktitle">mendedApothegm</span><br/>
+<b>Andrea La R&ouml;se's</b> <span class="worktitle">small pets in the sixth house for any two players</span><br/>
+<b>Dan Las&auml;ga's</b> <span class="worktitle">Appleplexi of the Hunger for solo piano</span> and <span class="worktitle">Fog of War</span><br/>
+<b>Pat Muchm&ouml;re's</b> <span class="worktitle">selections from Fr.XIII.a—?</span><br/>
+<b>John Wr&iuml;ggle's</b> <span class="worktitle">Compound Pastoral</span>
+</p>
+
+<p class="largeprint"><b>Friday 16 May 2014<br/>
+Spectr&uuml;m (121 Ludlow, Second Floor, near Rivington. F to 2nd Avenue)<br/>
+7:30 Anti-Social Music<br/>
+8:30 Dark Ages<br/>
+9:30 H&auml;&szlig;liche Luftmasken<br/>
+</b>
+</p>
+
+<p>Featuring the inimitable talents of Jean Cook, Pat Muchmore, Dan Lasaga, and Jeff Hudgins!</p>
+
+<p class="smallprint">This pr&ouml;gram is supported, in part, by public f&uuml;nds from the New York City Department of Cultural Affairs, in partnership with the City Co&uuml;ncil, and in part with public funds from the New York State Co&uuml;ncil on the Arts, a state agency. Which is basically to say - your t&auml;x dollars at w&ouml;rk. Yeah, frightening i&szlig;n't it?</p>
+
+			</div>
+		</div>
+
+		<div class="column">
+			<div id="photo">
+<img src="/images/performances/GoesDeutsch.jpg" alt="ASM Goes Deutsch" title="This is not John Deutsch" />
+
+			</div>
+	
+			<div id="pastperformances">
+<!--#INCLUDE VIRTUAL="/pastperformances.html"-->
+			</div>
+		</div>
+
+	</div>
+
+	<div id="footer">
+		<p>Copyright &copy; 2000-2015 by Anti-Social Music. All rights reserved. Like anyone looks at this.</p>
+	</div>
+</div>
+
+</body>
+</html>

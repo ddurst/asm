@@ -1,0 +1,106 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<title>ASM Does NOT Sing the Great American Songbook (December 10, 2005) | Performances | Anti-Social Music</title>
+
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta http-equiv="imagetoolbar" content="false" />
+	<meta name="author" content="Anti-Social Music" />
+	<meta name="robots" content="index, follow" />
+	<meta http-equiv="X-UA-Compatible" content="IE=7" />
+	<meta property="og:site_name" content="Anti-Social Music" />
+	<meta property="og:url" content="http://www.antisocialmusic.org/performances/DNSGAS.shtml" />
+	<meta property="og:title" content="ASM Does NOT Sing the Great American Songbook" />
+	<meta property="og:image" content="http://www.antisocialmusic.org/ASM_social.jpg" />
+	<link rel="SHORTCUT ICON" href="/favicon.ico" type="image/x-icon" />
+	<link rel="image_src" href="http://www.antisocialmusic.org/ASM_social.jpg" />
+	<meta name="description" content="Anti-Social Music, Inc., is a non-profit collective of composers and performers created for the purpose of presenting new music by emerging, primarily New York-based musicians." />
+
+	<link rel="stylesheet" href="/styles/init.css" type="text/css" />
+	<link rel="stylesheet" href="/styles/subpage.css" type="text/css" />
+	<!--[if IE 6]>
+	<link rel="stylesheet" href="/styles/ie6.css" type="text/css" />
+	<![endif]-->
+	<!--[if IE 7]>
+	<link rel="stylesheet" href="/styles/ie7.css" type="text/css" />
+	<![endif]-->
+</head>
+<body>
+<div id="performancespage">
+	<div id="header">
+		<h1>Anti-Social Music</h1>
+		<h2>Past Performance</h2>
+		<p class="accessibility">Jump to <a href="#content">Content</a> or <a href="#navigation">Main Navigation</a></p>
+		<ul id="navigation">
+			<li id="home"><a href="/">Home</a></li>
+			<li id="performances"><a href="/Performances.shtml">Performances</a></li>
+			<li id="music"><a href="/Music.html">Music</a></li>
+			<li id="members"><a href="/Members.html">Members</a></li>
+			<li id="history"><a href="/History.html">History</a></li>
+			<li id="press"><a href="/Press.html">Press</a></li>
+			<li id="store"><a href="/Store.html">Store</a></li>
+		</ul>
+	</div>
+	<div id="content" class="clear">
+
+		<div class="column">
+			<div id="intro">
+
+<h3>Anti-Social Music Does NOT Sing <br/>the Great American Songbook!</h3>
+<p class="download"><a target="bandcamp" href="http://antisocialmusic.bandcamp.com/album/does-not-sing-the-great-american-songbook-chashama-12-10-05">STREAM/DOWNLOAD THIS SHOW</a></p>
+
+			</div>
+
+			<div id="details">
+
+<p>Sure.  For all of you faithful, adoring fans the release of our newest CD, <span class="worktitle">Anti-Social Music Sings the Great American Songbook</span>, is intensely exciting.  But we're pretty much sick of it by now.  That's why Anti-Social Music Does NOT Sing the Great American Songbook on Saturday, Dec. 10th at Chashama.</p>
+<p>Oh sure, we'll be &quot;singing&quot; a few choice numbers from the album, but for our own sanity we'll also be featuring several tunes which are fairly new and that you may not have even heard before.</p>
+<p>But enough of that, here's something we can all get excited about:  <strong>BEER</strong>!  That's right, the Dec. 10th concert isn't just a CD Release Party, it's a CD Release Kegger!  Not only that, but <strong>The Hold Steady</strong> will be there to play a few songs.  Holy crap!  For a mere $14.99, you'll get admission to the show (including The Hold Steady and some other special guest performances), a copy of our brand-new CD, and a cup to do with as you please.</p>
+<p>You'll be drunk, we'll be drunk, and a fun time will be had by all.</p>
+<p>And, of course, thanks again to NYSCA and JPMorgan for their financial support!</p>
+
+<p>
+Anti-Social Music Does NOT Sing the Great American Songbook<br/>
++The Hold Steady and other Special Guests<br/>
+Saturday, Dec. 10th 8 PM<br/>
+At Chashama<br/>
+217 E 42nd St. (bet. 2nd and 3rd Aves)
+</p>
+
+<p>Love, <br/>ASM</p>
+
+			</div>
+		</div>
+
+		<div class="column">
+			<div id="photo">
+
+<img src="/images/performances/ASMDNSGAS.jpg" alt="ASM does not sing the Great American Songbook poster" title="ASM does not sing the Great American Songbook poster" />
+
+			</div>
+
+			<div id="pastperformances">
+<!--#INCLUDE VIRTUAL="/pastperformances.html"-->
+			</div>
+		</div>
+
+	</div>
+
+	<div id="footer">
+		<p>Copyright &copy; 2000-2015 by Anti-Social Music. All rights reserved. Like anyone looks at this.</p>
+	</div>
+</div>
+
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-17744388-1']);
+_gaq.push(['_trackPageview']);
+(function() {
+	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+</body>
+</html>
