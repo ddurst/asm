@@ -47,20 +47,16 @@
 
 		<div class="column">
 			<div id="intro">
-<!--<h3>Upcoming Shows</h3>-->
-<h3>Our 2014-2015 season is coming soon!</h3>
+<h3>Upcoming Shows</h3>
+<!--<h3>Our 2014-2015 season is coming soon!</h3>-->
 			</div>
 
 			<div id="details">
-<p>What you missed last season...</p>
-<!--<h4></h4>-->
+<!--<p>What you missed last season...</p>
+<h4></h4>-->
 <ul class="upcomingperformances">
-	<li><strike><a href="/performances/DoesNotGetSaxy.shtml"><span class="showtitle">ASM Does Not Get Saxy</span> Friday, February 20, 2015 at National Opera Center</a></strike></li>
-	<li><strike><a href="/performances/YouLikeSaxophones.shtml"><span class="showtitle">New York's Alright If You Like Saxophones (encore performance)</span> Tuesday, March 31, 2015 at ShapeShifter Lab</a></strike></li>
-	<li><strike><a href="/performances/DrinksAloneAgainAgain.shtml"><span class="showtitle">ASM Drinks Alone again... again</span> Friday, May 8, 2015 at IBEAM</a></strike></li>
-	<li><strike><a href="/performances/UnderWaters.shtml"><span class="showtitle">ASM Under Waters</span> Wednesday, June 10, 2015 at The Stone</a></strike></li>
-	<li><strike><a href="/performances/SohoLoft.shtml"><span class="showtitle">ASM drinks alone in a Soho loft</span> Thursday, June 18, 2015 at the Spring St. Loft</a></strike></li>
-	<li><strike><a href="/performances/Vocem.shtml"><span class="showtitle">Venimus, vidimus, audivimus vocem</span> Sunday, June 21, 2015 at National Opera Center</a></strike></li>
+	<li><a title="next show" href="/performances/MuchMoreMuchmores.shtml"><span class="showtitle">Much more Muchmore at Muchmore's</span> Wednesday, November 4, 2015</a>
+	<br/><img style="margin:4px 0 0; width:330px;" src="/images/performances/pat_sparkle.jpg" alt="fishbulb pat" title="OOOOO MUCHMORE SPARKLE" /></a></li>
 </ul>
 
 			</div>

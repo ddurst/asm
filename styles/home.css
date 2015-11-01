@@ -354,8 +354,9 @@ ul.schedule .showtitle:hover {
 /*
 	top: 42%;
 	top: 70%;
-*/
 	top: 75%;
+*/
+	top: 70%;
 }
 #networking li {
 	display: block;
