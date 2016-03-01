@@ -1,0 +1,137 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<title>ASM Has Too Many Hands (January 29, 2016) | Performances | Anti-Social Music</title>
+
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta http-equiv="imagetoolbar" content="false" />
+	<meta name="author" content="Anti-Social Music" />
+	<meta name="robots" content="index, follow" />
+	<meta http-equiv="X-UA-Compatible" content="IE=7" />
+	<meta property="og:site_name" content="Anti-Social Music" />
+	<meta property="og:url" content="http://www.antisocialmusic.org/performances/TooManyHands.shtml" />
+	<meta property="og:title" content="ASM Has Too Many Hands" />
+	<meta property="og:image" content="http://www.antisocialmusic.org/ASM_social.jpg" />
+	<link rel="SHORTCUT ICON" href="/favicon.ico" type="image/x-icon" />
+	<link rel="image_src" href="http://www.antisocialmusic.org/ASM_social.jpg" />
+	<meta name="description" content="Anti-Social Music, Inc., is a non-profit collective of composers and performers created for the purpose of presenting new music by emerging, primarily New York-based musicians." />
+
+	<link rel="stylesheet" href="/styles/init.css" type="text/css" />
+	<link rel="stylesheet" href="/styles/subpage.css" type="text/css" />
+	<!--[if IE 6]>
+	<link rel="stylesheet" href="/styles/ie6.css" type="text/css" />
+	<![endif]-->
+	<!--[if IE 7]>
+	<link rel="stylesheet" href="/styles/ie7.css" type="text/css" />
+	<![endif]-->
+	<style>
+	.pttmmtitle {
+		font-family: Times New Roman, Times, Courier, Arial, Helvetica, serif;
+		font-style: normal;
+	}
+	.first {
+		color: #2AD12A;
+		font-size: 140%;
+	}
+	.second {
+		color: #004DFF;
+		font-size: 140%;
+	}
+	.third {
+		color: #00BFFF;
+		font-size: 140%;
+	}
+	</style>
+	<script type="text/javascript">
+	var iOS = /iPad|iPhone|iPod/.test(navigator.userAgent) && !window.MSStream;
+	var pTitle = '<span class="pttmmtitle"><span class="first">4&#119890;<i>&#8327;</i></span> &#8712; <span class="second">&#120134;</span> &#8834; <span class="third">&#120138;</span> &#8834; <span class="first">&#8901;</span><span class="second">&#8901;</span><span class="third">&#8901;</span></span>';
+	if (iOS) {
+		var temp = pTitle.replace("&#119890;", "<i>e</i>");
+		temp = temp.replace("&#120134;", "O");
+		temp = temp.replace("&#120138;", "S");
+		pTitle = temp;
+	}
+	</script>
+</head>
+<body>
+<div id="performancespage">
+	<div id="header">
+		<h1>Anti-Social Music</h1>
+		<h2>Past Performance</h2>
+		<p class="accessibility">Jump to <a href="#content">Content</a> or <a href="#navigation">Main Navigation</a></p>
+		<ul id="navigation">
+			<li id="home"><a href="/">Home</a></li>
+			<li id="performances"><a href="/Performances.shtml">Performances</a></li>
+			<li id="music"><a href="/Music.html">Music</a></li>
+			<li id="members"><a href="/Members.html">Members</a></li>
+			<li id="history"><a href="/History.html">History</a></li>
+			<li id="press"><a href="/Press.html">Press</a></li>
+			<li id="store"><a href="/Store.html">Store</a></li>
+		</ul>
+	</div>
+
+	<div id="content" class="clear">
+
+		<div class="column">
+			<div id="intro">
+
+<h3>ASM Has Too Many Hands</h3>
+			</div>
+	
+			<div id="details">
+
+<p>
+	You know how it goes: you're plotting ways to more efficiently and copiously administer intoxicating substances to yourself, and one thing leads to another. One genetic experiment involving your own personal CRISPR formula later, and you've got too many hands and not enough orifices.
+</p>
+<p>
+	Well, we here at ASM say, "when life (or morally reprehensible experimentation) gives you too many hands, make 4HandsPianonade!"  We'll be premiering six new works for 1 Piano, 4 Hands and for 2 Pianos, 2 Hands (per piano) on the evening of Friday, January 29th. Come warm your (too many) hands by the (non-existent) fire, as the likes of David Durst, Daniel Felsenfeld, Jeff Hudgins, Dan Lasaga, Pat Muchmore, and Kamala Sankaram warm your hearts with their music. Vishnu himself will say, "Whoa, isn't that a bit much?" when the 10 hands of <b>Danica Borisavljevic</b>, <b>Theresa Rosas</b>, <b>Rene Dennis</b>, <b>Paul Kerekes</b> and <b>Dan Lasaga</b> perform these pieces. Durga, meanwhile, will shrug and give a knowing wink.
+</p>
+
+<p>
+	So, please come to the National Opera Center at 8PM, and feel free to leave those pesky arms at home; ASM will, as always, provide.
+</p>
+<p class="largeprint"><b>Friday, January 29, 2016 at 8pm</br>
+National Opera Center<br/>
+330 Seventh Avenue, 7th Floor<br/>
+BDFMNRQ to 34th, 1NR to 28th<br/>
+<br/>
+ALL WORLD PREMIERES<br/>
+<br/>
+Immune from inflation, still just $9.99</b>
+</p>
+
+<p>
+Program:<br/><br/>
+DAVID DURST - <span class="worktitle">in repose</span> for two pianos (2015)<br/><br/>
+DANIEL FELSENFELD - <span class="worktitle">Pianistic Maneuvers in the Dark</span> for piano four hands (2015)<br/><br/>
+JEFF HUDGINS - <span class="worktitle">Joanie</span> for two pianos (2015)<br/><br/>
+DAN LASAGA - <span class="worktitle">Detroit Derivatives</span> for piano four hands (2015)<br/><br/>
+PAT MUCHMORE - <span class="worktitle"><script type="text/javascript">document.write(pTitle);</script></span> for two pianos (2015)<br/><br/>
+KAMALA SANKARAM - <span class="worktitle">Martha</span> for piano four hands (2015)<br/><br/>
+</p>
+
+<p class="smallprint">This program is supported, in part, by public funds from the New York City Department of Cultural Affairs, in partnership with the City Council, and in part with public funds from the New York State Council on the Arts, a state agency. Which is basically to say &endash; your tax dollars at work. Yeah, frightening isn't it?</p>
+
+			</div>
+		</div>
+
+		<div class="column">
+			<div id="photo">
+<img src="/images/performances/toomanyhands.jpg" alt="2 many hands" title="ASM has too many hands" />
+			</div>
+	
+			<div id="pastperformances">
+<!--#INCLUDE VIRTUAL="/pastperformances.html"-->
+			</div>
+		</div>
+
+	</div>
+
+	<div id="footer">
+		<p>Copyright &copy; 2000-2016 by Anti-Social Music. All rights reserved. YES, ALL OF THE RIGHTS.</p>
+	</div>
+</div>
+
+</body>
+</html>

@@ -339,6 +339,9 @@ ul.schedule .showtitle:hover {
 
 
 /* SOCIAL NETWORKING */
+#networking {
+	float: left;
+}
 #networking ul {
 	list-style: none;
 	left: 25%;
@@ -356,7 +359,7 @@ ul.schedule .showtitle:hover {
 	top: 70%;
 	top: 75%;
 */
-	top: 70%;
+	bottom: 140px;
 }
 #networking li {
 	display: block;

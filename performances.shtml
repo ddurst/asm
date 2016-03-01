@@ -55,8 +55,10 @@
 <!--<p>What you missed last season...</p>
 <h4></h4>-->
 <ul class="upcomingperformances">
-	<li><a title="next show" href="/performances/MuchMoreMuchmores.shtml"><span class="showtitle">Much more Muchmore at Muchmore's</span> Wednesday, November 4, 2015</a>
-	<br/><img style="margin:4px 0 0; width:330px;" src="/images/performances/pat_sparkle.jpg" alt="fishbulb pat" title="OOOOO MUCHMORE SPARKLE" /></a></li>
+	<li><a title="next show" href="/performances/HandsHandsHandsHands.shtml"><span class="showtitle">Hands Hands Hands Hands</span> Friday, March 4, 2016</a></li>
+	<li><a title="upcoming show" href="/performances/DrinksAloneAgainAgainAgain.shtml"><span class="showtitle">ASM Drinks Alone Again. Again? Again (aka ASM vs Andie Springer)</span> Friday, March 11, 2016</a></li>
+	<li><strike><a title="past show" href="/performances/TooManyHands.shtml"><span class="showtitle">ASM Has Too Many Hands</span> Friday, January 29, 2016</a></strike></li>
+	<li><strike><a title="past show" href="/performances/MuchMoreMuchmores.shtml"><span class="showtitle">Much more Muchmore at Muchmore's</span> Wednesday, November 4, 2015</a></strike></li>
 </ul>
 
 			</div>
@@ -71,7 +73,7 @@
 	</div>
 
 	<div id="footer">
-		<p>Copyright &copy; 2000-2015 by Anti-Social Music. All rights reserved. Like anyone looks at this.</p>
+		<p>Copyright &copy; 2000-2016 by Anti-Social Music. All rights reserved. YES, ALL OF THE RIGHTS.</p>
 	</div>
 </div>
 

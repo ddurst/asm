@@ -10,8 +10,8 @@
 	<meta name="robots" content="index, follow" />
 	<meta http-equiv="X-UA-Compatible" content="IE=7" />
 	<meta property="og:site_name" content="Anti-Social Music" />
-	<meta property="og:url" content="http://www.antisocialmusic.org/performances/Vocem.shtml" />
-	<meta property="og:title" content="Venimus, vidimus, audivimus vocem" />
+	<meta property="og:url" content="http://www.antisocialmusic.org/performances/MuchMoreMuchmores.shtml" />
+	<meta property="og:title" content="Much more Muchmore at Muchmore's" />
 	<meta property="og:image" content="http://www.antisocialmusic.org/ASM_social.jpg" />
 	<link rel="SHORTCUT ICON" href="/favicon.ico" type="image/x-icon" />
 	<link rel="image_src" href="http://www.antisocialmusic.org/ASM_social.jpg" />
@@ -30,7 +30,7 @@
 <div id="performancespage">
 	<div id="header">
 		<h1>Anti-Social Music</h1>
-		<h2>Next Performance</h2>
+		<h2>Past Performance</h2>
 		<p class="accessibility">Jump to <a href="#content">Content</a> or <a href="#navigation">Main Navigation</a></p>
 		<ul id="navigation">
 			<li id="home"><a href="/">Home</a></li>
@@ -98,7 +98,7 @@ Muchmore's<br/>
 	</div>
 
 	<div id="footer">
-		<p>Copyright &copy; 2000-2015 by Anti-Social Music. All rights reserved. Like anyone looks at this.</p>
+		<p>Copyright &copy; 2000-2016 by Anti-Social Music. All rights reserved. YES, ALL OF THE RIGHTS.</p>
 	</div>
 </div>
 
