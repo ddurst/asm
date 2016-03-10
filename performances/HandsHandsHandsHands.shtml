@@ -58,7 +58,7 @@
 <div id="performancespage">
 	<div id="header">
 		<h1>Anti-Social Music</h1>
-		<h2>Next Performance</h2>
+		<h2>Past Performance</h2>
 		<p class="accessibility">Jump to <a href="#content">Content</a> or <a href="#navigation">Main Navigation</a></p>
 		<ul id="navigation">
 			<li id="home"><a href="/">Home</a></li>
@@ -77,6 +77,7 @@
 			<div id="intro">
 
 <h3>ASM: Hands Hands Hands Hands</h3>
+<p class="download"><a target="bandcamp" href="https://antisocialmusic.bandcamp.com/album/asm-has-too-many-hands">STREAM/DOWNLOAD THIS SHOW</a></p>
 			</div>
 	
 			<div id="details">
