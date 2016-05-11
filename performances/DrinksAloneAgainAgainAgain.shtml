@@ -30,7 +30,7 @@
 <div id="performancespage">
 	<div id="header">
 		<h1>Anti-Social Music</h1>
-		<h2>Next Performance</h2>
+		<h2>Past Performance</h2>
 		<p class="accessibility">Jump to <a href="#content">Content</a> or <a href="#navigation">Main Navigation</a></p>
 		<ul id="navigation">
 			<li id="home"><a href="/">Home</a></li>
@@ -105,7 +105,7 @@ F/R to 4th Ave & 9th Street.  Walk down 4th ave, turn left on 7th and walk past 
 $15 suggested donation for both sets
 </p>
 
-<p class="smallprint">This program is supported, in part, by public funds from the New York City Department of Cultural Affairs, in partnership with the City Council, and in part with public funds from the New York State Council on the Arts, a state agency. Which is basically to say &endash; your tax dollars at work. Yeah, frightening isn't it?</p>
+<p class="smallprint">This program is supported, in part, by public funds from the New York City Department of Cultural Affairs, in partnership with the City Council, and in part with public funds from the New York State Council on the Arts, a state agency. Which is basically to say &ndash; your tax dollars at work. Yeah, frightening isn't it?</p>
 
 			</div>
 		</div>

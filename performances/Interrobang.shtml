@@ -1,0 +1,102 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<title>ASM, The Oxford Comma, and The Interrobang (May 28, 2016) | Performances | Anti-Social Music</title>
+
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta http-equiv="imagetoolbar" content="false" />
+	<meta name="author" content="Anti-Social Music" />
+	<meta name="robots" content="index, follow" />
+	<meta http-equiv="X-UA-Compatible" content="IE=7" />
+	<meta property="og:site_name" content="Anti-Social Music" />
+	<meta property="og:url" content="http://www.antisocialmusic.org/performances/ASMPerformersPerform.shtml" />
+	<meta property="og:title" content="ASM, The Oxford Comma, and The Interrobang" />
+	<meta property="og:image" content="http://www.antisocialmusic.org/ASM_social.jpg" />
+	<link rel="SHORTCUT ICON" href="/favicon.ico" type="image/x-icon" />
+	<link rel="image_src" href="http://www.antisocialmusic.org/ASM_social.jpg" />
+	<meta name="description" content="Anti-Social Music, Inc., is a non-profit collective of composers and performers created for the purpose of presenting new music by emerging, primarily New York-based musicians." />
+
+	<link rel="stylesheet" href="/styles/init.css" type="text/css" />
+	<link rel="stylesheet" href="/styles/subpage.css" type="text/css" />
+	<!--[if IE 6]>
+	<link rel="stylesheet" href="/styles/ie6.css" type="text/css" />
+	<![endif]-->
+	<!--[if IE 7]>
+	<link rel="stylesheet" href="/styles/ie7.css" type="text/css" />
+	<![endif]-->
+</head>
+<body>
+<div id="performancespage">
+	<div id="header">
+		<h1>Anti-Social Music</h1>
+		<h2>Next Performance</h2>
+		<p class="accessibility">Jump to <a href="#content">Content</a> or <a href="#navigation">Main Navigation</a></p>
+		<ul id="navigation">
+			<li id="home"><a href="/">Home</a></li>
+			<li id="performances"><a href="/Performances.shtml">Performances</a></li>
+			<li id="music"><a href="/Music.html">Music</a></li>
+			<li id="members"><a href="/Members.html">Members</a></li>
+			<li id="history"><a href="/History.html">History</a></li>
+			<li id="press"><a href="/Press.html">Press</a></li>
+			<li id="store"><a href="/Store.html">Store</a></li>
+		</ul>
+	</div>
+
+	<div id="content" class="clear">
+
+		<div class="column">
+			<div id="intro">
+
+<h3>ASM, The Oxford Comma, and The Interrobang<br/>&#8253;</h3>
+			</div>
+	
+			<div id="details">
+
+<p>This is an invitation for you (hereinafter referred to as "Audience Member") to view and listen to a concert. Said concert will feature music that Anti-Social Music (hereinafter referred to as "ASM") believes, in whole or in part, will be satisfying to Audience Member. Continued reading of this e-mail, especially the next paragraph, will constitute Audience Member's implied consent to, and relinquishes the right to sue ASM over, various punctuation marks that are controversial and potentially upsetting, including, but not limited to, the Oxford Comma and the Interrobang.</p>
+
+<p>The music will be composed by some composers, including, but not limited to, Andrea La Rose, Charlie Waters, Pat Muchmore, Ty Citerman, Jeanine Dara, Max Duykers, and Daniel Felsenfeld (hereinafter "Composers"). The music of Composers will be performed by various performers, including, but not limited to, Danica Borisavljevic, Sara Budde, Hubert Chen, Ty Citerman, Tomas Cruz, Jeanine Dara, Diana Hill, Paul Kerekes, Pat Muchmore, Esther Noh, Maxim Pakhomov, Megan Schubert, Andie Springer, Danny Tunick, Charles Waters, George Wright, and Joe Power (hereinafter "Performers"). Audience Member hereby agrees to listen to Performers as they perform music composed by Composers, and ASM hereby agrees to be oddly surly about the whole thing. OK&#8253;</p>
+
+<p>Audience Member hereby agrees to bring rapt attention and $9.99 to the Greenwich House Music School at 8 PM. Performers hereby agree to faithfully transmit at least 73% of the notes composed by Composers, who, in turn, hereby agree to be drunk enough not to care. ASM agrees to continue to be surly about the whole thing.</p>
+
+<p>Sincerely (actual degree of sincerity may vary from Audience Member to Audience Member),<br/>
+ASM</p>
+
+<p><b>Saturday, May 28, 2016 at 8PM<br/>
+Greenwich House Music School</b><br/>
+46 Barrow Street, 2nd Floor<br/>
+$9.99</p>
+
+<p>featuring WORLD PREMIERE performances of <br/>
+<br/>
+	TY CITERMAN - <span class="worktitle">Carla Songs (complete)</span> for voices and small ensemble<br/>
+	JEANANN DARA - <span class="worktitle">Jejune</span> for singer, string quartet, and percussion<br/>
+	MAX DUYKERS - <span class="worktitle">Scatterloop</span> for violin and piano<br/>
+	DANIEL FELSENFELD - <span class="worktitle">Thing Like That Never Happen To Me</span> for solo piano<br/>
+	PAT MUCHMORE - <span class="worktitle">Fr.2<sup>n</sup>-ion 2.a-i</span> for solo cello<br/>
+	CHARLES WATERS - <span class="worktitle">for Giuffre</span> for clarinet, viola and cello<br/>
+</p>
+
+<p class="smallprint">This program is supported, in part, by public funds from the New York City Department of Cultural Affairs, in partnership with the City Council, and in part with public funds from the New York State Council on the Arts, a state agency. Which is basically to say &ndash; your tax dollars at work. Yeah, frightening isn't it?</p>
+
+			</div>
+		</div>
+
+		<div class="column">
+			<div id="photo">
+			</div>
+	
+			<div id="pastperformances">
+<!--#INCLUDE VIRTUAL="/pastperformances.html"-->
+			</div>
+		</div>
+
+	</div>
+
+	<div id="footer">
+		<p>Copyright &copy; 2000-2016 by Anti-Social Music. All rights reserved. YES, ALL OF THE RIGHTS.</p>
+	</div>
+</div>
+
+</body>
+</html>
