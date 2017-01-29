@@ -48,21 +48,26 @@
 		<div class="column">
 			<div id="intro">
 <h3>Upcoming Shows</h3>
-<!--<h3>Our 2014-2015 season is coming soon!</h3>-->
+<!--<h3>Our 2017-2018 season is coming soon!</h3>-->
 			</div>
 
 			<div id="details">
 <!--<p>What you missed last season...</p>
 <h4></h4>-->
+
 <ul class="upcomingperformances">
-	<li><a title="next show" href="/performances/HorseMorsel.shtml"><span class="showtitle">Horse Morsel in the Park</span> Tuesday, June 21, 2016</a></li>
-	<li><strike><a title="past show" href="/performances/Interrobang.shtml"><span class="showtitle">ASM, The Oxford Comma, and The Interrobang</span> Saturday, May 28, 2016</a></strike></li>
+	<li><a title="next show" href="/performances/DrinksAloneYetAgain.shtml"><span class="showtitle">ASM Drinks Alone Yet Again (+ Charles Waters PEACE FORMS)</span> Friday, February 10, 2016</a></li>
+	<li><strike><a title="past show" href="/performances/BabelRelease.shtml"><span class="showtitle">BABEL fragments release party</span> Thursday, August 25, 2016</a></strike></li>
+</ul>
+<!--
+<ul class="pastperformances">
+	<li><strike><a title="past show" href="/performances/HorseMorsel.shtml"><span class="showtitle">Horse Morsel in the Park</span> Tuesday, June 21, 2016</a></strike></li>	<li><strike><a title="past show" href="/performances/Interrobang.shtml"><span class="showtitle">ASM, The Oxford Comma, and The Interrobang</span> Saturday, May 28, 2016</a></strike></li>
 	<li><strike><a title="past show" href="/performances/DrinksAloneAgainAgainAgain.shtml"><span class="showtitle">ASM Drinks Alone Again. Again? Again (aka ASM vs Andie Springer)</span> Friday, March 11, 2016</a></strike></li>
 	<li><strike><a title="past show" href="/performances/HandsHandsHandsHands.shtml"><span class="showtitle">Hands Hands Hands Hands</span> Friday, March 4, 2016</a></strike></li>
 	<li><strike><a title="past show" href="/performances/TooManyHands.shtml"><span class="showtitle">ASM Has Too Many Hands</span> Friday, January 29, 2016</a></strike></li>
 	<li><strike><a title="past show" href="/performances/MuchMoreMuchmores.shtml"><span class="showtitle">Much more Muchmore at Muchmore's</span> Wednesday, November 4, 2015</a></strike></li>
 </ul>
-
+-->
 			</div>
 		</div>
 

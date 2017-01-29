@@ -38,7 +38,8 @@ a:hover {
 #performancespage,
 #getinvolvedpage,
 #storepage {
-	font-family: Courier New,Courier,Monaco,serif;
+/*	font-family: Courier New,Courier,Monaco,serif;*/
+	font-family: Courier,Monaco,serif;
 	font-weight: 400;
 	letter-spacing: normal;
 	margin: 0px auto;
@@ -833,7 +834,8 @@ a:hover {
 }
 #performancespage .column {
 	float: left;
-	font-family: Courier New,Courier,Monaco;
+/*	font-family: Courier New,Courier,Monaco;*/
+	font-family: Courier,Monaco;
 	width: 383px;
 }
 #performancespage #intro {
@@ -860,7 +862,8 @@ a:hover {
 	text-align: left;
 }
 #performancespage #intro h3.jazzy {
-	font-family: JazzText,Helvetica,Arial,Courier New,Courier,Monaco;
+/*	font-family: JazzText,Helvetica,Arial,Courier New,Courier,Monaco;*/
+	font-family: JazzText,Helvetica,Arial,Courier,Monaco;
 	font-weight: normal;
 }
 #performancespage .download a,
@@ -1039,7 +1042,8 @@ ul.upcomingperformances .showtitle {
 	font-size: 32px;
 }
 #performancespage #details .jazzy {
-	font-family: JazzText,Helvetica,Arial,Courier New,Courier,Monaco;
+/*	font-family: JazzText,Helvetica,Arial,Courier New,Courier,Monaco;*/
+	font-family: JazzText,Helvetica,Arial,Courier,Monaco;
 }
 #performancespage #details em {
 	font-style: italic;

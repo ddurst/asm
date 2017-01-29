@@ -29,7 +29,8 @@ a:hover {
 .accessibility { left: -9999px; position: absolute; top: -9999px; }
 
 #homepage {
-	font-family: Courier New,Courier,Monaco,serif;
+/*	font-family: Courier New,Courier,Monaco,serif;*/
+	font-family: Courier,Monaco,serif;
 	font-weight: 400;
 	letter-spacing: normal;
 	margin: 0px auto;
