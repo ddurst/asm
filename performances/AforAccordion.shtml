@@ -1,0 +1,103 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<title>A is for Accordion (March 24, 2017) | Performances | Anti-Social Music</title>
+
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta http-equiv="imagetoolbar" content="false" />
+	<meta name="author" content="Anti-Social Music" />
+	<meta name="robots" content="index, follow" />
+	<meta http-equiv="X-UA-Compatible" content="IE=7" />
+	<meta property="og:site_name" content="Anti-Social Music" />
+	<meta property="og:url" content="http://www.antisocialmusic.org/performances/AforAccordion.shtml" />
+	<meta property="og:title" content="A is for Accordion" />
+	<meta property="og:image" content="http://www.antisocialmusic.org/ASM_social.jpg" />
+	<link rel="SHORTCUT ICON" href="/favicon.ico" type="image/x-icon" />
+	<link rel="image_src" href="http://www.antisocialmusic.org/ASM_social.jpg" />
+	<meta name="description" content="Anti-Social Music, Inc., is a non-profit collective of composers and performers created for the purpose of presenting new music by emerging, primarily New York-based musicians." />
+
+	<link rel="stylesheet" href="/styles/init.css" type="text/css" />
+	<link rel="stylesheet" href="/styles/subpage.css" type="text/css" />
+	<!--[if IE 6]>
+	<link rel="stylesheet" href="/styles/ie6.css" type="text/css" />
+	<![endif]-->
+	<!--[if IE 7]>
+	<link rel="stylesheet" href="/styles/ie7.css" type="text/css" />
+	<![endif]-->
+</head>
+<body>
+<div id="performancespage">
+	<div id="header">
+		<h1>Anti-Social Music</h1>
+		<h2>Upcoming Performance</h2>
+		<p class="accessibility">Jump to <a href="#content">Content</a> or <a href="#navigation">Main Navigation</a></p>
+		<ul id="navigation">
+			<li id="home"><a href="/">Home</a></li>
+			<li id="performances"><a href="/Performances.shtml">Performances</a></li>
+			<li id="music"><a href="/Music.html">Music</a></li>
+			<li id="members"><a href="/Members.html">Members</a></li>
+			<li id="history"><a href="/History.html">History</a></li>
+			<li id="press"><a href="/Press.html">Press</a></li>
+			<li id="store"><a href="/Store.html">Store</a></li>
+		</ul>
+	</div>
+
+	<div id="content" class="clear">
+
+		<div class="column">
+			<div id="intro">
+
+<h3>A is for Accordion</h3>
+			</div>
+	
+			<div id="details">
+
+<p><i>THOMAS BERNHARD, ACCORDION PLAYER<br/><br/>
+The last time my grandfather came to New York, Pat, he warned me, Pat, said I had to give up playing the accordion when he died, I couldn't continue down this path, now here I am, I don't intend to play a day after this concert, Pat, I'm here in a place I never thought I'd return to, to which I never wanted to return, but I don't understand what you're doing here, Pat, this is something I wanted to ask you, this worried me the most, how could someone who doesn't have to write for accordion, someone who is free to write for any instrument they choose, Pat, prefer to speak through this abomination, this wretched squeezebox, explain it to me, Pat, a truly vomitous instrument with which only truly sinister composers can work, which is why I can't explain why you're here, it's the most repulsive thing, it's truly absurd if you're interested in writing serious music, this demonstrates that really you're not interested in writing serious music, Pat, no-one interested in writing serious music could opt for an instrument as degenerate as thing, on which no-one plays serious music, where the few who could play, don't play, this is the truth, this is the horrible truth, Pat, and still the cluelessness of the world to call this an "instrument," what nonsense, it's an idiocy that would be funny if it weren't grotesque, but still I'm glad you've come.</i></p>
+
+<p><b>World premieres of new works for small accordion ensembles by David Durst, Max Duykers, Nate Koci, Andrea La Rose, Dan Lasaga, and Pat Muchmore, played by Hubert Chen, Domenica Fossati, Will Holshouser, Jeff Hudgins, Paul Kerekes, Nate Koci, Pat Muchmore, Franz Nicolay, Theresa Rosas, and Kamala Sankaram.</b></p>
+
+<p>
+NATHAN KOCI - <span class="worktitle">The Implications of Science</span> for accordion, flute, and violin<br/><br/>
+ANDREA LA ROSE - <span class="worktitle">what presents itself</span> for violin, cello, flute, clarinet, and accordion<br/><br/>
+PAT MUCHMORE - <span class="worktitle">2<sup>n</sup>-ion 5</span> for three accordions<br/><br/>
+DAVID DURST - <span class="worktitle">march of the reanimated</span> for accordion quartet<br/><br/>
+DAN LASAGA - <span class="worktitle">Bali Adhan</span> for accordion quartet<br/><br/>
+MAX DUYKERS - <span class="worktitle">Title TBD</span> for piano four hands and accordion<br/><br/>
+</p>
+
+<p>
+<b>
+ALL WORLD PREMIERES<br/>
+Friday, March 24, 2017 at 7:30 PM<br/>
+National Opera Center<br/>
+330 7th Ave, New York, NY 10001<br/>
+(1NR to 28th, NQRBDFM to 34th)<br/>
+As usual, a steal at $9.99</b>
+</p>
+
+<p class="smallprint">This program is supported, in part, by public funds from the New York City Department of Cultural Affairs, in partnership with the City Council, and in part with public funds from the New York State Council on the Arts, a state agency. Which is basically to say &ndash; your tax dollars at work. Yeah, frightening isn't it?</p>
+
+			</div>
+		</div>
+
+		<div class="column">
+			<div id="photo">
+<img src="/images/performances/AAccordion.png" alt="Just some accordion player" title="RESIST" />
+			</div>
+
+			<div id="pastperformances">
+<!--#INCLUDE VIRTUAL="/pastperformances.html"-->
+			</div>
+		</div>
+
+	</div>
+
+	<div id="footer">
+		<p>Copyright &copy; 2000-2017 by Anti-Social Music. All rights reserved. We have the best rights. You're going to love these rights.</p>
+	</div>
+</div>
+
+</body>
+</html>

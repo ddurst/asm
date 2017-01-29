@@ -938,6 +938,7 @@ a:hover {
 }
 #performancespage span.worktitle {
 	font-style: italic;
+	font-weight: bold;
 }
 #performancespage span.clean {
 	font-style: normal !important;
