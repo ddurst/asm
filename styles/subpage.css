@@ -1,6 +1,9 @@
 body {
 	background-color: rgb(255,255,255); /* #fff */
 	color: rgb(0,0,0); /* #000 */
+	font-family: Courier,Monaco,serif;
+	font-weight: 400;
+	letter-spacing: normal;
 }
 
 /* GENERAL LINKS */
@@ -28,6 +31,7 @@ a:hover {
 /* Accessibility */
 .accessibility { left: -9999px; position: absolute; top: -9999px; }
 
+/*
 #presspage,
 #morepresspage,
 #musicpage,
@@ -37,11 +41,11 @@ a:hover {
 #friendspage,
 #performancespage,
 #getinvolvedpage,
-#storepage {
+#storepage, 
+*/
+
+body > div {
 /*	font-family: Courier New,Courier,Monaco,serif;*/
-	font-family: Courier,Monaco,serif;
-	font-weight: 400;
-	letter-spacing: normal;
 	margin: 0px auto;
 	padding: 8px 8px 2px 8px;
 	width: 766px;
@@ -586,6 +590,14 @@ a:hover {
 #musicpage #audio ul {
 	padding: 3px 0px 0px 17px;
 }
+#musicpage #audio li {
+	margin-left: -40px;
+	padding-top: 10px;
+	width: 400px;
+}
+#musicpage #audio li iframe {
+	float: left;
+}
 #musicpage #video ul {
 	padding: 3px 32px 0px 8px;
 	text-align: right;
@@ -903,7 +915,7 @@ a:hover {
 }
 #performancespage #details p {
 	font-size: 14px;
-	line-height: 16px;
+	line-height: 1.3;
 	margin: 14px 0px 24px 0px;
 }
 #performancespage #details ul {
@@ -1203,7 +1215,8 @@ ul.upcomingperformances .showtitle {
 #storepage #albums #GreatAmericanSongbook img {
 	width: 92px;
 }
-#storepage #albums #NitrateHymnal img {
+#storepage #albums #FutureOfEverything > img, 
+#storepage #albums #NitrateHymnal > img {
 	border: 1px solid rgb(136,136,136); /* #888 */
 	width: 92px;
 }
@@ -1256,4 +1269,665 @@ ul.upcomingperformances .showtitle {
 	margin: 0 auto;
 	padding: 0;
 	xwidth: 766px;
+	width: auto;
 }
+
+
+/* MEDIA QUERIES */
+@media only screen and (max-width: 768px) {
+
+body > div {
+	padding: 0;
+	margin: 1%;
+	width: 98%;
+}
+
+#footer {
+	font-size: 10px;
+}
+
+#content {
+	position: relative;
+}
+
+#performancespage #header, 
+#musicpage #header, 
+#memberspage #header, 
+#memberssubpage #header, 
+#friendspage #header, 
+#historypage #header, 
+#presspage #header, 
+#morepresspage #header, 
+#storepage #header, 
+#getinvolvedpage #header {
+	height: auto;
+}
+
+#navigation {
+	left: 0;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+}
+
+#navigation li {
+	display: inline;
+	font-size: 16px;
+	line-height: 1.5;
+	position: relative;
+	text-indent: 0;
+}
+
+#performancespage #navigation, 
+#musicpage #navigation, 
+#memberspage #navigation, 
+#memberssubpage #navigation, 
+#friendspage #navigation, 
+#historypage #navigation, 
+#presspage #navigation,
+#morepresspage #navigation, 
+#storepage #navigation, 
+#getinvolvedpage #navigation {
+	height: auto;
+}
+
+#header ul li#home {
+	left: 0;
+	text-indent: -999px;
+	top: 0;
+}
+#header ul li#home a {
+	background: url("/images/ASM_scriptlogo.jpg") 0 0 no-repeat;
+	background-size: contain;
+	height: 122px;
+	width: 492px;
+	margin: 0 auto;
+}
+
+#performancespage #header ul li#performances, 
+#performancespage #header ul li#music, 
+#performancespage #header ul li#members, 
+#performancespage #header ul li#history, 
+#performancespage #header ul li#press, 
+#performancespage #header ul li#store, 
+#musicpage #header ul li#performances, 
+#musicpage #header ul li#music, 
+#musicpage #header ul li#members, 
+#musicpage #header ul li#history, 
+#musicpage #header ul li#press, 
+#musicpage #header ul li#store,
+#memberspage #header ul li#performances, 
+#memberspage #header ul li#music, 
+#memberspage #header ul li#members, 
+#memberspage #header ul li#history, 
+#memberspage #header ul li#press, 
+#memberspage #header ul li#store, 
+#memberssubpage #header ul li#performances, 
+#memberssubpage #header ul li#music, 
+#memberssubpage #header ul li#members, 
+#memberssubpage #header ul li#history, 
+#memberssubpage #header ul li#press, 
+#memberssubpage #header ul li#store, 
+#friendspage #header ul li#performances, 
+#friendspage #header ul li#music, 
+#friendspage #header ul li#members, 
+#friendspage #header ul li#history, 
+#friendspage #header ul li#press, 
+#friendspage #header ul li#store, 
+#historypage #header ul li#performances, 
+#historypage #header ul li#music, 
+#historypage #header ul li#members, 
+#historypage #header ul li#history, 
+#historypage #header ul li#press, 
+#historypage #header ul li#store, 
+#presspage #header ul li#performances, 
+#presspage #header ul li#music, 
+#presspage #header ul li#members, 
+#presspage #header ul li#history, 
+#presspage #header ul li#press, 
+#presspage #header ul li#store, 
+#morepresspage #header ul li#performances, 
+#morepresspage #header ul li#music, 
+#morepresspage #header ul li#members, 
+#morepresspage #header ul li#history, 
+#morepresspage #header ul li#press, 
+#morepresspage #header ul li#store, 
+#storepage #header ul li#performances, 
+#storepage #header ul li#music, 
+#storepage #header ul li#members, 
+#storepage #header ul li#history, 
+#storepage #header ul li#press, 
+#storepage #header ul li#store, 
+#getinvolvedpage #header ul li#performances, 
+#getinvolvedpage #header ul li#music, 
+#getinvolvedpage #header ul li#members, 
+#getinvolvedpage #header ul li#history, 
+#getinvolvedpage #header ul li#press, 
+#getinvolvedpage #header ul li#store {
+	left: auto;
+	margin: 0 3%;
+	top: auto;
+}
+
+#performancespage #header ul li#performances a, 
+#performancespage #header ul li#music a, 
+#performancespage #header ul li#members a, 
+#performancespage #header ul li#history a, 
+#performancespage #header ul li#press a, 
+#performancespage #header ul li#store a, 
+#performancespage #header ul li#performances a:hover, 
+#performancespage #header ul li#music a:hover, 
+#performancespage #header ul li#members a:hover, 
+#performancespage #header ul li#history a:hover, 
+#performancespage #header ul li#press a:hover, 
+#performancespage #header ul li#store a:hover, 
+#musicpage #header ul li#performances a, 
+#musicpage #header ul li#music a, 
+#musicpage #header ul li#members a, 
+#musicpage #header ul li#history a, 
+#musicpage #header ul li#press a, 
+#musicpage #header ul li#store a, 
+#musicpage #header ul li#performances a:hover, 
+#musicpage #header ul li#music a:hover, 
+#musicpage #header ul li#members a:hover, 
+#musicpage #header ul li#history a:hover, 
+#musicpage #header ul li#press a:hover, 
+#musicpage #header ul li#store a:hover,
+#memberspage #header ul li#performances a, 
+#memberspage #header ul li#music a, 
+#memberspage #header ul li#members a, 
+#memberspage #header ul li#history a, 
+#memberspage #header ul li#press a, 
+#memberspage #header ul li#store a, 
+#memberspage #header ul li#performances a:hover, 
+#memberspage #header ul li#music a:hover, 
+#memberspage #header ul li#members a:hover, 
+#memberspage #header ul li#history a:hover, 
+#memberspage #header ul li#press a:hover, 
+#memberspage #header ul li#store a:hover, 
+#memberssubpage #header ul li#performances a, 
+#memberssubpage #header ul li#music a, 
+#memberssubpage #header ul li#members a, 
+#memberssubpage #header ul li#history a, 
+#memberssubpage #header ul li#press a, 
+#memberssubpage #header ul li#store a, 
+#memberssubpage #header ul li#performances a:hover, 
+#memberssubpage #header ul li#music a:hover, 
+#memberssubpage #header ul li#members a:hover, 
+#memberssubpage #header ul li#history a:hover, 
+#memberssubpage #header ul li#press a:hover, 
+#memberssubpage #header ul li#store a:hover, 
+#friendspage #header ul li#performances a, 
+#friendspage #header ul li#music a, 
+#friendspage #header ul li#members a, 
+#friendspage #header ul li#history a, 
+#friendspage #header ul li#press a, 
+#friendspage #header ul li#store a, 
+#friendspage #header ul li#performances a:hover, 
+#friendspage #header ul li#music a:hover, 
+#friendspage #header ul li#members a:hover, 
+#friendspage #header ul li#history a:hover, 
+#friendspage #header ul li#press a:hover, 
+#friendspage #header ul li#store a:hover, 
+#historypage #header ul li#performances a, 
+#historypage #header ul li#music a, 
+#historypage #header ul li#members a, 
+#historypage #header ul li#history a, 
+#historypage #header ul li#press a, 
+#historypage #header ul li#store a, 
+#historypage #header ul li#performances a:hover, 
+#historypage #header ul li#music a:hover, 
+#historypage #header ul li#members a:hover, 
+#historypage #header ul li#history a:hover, 
+#historypage #header ul li#press a:hover, 
+#historypage #header ul li#store a:hover, 
+#presspage #header ul li#performances a, 
+#presspage #header ul li#music a, 
+#presspage #header ul li#members a, 
+#presspage #header ul li#history a, 
+#presspage #header ul li#press a, 
+#presspage #header ul li#store a, 
+#presspage #header ul li#performances a:hover, 
+#presspage #header ul li#music a:hover, 
+#presspage #header ul li#members a:hover, 
+#presspage #header ul li#history a:hover, 
+#presspage #header ul li#press a:hover, 
+#presspage #header ul li#store a:hover, 
+#morepresspage #header ul li#performances a, 
+#morepresspage #header ul li#music a, 
+#morepresspage #header ul li#members a, 
+#morepresspage #header ul li#history a, 
+#morepresspage #header ul li#press a, 
+#morepresspage #header ul li#store a, 
+#morepresspage #header ul li#performances a:hover, 
+#morepresspage #header ul li#music a:hover, 
+#morepresspage #header ul li#members a:hover, 
+#morepresspage #header ul li#history a:hover, 
+#morepresspage #header ul li#press a:hover, 
+#morepresspage #header ul li#store a:hover, 
+#storepage #header ul li#performances a, 
+#storepage #header ul li#music a, 
+#storepage #header ul li#members a, 
+#storepage #header ul li#history a, 
+#storepage #header ul li#press a, 
+#storepage #header ul li#store a, 
+#storepage #header ul li#performances a:hover, 
+#storepage #header ul li#music a:hover, 
+#storepage #header ul li#members a:hover, 
+#storepage #header ul li#history a:hover, 
+#storepage #header ul li#press a:hover, 
+#storepage #header ul li#store a:hover, 
+#getinvolvedpage #header ul li#performances a, 
+#getinvolvedpage #header ul li#music a, 
+#getinvolvedpage #header ul li#members a, 
+#getinvolvedpage #header ul li#history a, 
+#getinvolvedpage #header ul li#press a, 
+#getinvolvedpage #header ul li#store a, 
+#getinvolvedpage #header ul li#performances a:hover, 
+#getinvolvedpage #header ul li#music a:hover, 
+#getinvolvedpage #header ul li#members a:hover, 
+#getinvolvedpage #header ul li#history a:hover, 
+#getinvolvedpage #header ul li#press a:hover, 
+#getinvolvedpage #header ul li#store a:hover {
+	background: none;
+	display: inline-block;
+	height: auto;
+	margin-top: 6px;
+	width: auto;
+}
+
+#performancespage #content, 
+#musicpage #content,
+#memberspage #content, 
+#memberssubpage #content, 
+#friendspage #content, 
+#historypage #content, 
+#presspage #content, 
+#morepresspage #content, 
+#storepage #content, 
+#getinvolvedpage #content {
+	background: url("/images/performances_divider_4.jpg") 55% bottom no-repeat;
+	padding: 40px 3% 52px 3%;
+}
+
+#memberssubpage .column, 
+#performancespage .column, 
+#storepage #albums, 
+#storepage #othercrap {
+	float: none;
+	width: 100%;
+}
+
+#performancespage #intro {
+	background: none;
+	padding-bottom: 20px;
+	width: inherit;
+}
+
+#performancespage #details {
+	background: none;
+	padding-bottom: 0;
+	xbackground-position: 55% bottom;
+	width: 95%;
+}
+
+#performancespage .column + .column {
+	width: 95%;
+}
+
+#performancespage #release, 
+#performancespage #pastperformances {
+	background: none;
+	padding: 10px 0 0 0;
+	width: 100%;
+}
+
+#performancespage #pastperformances ul {
+	float: none;
+	clear: both;
+}
+#performancespage #pastperformances ul li {
+	float: left;
+	height: 50px;
+	padding-right: 5%;
+	width: 45%;
+}
+
+#performancespage #photo {
+	background: url("/images/performances_divider_4.jpg") 55% bottom no-repeat;
+	padding: 0 0 52px 0;
+}
+
+#musicpage #audio, 
+#musicpage #video,
+#memberspage #section1,
+#memberspage #section2,
+#friendspage #section1,
+#friendspage #section2,
+#memberssubpage #bio_text, 
+#memberssubpage #bio_turntable {
+	float: none;
+	width: 95%;
+}
+#memberssubpage #bio_link {
+	display: none;
+}
+
+#memberspage #section1, 
+#friendspage #section1 {
+	background: url("/images/performances_divider_4.jpg") 50% bottom no-repeat;
+	padding: 3px 0px 39px 0px;
+}
+#memberssubpage #bio_text, 
+#memberssubpage #bio_photo, 
+#memberssubpage #bio_haiku, 
+#memberssubpage #bio_turntable {
+	background: none;
+	padding: 3px 0px 20px 0px;
+}
+#memberssubpage #bio_photo img {
+	max-width: 100%;
+}
+
+#memberssubpage #bio_turntable {
+	text-align: left;
+}
+#memberssubpage #bio_turntable p {
+	padding: 0;
+}
+#memberssubpage #bio_turntable ul {
+	padding: 0 0 0 5%;
+}
+
+#memberspage #section2, 
+#friendspage #section2, 
+#memberssubpage #bio_link {
+	background: none;
+}
+#memberspage #section2 ul, 
+#memberspage #section2 p, 
+#memberssubpage #bio_text p, 
+#friendspage #section2 ul {
+	margin-left: 0;
+	width: inherit;
+}
+#friendspage #section1 p {
+	margin: 0;
+	font-size: inherit;
+	padding-bottom: 20px;
+	text-align: left;
+	width: inherit;
+}
+#friendspage #section2 ul {
+	margin-bottom: 0;
+}
+#historypage #section1, 
+#historypage #section2, 
+#historypage #section3, 
+#historypage #section4 {
+	background: none;
+	font-size: inherit;
+	padding: 0;
+	width: auto;
+}
+#historypage #section1 p, 
+#historypage #section2 p, 
+#historypage #section3 p, 
+#historypage #section4 p, 
+#presspage #content p, 
+#presspage #content p.intro, 
+#presspage #content p.lead, 
+#morepresspage #content p {
+	background: none;
+	margin: 0;
+	padding: 0 0 20px 0;
+	text-align: left;
+	width: inherit;
+}
+#musicpage #audio {
+	background-position: 50% bottom;
+}
+#musicpage #video,
+#memberspage #section2, 
+#memberssubpage #bio_link {
+	background: none;
+	margin-top: 20px;
+	padding-bottom: 0;
+}
+#musicpage #audio h3, 
+#musicpage #video h3, 
+#memberspage #section1 h3,
+#memberspage #section2 h3, 
+#friendspage #section1 h3,
+#friendspage #section2 h3, 
+#historypage #section1 h3 {
+	background: none;
+	height: auto;
+	margin-left: 0;
+	width: inherit;
+}
+#musicpage h3, 
+#memberspage h3, 
+#friendspage h3, 
+#historypage h3 {
+	font-size: 16px;
+	line-height: 1.2;
+	text-indent: 0;
+}
+#friendspage h4 {
+	margin-left: 0;
+}
+
+#musicpage #audio p, 
+#musicpage #video p {
+	padding-left: 0;
+}
+#musicpage p, 
+#memberspage #section1 ul, 
+#friendspage #section1 p, 
+#historypage #section1 p, 
+#historypage #section2 p, 
+#historypage #section3 p, 
+#historypage #section4 p {
+	line-height: 1.3;
+	margin-top: 8px;
+	width: 100%;
+}
+#musicpage #audio ul, 
+#musicpage #video ul {
+	padding-left: 0;
+}
+#musicpage #audio li {
+	margin-left: 0;
+	width: auto;
+}
+#musicpage #audio li iframe {
+	float: none;
+}
+#musicpage #content li {
+	margin-bottom: 24px;
+}
+
+#presspage h3 {
+	font-size: inherit;
+	line-height: inherit;
+	text-indent: 0;
+	width: auto;
+}
+#morepresspage h3, 
+#morepresspage h4 {
+	width: auto;
+}
+
+#presspage #brief, 
+#presspage #full {
+	background: none;
+}
+#presspage blockquote {
+	background-position: 50% bottom;
+	margin: 10px 0 30px 0;
+	padding: 0 0 20px 0;
+	width: auto;
+}
+#presspage blockquote cite {
+	padding: 0 0 0 10%;
+	width: 75%;
+}
+#presspage blockquote.last {
+	background: url("/images/performances_divider_4.jpg") 50% bottom no-repeat;
+	padding: 0 0 80px 0;
+}
+#presspage #content ul {
+	background: none;
+	padding: 0;
+	width: auto;
+}
+#presspage #content ul li {
+	padding-left: 0;
+	width: auto;
+}
+#morepresspage .section1, 
+#morepresspage .section2, 
+#morepresspage .section3, 
+#morepresspage .section4, 
+#getinvolvedpage #section1, 
+#getinvolvedpage #section2, 
+#getinvolvedpage #section3 {
+	background: url("/images/press_background.gif") 50% bottom no-repeat;
+	padding: 20px 0 20px 0;
+	width: auto;
+}
+#morepresspage .section5 {
+	background: none;
+	padding: 20px 0 20px 0;
+	width: auto;
+}
+#getinvolvedpage #section3 {
+	background: none;
+}
+#morepresspage #pressphotos ul, 
+#morepresspage #pressphotos p {
+	width: auto;
+}
+#morepresspage #pressphotos img {
+	height: auto;
+	max-width: 100%;
+}
+
+#storepage #albums {
+	background-position: 50% bottom;
+}
+#storepage #albums h3, 
+#storepage #othercrap h3 {
+	background: none;
+	font-size: 120%;
+	height: auto;
+	text-indent: 0;
+	text-transform: uppercase;
+	width: auto;
+}
+#storepage #albums div {
+	background: none;
+	border-bottom: 2px solid #8D8D8D;
+	width: 95%;
+}
+#storepage #albums div#GreatestHits {
+	border-bottom: none;
+}
+#storepage #albums h4, 
+#storepage #albums p {
+	padding-left: 0;
+}
+#storepage #albums img {
+	margin-left: 0;
+}
+#storepage #othercrap {
+	background: none;
+	margin: 0;
+	padding: 40px 0 0 0;
+}
+
+#getinvolvedpage #header h2 {
+	background: none;
+	height: 0;
+	width: 0;
+}
+#getinvolvedpage #section1 h3 {
+	margin-left: 0;
+	width: 95%;
+}
+#getinvolvedpage #section1 p, 
+#getinvolvedpage #section2 p, 
+#getinvolvedpage #section3 p {
+	background: none;
+	padding: 20px 0 0 0;
+	width: 95%;
+}
+#getinvolvedpage #section4 {
+	display: none;
+}
+#getinvolvedpage #section3 ol {
+	margin-left: 10%;
+	padding-left: 0;
+	width: 70%;
+}
+
+} /* end max-width 768 */
+
+
+@media only screen and (max-width: 491px) {
+
+#navigation li {
+	font-size: 14px;
+}
+
+#header ul li#home a {
+	height: 90px;
+	width: 100%;
+	margin: 0 auto;
+}
+
+#musicpage #content, 
+#memberspage #content, 
+#memberspage #section1, 
+#memberssubpage #content, 
+#performancespage #content, 
+#performancespage #photo, 
+#friendspage #content, 
+#friendspage #section1, 
+#historypage #content, 
+#presspage #content, 
+#morepresspage #content, 
+#storepage #albums, 
+#storepage #content, 
+#getinvolvedpage #content {
+	background-size: contain;
+}
+
+#performancespage #photo img {
+	height: auto;
+	max-width: 100%;
+}
+
+#performancespage #pastperformances ul li {
+	height: 90px;
+}
+
+#musicpage #audio {
+	background-size: contain;
+}
+#morepresspage #NYP120604 h3, 
+#morepresspage #Newsday120504 h3 {
+	background-size: contain;
+}
+#othercrap img {
+	margin-left: 0;
+	max-width: 100%;
+}
+#getinvolvedpage #section3 ol {
+	margin-left: 5%;
+	padding-left: 0;
+	width: 90%;
+}
+
+} /* end max-width 491 */

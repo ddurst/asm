@@ -199,8 +199,7 @@ p {
 }
 
 #bandcamp_player {
-	position: absolute;
-	left: 10px;
+	position: relative;
 }
 
 #news h4 {
@@ -262,6 +261,7 @@ ul.schedule .showtitle:hover {
 	line-height: 16px;
 	margin-top: 40px;
 	padding: 10px 10px 0px 10px;
+	position: relative;
 	text-align: center;
 }
 #solicit p {
@@ -283,7 +283,7 @@ ul.schedule .showtitle:hover {
 #recordings-promo ul {
 	position: absolute;
 	left: -100px;
-	top: -11px;
+	top: -12px;
 }
 #recordings-promo li {
 	margin-bottom: 10px;
@@ -308,6 +308,7 @@ ul.schedule .showtitle:hover {
 
 #recordings-promo p.promo {
 	font-size: 15px;
+	padding-bottom: 20px;
 }
 
 #recordings-promo p.promo img {
@@ -341,44 +342,33 @@ ul.schedule .showtitle:hover {
 
 /* SOCIAL NETWORKING */
 #networking {
-	float: left;
+	left: 0;
+	position: absolute;
+	top: -20px;
+	width: 100%;
 }
 #networking ul {
 	list-style: none;
-	left: 25%;
-	/*
-	left: 50%;
-	margin: 13px 0px 0px -104px;
-	position: absolute;
-	top: 0px;
-	*/
-	margin: 0px 0px 0px 0px;
+	margin: 0;
 	padding: 0;
-	position: absolute;
-/*
-	top: 42%;
-	top: 70%;
-	top: 75%;
-*/
-	bottom: 140px;
+	position: relative;
+	width: 100%;
 }
 #networking li {
-	display: block;
-	float: left;
+	display: inline;
 	line-height: 1;
 	margin: 0;
 	margin-right: 12px;
 	padding: 0;
 	text-indent: -9999px;
-	zoom: 1;
 }
 #networking li.social a {
-	display: block;
-	background: url(/images/asm_networking.png) 0 0 no-repeat;
+	display: inline-block;
 	height: 32px;
+	width: 32px;
+	background: url("/images/asm_networking.png") 0 0 no-repeat;
 	padding: 0;
 	text-decoration: none;
-	width: 32px;
 }
 #networking li.facebook a { background-position:  0 -192px; }
 #networking li.facebook a:hover { background-position:  0 -224px; }
@@ -394,13 +384,13 @@ ul.schedule .showtitle:hover {
 
 
 #footer {
-	font-size: 11px;
 	color: #f8f8f8;
-	padding-top: 20px;
+	font-size: 11px;
 	text-align: center;
 }
 
 /* sleeps around images/links are negatively positioned absolutely outside of the main container, so bring 'em inside */
+/*
 @media screen and (min-width:766px) and (max-width:966px) {
 	#recordings-promo h4 {
 		margin-bottom: 66px;
@@ -421,3 +411,163 @@ ul.schedule .showtitle:hover {
 		width: 50px;
 	}
 }
+*/
+
+@media only screen and (max-width: 768px) {
+
+#homepage {
+	padding: 0;
+	margin: 1%;
+	width: 98%;
+}
+
+#content {
+	position: relative;
+	width: 100%;
+}
+
+#header, 
+#navigation {
+	background: none;
+	height: auto;
+	position: relative;
+	width: 100%;
+}
+#header ul {
+	left: 0;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	width: 100%;
+}
+
+#header ul li {
+	display: inline;
+	font-size: 16px;
+	line-height: 1.5;
+	position: relative;
+	text-indent: 0;
+}
+
+#header h1 {
+	background: url("/images/ASM_scriptlogo.jpg") 50% 0 no-repeat;
+	background-size: contain;
+	height: 122px;
+	margin: 0 auto;
+	position: relative;
+	width: auto;
+}
+
+#header ul li#performances, 
+#header ul li#music, 
+#header ul li#members, 
+#header ul li#history, 
+#header ul li#press, 
+#header ul li#store {
+	left: auto;
+	margin: 0 3%;
+	position: relative;
+	right: auto;
+	top: auto;
+}
+
+#header ul li#performances a, 
+#header ul li#music a, 
+#header ul li#members a, 
+#header ul li#history a, 
+#header ul li#press a, 
+#header ul li#store a, 
+#header ul li#performances a:hover, 
+#header ul li#music a:hover, 
+#header ul li#members a:hover, 
+#header ul li#history a:hover, 
+#header ul li#press a:hover, 
+#header ul li#store a:hover {
+	background: none;
+	display: inline-block;
+	height: auto;
+	margin-top: 6px;
+	width: auto;
+}
+
+#community {
+	float: none;
+	margin: 0;
+	padding: 20px 0 0 20px;
+	position: relative;
+	width: 95%;
+}
+#news {
+	float: none;
+	padding-left: 20px;
+	position: relative;
+	width: 95%;
+}
+
+#solicit {
+	margin: 40px auto 40px auto;
+	width: 65%;
+}
+#recordings-promo {
+	margin-left: 105px;
+	padding-right: 45px;
+}
+#recordings-promo ul {
+	left: -105px;
+}
+#bandcamp_player {
+	left: 0;
+	margin-left: 105px;
+	position: relative;
+}
+
+} /* end max-width 768 */
+
+
+
+@media only screen and (max-width: 491px) {
+
+#header h1 {
+	height: 90px;
+}
+#header ul {
+	padding-top: 0;
+}
+
+#news, 
+#community {
+	padding-left: 0;
+	text-align: center;
+}
+
+#solicit {
+	width: 98%;
+}
+
+#recordings-promo {
+	margin-left: 3%;
+	padding-right: 0;
+	text-align: left;
+}
+#recordings-promo p.promo {
+	margin: 0;
+	padding-bottom: 80px;
+}
+
+#recordings-promo ul {
+	float: left;
+	left: 0;
+	top: 88%;
+}
+#recordings-promo ul li {
+	display: inline-block;
+}
+#recordings-promo ul li img {
+	width: 50px;
+	height: auto;
+}
+#bandcamp_player {
+	margin-left: 3%;
+}
+
+} /* end max-width 491 */

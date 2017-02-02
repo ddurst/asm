@@ -15,8 +15,8 @@
 #mc_embed_signup input.button {display:block; width:35%; margin:0 0 10px 0; min-width:90px;}
 
 	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
-	/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
-		We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+	/-* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
+		We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. *-/
 
 */
 #mc_embed_signup input:focus {border-color:#333;}
@@ -91,3 +91,22 @@ p.secret a:hover {
 #homepage #content #solicit p.secret a:hover {
 	color: #d99;
 }
+
+
+/* MEDIA QUERIES */
+@media only screen and (max-width: 768px) {
+
+#getinvolvedpage h4.subscribe, 
+#getinvolvedpage #section1 form {
+	padding-left: 0;
+	width: auto;
+}
+
+#homepage h4.subscribe {
+	padding: 20px 0 0 0;
+	text-align: center;
+	width: auto;
+}
+
+
+} /* end max-width 768 */
