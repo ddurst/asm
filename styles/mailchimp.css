@@ -33,7 +33,7 @@
 #homepage h4.subscribe {
 	font-size: 14px;
 	font-weight: bold;
-	margin: 8px 0px 3px 0px;
+	margin: 8px 0 3px 0;
 	padding: 20px 0 0 300px;
 	width: 350px;
 }
@@ -60,7 +60,7 @@ fieldset.submit {
 #mce-EMAIL {
 	color: #777;
 	height: 18px;
-	padding: 1px 0px 1px 1px;
+	padding: 1px 0 1px 1px;
 }
 span.error {
 	position: absolute;
@@ -68,11 +68,11 @@ span.error {
 	right: 136px;
 	top: 440px;
 }
-#getinvolvedpage #section1 p.secret {
+#getinvolvedpage p.secret {
 	background: none;
 	padding-top: 28px;
 }
-#homepage #content #solicit p.secret {
+#homepage p.secret {
 	clear: left;
 	margin-top: 0px;
 	padding-top: 8px;
@@ -84,11 +84,11 @@ p.secret a {
 p.secret a:hover {
 	color: #e99;
 }
-#homepage #content #solicit p.secret,
-#homepage #content #solicit p.secret a {
+#homepage p.secret,
+#homepage p.secret a {
 	color: #e7e7e7;
 }
-#homepage #content #solicit p.secret a:hover {
+#homepage p.secret a:hover {
 	color: #d99;
 }
 

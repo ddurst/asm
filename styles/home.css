@@ -1,6 +1,9 @@
 body {
 	background-color: #fff;
 	color: #222;
+	font-family: Courier,Monaco,serif;
+	font-weight: 400;
+	letter-spacing: normal;
 }
 
 /* GENERAL LINKS */
@@ -30,9 +33,6 @@ a:hover {
 
 #homepage {
 /*	font-family: Courier New,Courier,Monaco,serif;*/
-	font-family: Courier,Monaco,serif;
-	font-weight: 400;
-	letter-spacing: normal;
 	margin: 0px auto;
 	padding: 8px 8px 2px 8px;
 }
@@ -40,148 +40,148 @@ a:hover {
 
 /* HEADER: LOGO, NAVIGATION */
 #header {
-	background: url(/images/background_home.jpg) 47px 32px no-repeat;
+	background: url("/images/background_home.jpg") 47px 32px no-repeat;
 	height: 329px;
 	margin: 0 auto;
 	position: relative;
 	width: 766px;
 }
 #header h1 {
-	background: url(/images/logo_home.jpg) no-repeat;
+	background: url("/images/logo_home.jpg") no-repeat;
 	display: block;
-	font-size: 10px;
 	height: 123px;
-	left: 0px;
-	line-height: 1;
+	left: 0;
 	margin: 0;
 	padding: 0;
 	position: absolute;
 	text-indent: -9999px;
-	top: 0px;
+	top: 0;
 	width: 494px;
 }
 
 #header ul {
-	margin: 0px 0px 20px 0px;
-	padding: 13px 0px 0px 0px;
+	margin: 0;
+	padding: 0;
 }
-#header ul li {
+#header li {
 	display: block;
-	font-size: 10px;
 	overflow: hidden;
-	line-height: 1;
 	margin: 0;
 	position: absolute;
 	text-indent: -9999px;
 }
-#header ul li a {
+#header li a {
 	display: block;
 }
-#header ul li#performances {
+#header li#performances {
 	right: 4px;
 	top: 13px;
 }
-#header ul li#performances a {
-	background: url(/images/nav_home_performances.jpg) 0px 0px no-repeat;
-	height: 47px;
-	width: 147px;
-}
-#header ul li#performances a:active,
-#header ul li#performances a:hover {
-	background-position: 0px -47px;
-}
+	#header li#performances a {
+		background: url("/images/nav_home_performances.jpg") 0 0 no-repeat;
+		height: 47px;
+		width: 147px;
+	}
+		#header li#performances a:active,
+		#header li#performances a:hover {
+			background-position: 0 -47px;
+		}
 
-#header ul li#music {
+#header li#music {
 	right: 25px;
 	top: 60px;
 }
-#header ul li#music a {
-	background: url(/images/nav_home_music.jpg) 0px 0px no-repeat;
-	height: 44px;
-	width: 103px;
-}
-#header ul li#music a:active,
-#header ul li#music a:hover {
-	background-position: 0px -44px;
-}
+	#header li#music a {
+		background: url("/images/nav_home_music.jpg") 0 0 no-repeat;
+		height: 44px;
+		width: 103px;
+	}
+		#header li#music a:active,
+		#header li#music a:hover {
+			background-position: 0px -44px;
+		}
 
-#header ul li#members {
+#header li#members {
 	right: 19px;
 	top: 111px;
 }
-#header ul li#members a {
-	background: url(/images/nav_home_members.jpg) 0px 0px no-repeat;
-	height: 45px;
-	width: 123px;
-}
-#header ul li#members a:active,
-#header ul li#members a:hover {
-	background-position: 0px -45px;
-}
+	#header li#members a {
+		background: url("/images/nav_home_members.jpg") 0 0 no-repeat;
+		height: 45px;
+		width: 123px;
+	}
+		#header li#members a:active,
+		#header li#members a:hover {
+			background-position: 0 -45px;
+		}
 
-#header ul li#history {
+#header li#history {
 	right: 15px;
 	top: 163px;
 }
-#header ul li#history a {
-	background: url(/images/nav_home_history.jpg) 0px 0px no-repeat;
-	height: 44px;
-	width: 118px;
-}
-#header ul li#history a:active,
-#header ul li#history a:hover {
-	background-position: 0px -44px;
-}
+	#header li#history a {
+		background: url("/images/nav_home_history.jpg") 0 0 no-repeat;
+		height: 44px;
+		width: 118px;
+	}
+		#header li#history a:active,
+		#header li#history a:hover {
+			background-position: 0 -44px;
+		}
 
-#header ul li#press {
+#header li#press {
 	right: 25px;
 	top: 221px;
 }
-#header ul li#press a {
-	background: url(/images/nav_home_press.jpg) 0px 0px no-repeat;
-	height: 59px;
-	width: 103px;
-}
-#header ul li#press a:active,
-#header ul li#press a:hover {
-	background-position: 0px -59px;
-}
+	#header li#press a {
+		background: url("/images/nav_home_press.jpg") 0 0 no-repeat;
+		height: 59px;
+		width: 103px;
+	}
+		#header li#press a:active,
+		#header li#press a:hover {
+			background-position: 0 -59px;
+		}
 
-#header ul li#store {
+#header li#store {
 	right: 190px;
 	top: 193px;
 }
-#header ul li#store a {
-	background: url(/images/nav_store.jpg) 0px 0px no-repeat;
-	height: 66px;
-	width: 90px;
-}
-#header ul li#store a:active,
-#header ul li#store a:hover {
-	background-position: 0px -66px;
-}
+	#header li#store a {
+		background: url("/images/nav_store.jpg") 0 0 no-repeat;
+		height: 66px;
+		width: 90px;
+	}
+		#header li#store a:active,
+		#header li#store a:hover {
+			background-position: 0 -66px;
+		}
 
 /* CONTENT AREA */
-p {
-	margin: 0;
-	padding: 0;
-}
-
 #content {
 	margin: 0 auto;
 	position: relative;
 	width: 766px;
 }
 
-#content #performances-promo {
-	font-size: 36px;
-	font-weight: bold;
-	line-height: 40px;
-	padding-bottom: 40px;
-	position: relative;
-	text-align: center;
-	width: 766px;
+#content p {
+	font-size: 15px;
+	margin: 0;
+	padding: 0;
 }
+
+#content ul {
+	font-size: 16px;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+#content h4 {
+	margin: 16px 0;
+	font-size: 28px;
+}
+
 #news {
 	clear: right;
 	float: right;
@@ -189,137 +189,79 @@ p {
 	position: relative;
 	width: 360px;
 }
+	#news ul + h4 {
+		margin-top: 30px;
+	}
+	#news li {
+		color: #555;
+		margin-bottom: 25px;
+	}
+	#news li a {
+		font-weight: bold;
+	}
+	#news .showtitle {
+		color: #222;
+		display: block;
+	}
+
+	#solicit {
+		background-color: #eee;
+		border: 1px solid #999;
+		border-top: 1px solid #ccc;
+		border-right: 1px solid #ccc;
+		font-size: 13px;
+		line-height: 16px;
+		margin-top: 50px;
+		padding: 10px 10px 0 10px;
+		position: relative;
+		text-align: center;
+	}
+	#solicit p {
+		margin-top: 15px;
+	}
+	#solicit #form_container {
+		display: block;
+		margin: 0 auto;
+	}
+
 #community {
 	clear: left;
 	float: left;
-	margin-right: 20px;
-	padding: 20px 10px 0px 0px;
+	margin-right: 30px;
+	padding: 0;
 	position: relative;
 	width: 343px;
 }
 
-#bandcamp_player {
-	position: relative;
-}
+	#recordings-promo {
+		position: relative;
+	}
+	#recordings-promo ul {
+		position: absolute;
+		left: -108px;
+		top: 5px;
+	}
+	#recordings-promo li {
+		margin-bottom: 10px;
+	}
+	#recordings-promo p {
+		line-height: 1.2;
+		margin: 0 0 24px 0;
+	}
 
-#news h4 {
-	margin: 16px 0;
-	font-size: 28px;
-}
-.breaking {
-	padding: 0px 0px 18px 0px;
-}
-.recent {
-	margin-bottom: 20px;
-	margin-top: 40px;
-	padding: 2px 0;
-}
-.recent h4 {
-	color: #777;
-}
-ul.schedule {
-	font-size: 16px;
-	list-style: none;
-	margin: 0;
-	padding: 0;
-}
-ul.schedule li {
-	color: #555;
-	display: block;
-	margin-bottom: 25px;
-}
-ul.schedule li a {
-	font-weight: 800;
-}
-ul.schedule li:first-child {
-	margin-top: 16px;
-}
+	#bandcamp_player {
+		position: relative;
+	}
 
-ul.schedule .showtitle {
-	color: #222;
-	display: block;
-	font-weight: bold;
-}
-ul.schedule .showtitle:hover {
-	text-decoration: none;
-}
-.recent ul.schedule li, 
-.recent ul.schedule li .showtitle, 
-.recent ul.schedule li a {
-	color: #777;
-}
-.recent ul.schedule li a {
-	font-weight: normal;
-}
 
-#solicit {
-	background-color: #eee;
-	border: 1px solid #999;
-	border-top: 1px solid #ccc;
-	border-right: 1px solid #ccc;
-	font-size: 13px;
-	line-height: 16px;
-	margin-top: 40px;
-	padding: 10px 10px 0px 10px;
-	position: relative;
-	text-align: center;
-}
-#solicit p {
-	margin-top: 15px;
-}
-#solicit #form_container {
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-}
-
-/* FOOTER: RECORDINGS PROMO, FOOTER */
-#recordings-promo {
-	font-size: 16px;
-	line-height: 18px;
-	position: relative;
-}
-
-#recordings-promo ul {
-	position: absolute;
-	left: -100px;
-	top: -12px;
-}
-#recordings-promo li {
-	margin-bottom: 10px;
-}
-
-#recordings-promo h4 {
-	font-size: 28px;
-	font-weight: bold;
-	line-height: 26px;
-	margin: -3px 0px 12px 0px;
-}
-
-#recordings-promo p {
-	clear: left;
-	display: block;
-	float:left;
-	margin: 0px 0px 25px 0px;
-}
-#recordings-promo p:first-child {
-	margin-top: 20px;
-}
-
-#recordings-promo p.promo {
-	font-size: 15px;
-	padding-bottom: 20px;
-}
-
-#recordings-promo p.promo img {
+/*
+#recordings-promo p img {
 	float: left;
 	margin-right: 10px;
 }
-
 #recordings-promo img#paypal_button {
 	margin-right: 150px;
 }
-
 #recordings-promo img#cd4 {
 	border: 1px solid #A70E09;
 	height: 91px;
@@ -338,7 +280,7 @@ ul.schedule .showtitle:hover {
 	height: 93px;
 	width: 92px;
 }
-
+*/
 
 /* SOCIAL NETWORKING */
 #networking {
@@ -363,26 +305,29 @@ ul.schedule .showtitle:hover {
 	text-indent: -9999px;
 }
 #networking li.social a {
+	background: url("/images/asm_networking.png") 0 0 no-repeat;
 	display: inline-block;
 	height: 32px;
-	width: 32px;
-	background: url("/images/asm_networking.png") 0 0 no-repeat;
 	padding: 0;
 	text-decoration: none;
+	width: 32px;
 }
-#networking li.facebook a { background-position:  0 -192px; }
-#networking li.facebook a:hover { background-position:  0 -224px; }
-#networking li.twitter a { background-position: 0 -256px; }
-#networking li.twitter a:hover { background-position: 0 -288px; }
-#networking li.bandcamp a { background-position:  0 0; }
 #networking li.bandcamp a:hover { background-position: 0 -32px; }
-#networking li.myspace a { background-position:  0 -128px; }
-#networking li.myspace a:hover { background-position:  0 -160px; }
-#networking li.youtube a { background-position:  0 -64px; }
-#networking li.youtube a:hover { background-position:  0 -96px; }
-#networking li.youtube { margin-right: 0px; }
+#networking li.youtube a        { background-position: 0 -64px; }
+#networking li.youtube a:hover  { background-position: 0 -96px; }
+#networking li.myspace a        { background-position: 0 -128px; }
+#networking li.myspace a:hover  { background-position: 0 -160px; }
+#networking li.facebook a       { background-position: 0 -192px; }
+#networking li.facebook a:hover { background-position: 0 -224px; }
+#networking li.twitter a        { background-position: 0 -256px; }
+#networking li.twitter a:hover  { background-position: 0 -288px; }
+
+#networking li.youtube {
+	margin-right: 0;
+}
 
 
+/* FOOTER: */
 #footer {
 	color: #f8f8f8;
 	font-size: 11px;
@@ -390,28 +335,23 @@ ul.schedule .showtitle:hover {
 }
 
 /* sleeps around images/links are negatively positioned absolutely outside of the main container, so bring 'em inside */
-/*
-@media screen and (min-width:766px) and (max-width:966px) {
+@media screen and (min-width:769px) and (max-width:966px) {
 	#recordings-promo h4 {
 		margin-bottom: 66px;
 	}
-
 	#recordings-promo ul {
 		left: -14px;
-		top: 16px;
+		top: 34px;
 	}
-
 	#recordings-promo li {
 		display: inline;
 		margin-left: 13px;
 	}
-
-	#recordings-promo ul li img {
+	#recordings-promo li img {
 		height: 50px;
 		width: 50px;
 	}
 }
-*/
 
 @media only screen and (max-width: 768px) {
 
@@ -441,7 +381,7 @@ ul.schedule .showtitle:hover {
 	width: 100%;
 }
 
-#header ul li {
+#header li {
 	display: inline;
 	font-size: 16px;
 	line-height: 1.5;
@@ -458,12 +398,12 @@ ul.schedule .showtitle:hover {
 	width: auto;
 }
 
-#header ul li#performances, 
-#header ul li#music, 
-#header ul li#members, 
-#header ul li#history, 
-#header ul li#press, 
-#header ul li#store {
+#header li#performances, 
+#header li#music, 
+#header li#members, 
+#header li#history, 
+#header li#press, 
+#header li#store {
 	left: auto;
 	margin: 0 3%;
 	position: relative;
@@ -471,18 +411,18 @@ ul.schedule .showtitle:hover {
 	top: auto;
 }
 
-#header ul li#performances a, 
-#header ul li#music a, 
-#header ul li#members a, 
-#header ul li#history a, 
-#header ul li#press a, 
-#header ul li#store a, 
-#header ul li#performances a:hover, 
-#header ul li#music a:hover, 
-#header ul li#members a:hover, 
-#header ul li#history a:hover, 
-#header ul li#press a:hover, 
-#header ul li#store a:hover {
+#header li#performances a, 
+#header li#performances a:hover, 
+#header li#music a, 
+#header li#music a:hover, 
+#header li#members a, 
+#header li#members a:hover, 
+#header li#history a, 
+#header li#history a:hover, 
+#header li#press a, 
+#header li#press a:hover, 
+#header li#store a, 
+#header li#store a:hover {
 	background: none;
 	display: inline-block;
 	height: auto;
@@ -497,6 +437,7 @@ ul.schedule .showtitle:hover {
 	position: relative;
 	width: 95%;
 }
+
 #news {
 	float: none;
 	padding-left: 20px;
@@ -505,7 +446,7 @@ ul.schedule .showtitle:hover {
 }
 
 #solicit {
-	margin: 40px auto 40px auto;
+	margin: 50px auto 0 auto;
 	width: 65%;
 }
 #recordings-promo {
@@ -549,25 +490,25 @@ ul.schedule .showtitle:hover {
 	padding-right: 0;
 	text-align: left;
 }
-#recordings-promo p.promo {
-	margin: 0;
-	padding-bottom: 80px;
+#recordings-promo p {
+	xmargin: 0;
 }
 
 #recordings-promo ul {
 	float: left;
 	left: 0;
-	top: 88%;
+	top: 100%;
 }
-#recordings-promo ul li {
+#recordings-promo li {
 	display: inline-block;
 }
-#recordings-promo ul li img {
+#recordings-promo li img {
 	width: 50px;
 	height: auto;
 }
 #bandcamp_player {
 	margin-left: 3%;
+	padding-top: 80px;
 }
 
 } /* end max-width 491 */
