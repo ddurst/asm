@@ -5,6 +5,7 @@
 	<title>ASM Has Too Many Hands (January 29, 2016) | Performances | Anti-Social Music</title>
 
 	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta http-equiv="imagetoolbar" content="false" />
 	<meta name="author" content="Anti-Social Music" />
 	<meta name="robots" content="index, follow" />
@@ -25,6 +26,10 @@
 	<!--[if IE 7]>
 	<link rel="stylesheet" href="/styles/ie7.css" type="text/css" />
 	<![endif]-->
+	<script type="text/javascript" async
+		src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+	</script>
+<!--
 	<style>
 	.pttmmtitle {
 		font-family: Times New Roman, Times, Courier, Arial, Helvetica, serif;
@@ -53,6 +58,7 @@
 		pTitle = temp;
 	}
 	</script>
+-->
 </head>
 <body>
 <div id="performancespage">
@@ -107,7 +113,17 @@ DAVID DURST - <span class="worktitle">in repose</span> for two pianos (2015)<br/
 DANIEL FELSENFELD - <span class="worktitle">Pianistic Maneuvers in the Dark</span> for piano four hands (2015)<br/><br/>
 JEFF HUDGINS - <span class="worktitle">Joanie</span> for two pianos (2015)<br/><br/>
 DAN LASAGA - <span class="worktitle">Detroit Derivatives</span> for piano four hands (2015)<br/><br/>
-PAT MUCHMORE - <span class="worktitle"><script type="text/javascript">document.write(pTitle);</script></span> for two pianos (2015)<br/><br/>
+PAT MUCHMORE - <span class="worktitle"><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline">
+<mrow>
+<mstyle mathsize="120%">
+<mstyle mathcolor="#2AD12A"><mn>4</mn><msub><mi>e</mi><mn>7</mn></mstyle>
+<mo>&#x2208;</mo>
+<mstyle mathcolor="#004DFF" mathvariant="double-struck"><mi>O</mi></mstyle>
+<mo>&#x2282;</mo>
+<mstyle mathcolor="#2AD12A"><mi>&#8901;</mi></mstyle><mstyle mathcolor="#004DFF"><mi>&#8901;</mi></mstyle><mstyle mathcolor="#00BFFF"><mi>&#8901;</mi></mstyle>
+</mrow>
+</mstyle>
+</math></span> for two pianos (2015)<br/><br/>
 KAMALA SANKARAM - <span class="worktitle">Martha</span> for piano four hands (2015)<br/><br/>
 </p>
 

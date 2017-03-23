@@ -5,6 +5,7 @@
 	<title>Upcoming Performances | Anti-Social Music</title>
 
 	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta http-equiv="imagetoolbar" content="false" />
 	<meta name="author" content="Anti-Social Music" />
 	<meta name="robots" content="index, follow" />
@@ -56,8 +57,9 @@
 <h4></h4>-->
 
 <ul class="upcomingperformances">
-	<li><a title="next show" href="/performances/DrinksAloneYetAgain.shtml"><span class="showtitle">ASM Drinks Alone Yet Again (+ Charles Waters PEACE FORMS)</span> Friday, February 10, 2016</a></li>
-	<li><a title="upcoming show" href="/performances/AforAccordion.shtml"><span class="showtitle">WORLD PREMIERES: A is for Accordion</span> Friday, March 24, 2017</a></li>
+	<li><a title="next show" href="/performances/AforAccordion.shtml"><span class="showtitle">WORLD PREMIERES: A is for Accordion</span> Friday, March 24, 2017</a></li>
+	<li><strike><a title="past show" href="/performances/DrinksAloneYetAgainAgain.shtml"><span class="showtitle">ASM Drinks Alone Yet Again (Again)</span> Monday, March 6, 2017</a></strike></li>
+	<li><strike><a title="past show" href="/performances/DrinksAloneYetAgain.shtml"><span class="showtitle">ASM Drinks Alone Yet Again (+ Charles Waters PEACE FORMS)</span> Friday, February 10, 2016</a></strike></li>
 	<li><strike><a title="past show" href="/performances/BabelRelease.shtml"><span class="showtitle">BABEL fragments release party</span> Thursday, August 25, 2016</a></strike></li>
 </ul>
 <!--

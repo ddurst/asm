@@ -5,6 +5,7 @@
 	<title>A is for Accordion (March 24, 2017) | Performances | Anti-Social Music</title>
 
 	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta http-equiv="imagetoolbar" content="false" />
 	<meta name="author" content="Anti-Social Music" />
 	<meta name="robots" content="index, follow" />
@@ -25,12 +26,16 @@
 	<!--[if IE 7]>
 	<link rel="stylesheet" href="/styles/ie7.css" type="text/css" />
 	<![endif]-->
+	<script type="text/javascript" async
+		src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+	</script>
+
 </head>
 <body>
 <div id="performancespage">
 	<div id="header">
 		<h1>Anti-Social Music</h1>
-		<h2>Upcoming Performance</h2>
+		<h2>Next Performance</h2>
 		<p class="accessibility">Jump to <a href="#content">Content</a> or <a href="#navigation">Main Navigation</a></p>
 		<ul id="navigation">
 			<li id="home"><a href="/">Home</a></li>
@@ -61,7 +66,17 @@ The last time my grandfather came to New York, Pat, he warned me, Pat, said I ha
 <p>
 NATHAN KOCI - <span class="worktitle">The Implications of Science</span> for accordion, flute, and violin<br/><br/>
 ANDREA LA ROSE - <span class="worktitle">what presents itself</span> for violin, cello, flute, clarinet, and accordion<br/><br/>
-PAT MUCHMORE - <span class="worktitle">2<sup>n</sup>-ion 5</span> for three accordions<br/><br/>
+PAT MUCHMORE - <span class="worktitle"><math xmlns="http://www.w3.org/1998/Math/MathML" display="inline">
+<mstyle mathsize="120%">
+<mrow>
+<mstyle mathcolor="#2AD12A"><mi>&#x22EF;</mi></mstyle>
+<mo>&#x2283;</mo>
+<mstyle mathcolor="#004DFF" mathvariant="double-struck"><mi>S</mi></mstyle>
+<mo>&#x220B;</mo>
+<mstyle mathcolor="#00BFFF"><mn>5</mn><msub><mi>e</mi><mn>15</mn></mstyle>
+</mrow>
+</mstyle>
+</math></span> for three accordions<br/><br/>
 DAVID DURST - <span class="worktitle">march of the reanimated</span> for accordion quartet<br/><br/>
 DAN LASAGA - <span class="worktitle">Bali Adhan</span> for accordion quartet<br/><br/>
 MAX DUYKERS - <span class="worktitle">Title TBD</span> for piano four hands and accordion<br/><br/>
