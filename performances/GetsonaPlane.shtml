@@ -86,9 +86,7 @@ NR to 8th street, 6 to Astor Place, L to 1st or 3rd Ave<br />
 
 	</div>
 
-	<div id="footer">
-		<p>Copyright &copy; 2000-2017 by Anti-Social Music. All rights reserved. We have the best rights. You're going to love these rights.</p>
-	</div>
+<!--#INCLUDE VIRTUAL="/footer.html"-->
 </div>
 
 <script type="text/javascript">

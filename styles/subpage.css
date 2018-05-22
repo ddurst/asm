@@ -119,6 +119,11 @@ body > div {
 }
 
 
+/* no page */
+#nopage #header {
+	background: url(/images/title_nopage.jpg) 177px 139px no-repeat;
+}
+
 /* press */
 #header ul li#press {
 	left: 314px;
@@ -338,6 +343,24 @@ body > div {
 }
 #musicpage #content {
 	padding-top: 0px;
+}
+#nopage .section1 {
+	background: url(/images/nopage_divider_1.jpg) center bottom no-repeat;
+	padding-bottom: 51px;
+	margin: 0 auto;
+}
+#nopage .section1 p {
+	xfont-family: serif;
+	font-size: 16px;
+	line-height: 20px;
+	padding-left: 0px;
+	width: 420px;
+}
+#nopage .section1 span.CoC {
+	float: right;
+	left: -105px;
+	position: relative;
+	top: -280px;
 }
 #presspage #brief {
 	background: url(/images/subhd_raves_brief.jpg) 365px 0px no-repeat;
@@ -1299,7 +1322,8 @@ body > div {
 #presspage #header, 
 #morepresspage #header, 
 #storepage #header, 
-#getinvolvedpage #header {
+#getinvolvedpage #header, 
+#nopage #header {
 	height: auto;
 }
 
@@ -1327,7 +1351,8 @@ body > div {
 #presspage #navigation,
 #morepresspage #navigation, 
 #storepage #navigation, 
-#getinvolvedpage #navigation {
+#getinvolvedpage #navigation, 
+#nopage #navigation {
 	height: auto;
 }
 
@@ -1343,7 +1368,16 @@ body > div {
 	width: 492px;
 	margin: 0 auto;
 }
+#nopage #header {
+	background: none;
+}
 
+#nopage #header ul li#performances, 
+#nopage #header ul li#music, 
+#nopage #header ul li#members, 
+#nopage #header ul li#history, 
+#nopage #header ul li#press, 
+#nopage #header ul li#store, 
 #performancespage #header ul li#performances, 
 #performancespage #header ul li#music, 
 #performancespage #header ul li#members, 
@@ -1409,6 +1443,18 @@ body > div {
 	top: auto;
 }
 
+#nopage #header ul li#performances a, 
+#nopage #header ul li#music a, 
+#nopage #header ul li#members a, 
+#nopage #header ul li#history a, 
+#nopage #header ul li#press a, 
+#nopage #header ul li#store a, 
+#nopage #header ul li#performances a:hover, 
+#nopage #header ul li#music a:hover, 
+#nopage #header ul li#members a:hover, 
+#nopage #header ul li#history a:hover, 
+#nopage #header ul li#press a:hover, 
+#nopage #header ul li#store a:hover, 
 #performancespage #header ul li#performances a, 
 #performancespage #header ul li#music a, 
 #performancespage #header ul li#members a, 
@@ -1545,7 +1591,8 @@ body > div {
 #presspage #content, 
 #morepresspage #content, 
 #storepage #content, 
-#getinvolvedpage #content {
+#getinvolvedpage #content, 
+#nopage #content {
 	background: url("/images/performances_divider_4.jpg") 55% bottom no-repeat;
 	padding: 40px 3% 52px 3%;
 }
@@ -1677,12 +1724,27 @@ body > div {
 #presspage #content p, 
 #presspage #content p.intro, 
 #presspage #content p.lead, 
-#morepresspage #content p {
+#morepresspage #content p,
+#nopage #content p {
 	background: none;
 	margin: 0;
 	padding: 0 0 20px 0;
 	text-align: left;
 	width: inherit;
+}
+#nopage .section1 {
+	background: none;
+}
+#nopage .section1 p {
+	font-size: 14px;
+}
+#nopage .section1 span.CoC {
+	display: block;
+	float: none;
+	left: 0;
+	position: relative;
+	text-align: center;
+	top: 0;
 }
 #musicpage #audio {
 	background-position: 50% bottom;

@@ -253,7 +253,15 @@ a:hover {
 		position: relative;
 	}
 
-
+	#pr {
+		padding-bottom: 20px;
+	}
+	.CoC {
+		float: left;
+		left: -114px;
+		position: absolute;
+		top: 10px;
+	}
 /*
 #recordings-promo p img {
 	float: left;
@@ -351,116 +359,133 @@ a:hover {
 		height: 50px;
 		width: 50px;
 	}
+	.CoC {
+		float: none;
+		left: 110px;
+		position: relative;
+		top: 0px;
+	}
 }
 
 @media only screen and (max-width: 768px) {
 
-#homepage {
-	padding: 0;
-	margin: 1%;
-	width: 98%;
-}
+	#homepage {
+		padding: 0;
+		margin: 1%;
+		width: 98%;
+	}
 
-#content {
-	position: relative;
-	width: 100%;
-}
+	#content {
+		position: relative;
+		width: 100%;
+	}
 
-#header, 
-#navigation {
-	background: none;
-	height: auto;
-	position: relative;
-	width: 100%;
-}
-#header ul {
-	left: 0;
-	margin-left: auto;
-	margin-right: auto;
-	position: relative;
-	width: 100%;
-}
+	#header, 
+	#navigation {
+		background: none;
+		height: auto;
+		position: relative;
+		width: 100%;
+	}
+	#header ul {
+		left: 0;
+		margin-left: auto;
+		margin-right: auto;
+		position: relative;
+		width: 100%;
+	}
 
-#header li {
-	display: inline;
-	font-size: 16px;
-	line-height: 1.5;
-	position: relative;
-	text-indent: 0;
-}
+	#header li {
+		display: inline;
+		font-size: 16px;
+		line-height: 1.5;
+		position: relative;
+		text-indent: 0;
+	}
 
-#header h1 {
-	background: url("/images/ASM_scriptlogo.jpg") 50% 0 no-repeat;
-	background-size: contain;
-	height: 122px;
-	margin: 0 auto;
-	position: relative;
-	width: auto;
-}
+	#header h1 {
+		background: url("/images/ASM_scriptlogo.jpg") 50% 0 no-repeat;
+		background-size: contain;
+		height: 122px;
+		margin: 0 auto;
+		position: relative;
+		width: auto;
+	}
 
-#header li#performances, 
-#header li#music, 
-#header li#members, 
-#header li#history, 
-#header li#press, 
-#header li#store {
-	left: auto;
-	margin: 0 3%;
-	position: relative;
-	right: auto;
-	top: auto;
-}
+	#header li#performances, 
+	#header li#music, 
+	#header li#members, 
+	#header li#history, 
+	#header li#press, 
+	#header li#store {
+		left: auto;
+		margin: 0 3%;
+		position: relative;
+		right: auto;
+		top: auto;
+	}
 
-#header li#performances a, 
-#header li#performances a:hover, 
-#header li#music a, 
-#header li#music a:hover, 
-#header li#members a, 
-#header li#members a:hover, 
-#header li#history a, 
-#header li#history a:hover, 
-#header li#press a, 
-#header li#press a:hover, 
-#header li#store a, 
-#header li#store a:hover {
-	background: none;
-	display: inline-block;
-	height: auto;
-	margin-top: 6px;
-	width: auto;
-}
+	#header li#performances a, 
+	#header li#performances a:hover, 
+	#header li#music a, 
+	#header li#music a:hover, 
+	#header li#members a, 
+	#header li#members a:hover, 
+	#header li#history a, 
+	#header li#history a:hover, 
+	#header li#press a, 
+	#header li#press a:hover, 
+	#header li#store a, 
+	#header li#store a:hover {
+		background: none;
+		display: inline-block;
+		height: auto;
+		margin-top: 6px;
+		width: auto;
+	}
 
-#community {
-	float: none;
-	margin: 0;
-	padding: 20px 0 0 20px;
-	position: relative;
-	width: 95%;
-}
+	#community {
+		float: none;
+		margin: 0;
+		padding: 20px 0 0 20px;
+		position: relative;
+		width: 95%;
+	}
 
-#news {
-	float: none;
-	padding-left: 20px;
-	position: relative;
-	width: 95%;
-}
+	#news {
+		float: none;
+		padding-left: 20px;
+		position: relative;
+		width: 95%;
+	}
 
-#solicit {
-	margin: 50px auto 0 auto;
-	width: 65%;
-}
-#recordings-promo {
-	margin-left: 105px;
-	padding-right: 45px;
-}
-#recordings-promo ul {
-	left: -105px;
-}
-#bandcamp_player {
-	left: 0;
-	margin-left: 105px;
-	position: relative;
-}
+	#solicit {
+		margin: 50px auto 0 auto;
+		width: 65%;
+	}
+	#recordings-promo {
+		margin-left: 105px;
+		padding-right: 45px;
+	}
+	#recordings-promo ul {
+		left: -105px;
+	}
+	#bandcamp_player {
+		left: 0;
+		margin-left: 105px;
+		position: relative;
+	}
+
+	#pr {
+		margin-left: 105px;
+		padding-right: 45px;
+	}
+	.CoC {
+		float: none;
+		left: 14px;
+		position: absolute;
+		top: 20px;
+	}
 
 } /* end max-width 768 */
 
@@ -468,47 +493,61 @@ a:hover {
 
 @media only screen and (max-width: 491px) {
 
-#header h1 {
-	height: 90px;
-}
-#header ul {
-	padding-top: 0;
+	#header h1 {
+		height: 90px;
+	}
+	#header ul {
+		padding-top: 0;
+	}
+
+	#news, 
+	#community {
+		padding-left: 0;
+		text-align: center;
+	}
+
+	#solicit {
+		width: 98%;
+	}
+
+	#recordings-promo {
+		margin-left: 3%;
+		padding-right: 0;
+		text-align: left;
+	}
+	#recordings-promo p {
+		xmargin: 0;
+	}
+
+	#recordings-promo ul {
+		float: left;
+		left: 0;
+		top: 100%;
+	}
+	#recordings-promo li {
+		display: inline-block;
+	}
+	#recordings-promo li img {
+		width: 50px;
+		height: auto;
+	}
+	#bandcamp_player {
+		margin-left: 3%;
+		padding-top: 80px;
+	}
+
+	#pr {
+		margin-left: 3%;
+		padding-bottom: 40px;
+		padding-right: 0;
+	}
+	.CoC {
+		float: none;
+		xleft: -114px;
+		position: relative;
+		xtop: 10px;
+		text-align: center;
 }
 
-#news, 
-#community {
-	padding-left: 0;
-	text-align: center;
-}
-
-#solicit {
-	width: 98%;
-}
-
-#recordings-promo {
-	margin-left: 3%;
-	padding-right: 0;
-	text-align: left;
-}
-#recordings-promo p {
-	xmargin: 0;
-}
-
-#recordings-promo ul {
-	float: left;
-	left: 0;
-	top: 100%;
-}
-#recordings-promo li {
-	display: inline-block;
-}
-#recordings-promo li img {
-	width: 50px;
-	height: auto;
-}
-#bandcamp_player {
-	margin-left: 3%;
-	padding-top: 80px;
-}
 
 } /* end max-width 491 */
