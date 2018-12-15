@@ -2,7 +2,7 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
-	<title>Diana's Opening Night (October 20, 2012) | Performances | Anti-Social Music</title>
+	<title>Upcoming Performances | Anti-Social Music</title>
 
 	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -11,8 +11,8 @@
 	<meta name="robots" content="index, follow" />
 	<meta http-equiv="X-UA-Compatible" content="IE=7" />
 	<meta property="og:site_name" content="Anti-Social Music" />
-	<meta property="og:url" content="https://www.antisocialmusic.org/performances/Schoenbruning.shtml" />
-	<meta property="og:title" content="Diana's Opening Night" />
+	<meta property="og:url" content="https://www.antisocialmusic.org/Performances.shtml" />
+	<meta property="og:title" content="Upcoming Performances" />
 	<meta property="og:image" content="https://www.antisocialmusic.org/ASM_social.jpg" />
 	<link rel="SHORTCUT ICON" href="/favicon.ico" type="image/x-icon" />
 	<link rel="image_src" href="https://www.antisocialmusic.org/ASM_social.jpg" />
@@ -31,7 +31,7 @@
 <div id="performancespage">
 	<div id="header">
 		<h1>Anti-Social Music</h1>
-		<h2>Past Performance</h2>
+		<h2>Upcoming Performances</h2>
 		<p class="accessibility">Jump to <a href="#content">Content</a> or <a href="#navigation">Main Navigation</a></p>
 		<ul id="navigation">
 			<li id="home"><a href="/">Home</a></li>
@@ -48,47 +48,32 @@
 
 		<div class="column">
 			<div id="intro">
-
-<h3>Diana's Opening Night</h3>
-
+<h3>Upcoming Shows</h3>
+<!--<h3>Our 2018-2019 season is coming soon!</h3>-->
 			</div>
 
 			<div id="details">
-
-<p>
-	We're looking forward to enjoying and celebrating Brooklyn-based Diana Schoenbrun's solo show! Featuring original artwork, illustrations, and puppets... and us on opening night!
-</p>
-
-<p>
-	Join us for drink specials, complimentary hors d'oeuvres, and the riveting, orchestral adventure in miniature that is ASM music trio, starting at 8 pm at Red Horse Cafe.
-</p>
- 
-<p>
-	The ASM music trio features <b>Pat Muchmore</b>, <b>Bradley Kemp</b>, and <b>Ed RosenBerg III</b> performing five world premieres and two ASM premieres!
-</p>
- 
-<p>
-	About longtime ASM friend Diana Schoenbrun: Diana Schoenbrun is an illustrator, author, and puppet builder based in Brooklyn, New York. Diana enjoys working in a variety of mediums such as acrylic, paper, fabric, and wood. Her work ranges from humorous to whimsical. Diana has published two craft books for children and adults called, Beasties and Puppet Play. Her children's book illustrations have appeared in many educational books in the US. Diana has also enjoyed teaching workshops at Etsy, Makerfaire, American Folk Art Museum in NYC, the Museum of Craft and Folk Art San Francisco, and 826NYC. She created puppets for a music video and for the Disney movie, The Muppets(2011). Diana recently returned from Prague where she was studying marionette carving and performance. She is currently working on a collaborative writing, music, and illustration project.</p>
-
-<p>
-	<strong>Diana's Opening Night</strong><br/>
-	WHEN: Saturday, October 20th: 8 PM<br/>
-	WHERE: Red Horse Cafe, 497 6th Ave, Brooklyn, NY 11215<br/>
-	TELL THE (online) WORLD: <a href="https://www.facebook.com/events/442455239123570/" target="fb">https://www.facebook.com/events/442455239123570/</a>
-</p>
-
-<p>
-	hugs,<br/>
-	ASM
-</p>
-
+<!--<p>What you missed last season...</p>-->
+<ul class="upcomingperformances">
+	<li><a title="next show" href="/performances/Enchantress.shtml"><span class="showtitle">ASM + New Camerata Opera present Kamala Sankaram and Rob Handel's ENCHANTRESS</span> Friday, November 30, 2018</a></li>
+<strike><li><a title="past show" href="/performances/ASMriffs.shtml"><span class="showtitle">ASM riffs (Hangs out in barres, again)</span> Saturday, June 30, 2018</a></li>
+	<li><a title="past show" href="/performances/AintNeverHeard.shtml"><span class="showtitle">ASM Plays What You Ain't Never Heard Yet</span> Thursday, June 28, 2018</a></li>
+	<li><a title="past show" href="/performances/ASMinBarres.shtml"><span class="showtitle">ASM Hangs out in barres</span> Thursday, June 21, 2018</a></li>
+	<li><a title="past show" href="/performances/DrinksAlonePoursOut.shtml"><span class="showtitle">ASM Drinks Alone / Pours One Out</span> Sunday, December 17, 2017</a></li></strike>
+</ul>
+<!--
+<ul class="pastperformances">
+	<li><strike><a title="past show" href="/performances/ASMriffs.shtml"><span class="showtitle">ASM riffs (Hangs out in barres, again)</span> Saturday, June 30, 2018</a></strike></li>
+	<li><strike><a title="past show" href="/performances/AintNeverHeard.shtml"><span class="showtitle">ASM Plays What You Ain't Never Heard Yet</span> Thursday, June 28, 2018</a></strike></li>
+	<li><strike><a title="past show" href="/performances/ASMinBarres.shtml"><span class="showtitle">ASM Hangs out in barres</span> Thursday, June 21, 2018</a></strike></li>
+	<li><strike><a title="past show" href="/performances/LookingAtYou.shtml"><span class="showtitle">Looking At You</span> Thursday-Friday, February 8-9, 2018</a></strike></li>
+	<li><strike><a title="past show" href="/performances/DrinksAlonePoursOut.shtml"><span class="showtitle">ASM Drinks Alone / Pours One Out</span> Sunday, December 17, 2017</a></strike></li>
+</ul>
+-->
 			</div>
 		</div>
 
 		<div class="column">
-			<div id="photo">
-			</div>
-
 			<div id="pastperformances">
 <!--#INCLUDE VIRTUAL="/pastperformances.html"-->
 			</div>

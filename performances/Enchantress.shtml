@@ -2,7 +2,7 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
-	<title>Upcoming Performances | Anti-Social Music</title>
+	<title>Enchantress (November 30, 2018) | Performances | Anti-Social Music</title>
 
 	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -11,11 +11,11 @@
 	<meta name="robots" content="index, follow" />
 	<meta http-equiv="X-UA-Compatible" content="IE=7" />
 	<meta property="og:site_name" content="Anti-Social Music" />
-	<meta property="og:url" content="http://www.antisocialmusic.org/performances.shtml" />
-	<meta property="og:title" content="Upcoming Performances" />
-	<meta property="og:image" content="http://www.antisocialmusic.org/ASM_social.jpg" />
+	<meta property="og:url" content="https://www.antisocialmusic.org/performances/Enchantress.shtml" />
+	<meta property="og:title" content="ASM riffs" />
+	<meta property="og:image" content="https://www.antisocialmusic.org/ASM_social.jpg" />
 	<link rel="SHORTCUT ICON" href="/favicon.ico" type="image/x-icon" />
-	<link rel="image_src" href="http://www.antisocialmusic.org/ASM_social.jpg" />
+	<link rel="image_src" href="https://www.antisocialmusic.org/ASM_social.jpg" />
 	<meta name="description" content="Anti-Social Music, Inc., is a non-profit collective of composers and performers created for the purpose of presenting new music by emerging, primarily New York-based musicians." />
 
 	<link rel="stylesheet" href="/styles/init.css" type="text/css" />
@@ -31,7 +31,7 @@
 <div id="performancespage">
 	<div id="header">
 		<h1>Anti-Social Music</h1>
-		<h2>Upcoming Performances</h2>
+		<h2>Next Performance</h2>
 		<p class="accessibility">Jump to <a href="#content">Content</a> or <a href="#navigation">Main Navigation</a></p>
 		<ul id="navigation">
 			<li id="home"><a href="/">Home</a></li>
@@ -48,33 +48,46 @@
 
 		<div class="column">
 			<div id="intro">
-<!--
-<h3>Upcoming Shows</h3>
--->
-<h3>Our 2018-2019 season is coming soon!</h3>
+
+<h3>ASM + New Camerata Opera present Kamala Sankaram and Rob Handel's ENCHANTRESS</h3>
 			</div>
 
 			<div id="details">
-<p>What you missed last season...</p>
-<ul class="upcomingperformances">
-<!--
-	<li><strike><a title="past show" href="/performances/ASMriffs.shtml"><span class="showtitle">ASM riffs (Hangs out in barres, again)</span> Saturday, June 30, 2018</a></strike></li>
-	<li><strike><a title="past show" href="/performances/AintNeverHeard.shtml"><span class="showtitle">ASM Plays What You Ain't Never Heard Yet</span> Thursday, June 28, 2018</a></strike></li>
-	<li><strike><a title="past show" href="/performances/ASMinBarres.shtml"><span class="showtitle">ASM Hangs out in barres</span> Thursday, June 21, 2018</a></strike></li>
-	<li><strike><a title="past show" href="/performances/DrinksAlonePoursOut.shtml"><span class="showtitle">ASM Drinks Alone / Pours One Out</span> Sunday, December 17, 2017</a></strike></li>
-</ul>
-<ul class="pastperformances">
--->
-	<li><strike><a title="past show" href="/performances/ASMriffs.shtml"><span class="showtitle">ASM riffs (Hangs out in barres, again)</span> Saturday, June 30, 2018</a></strike></li>
-	<li><strike><a title="past show" href="/performances/AintNeverHeard.shtml"><span class="showtitle">ASM Plays What You Ain't Never Heard Yet</span> Thursday, June 28, 2018</a></strike></li>
-	<li><strike><a title="past show" href="/performances/ASMinBarres.shtml"><span class="showtitle">ASM Hangs out in barres</span> Thursday, June 21, 2018</a></strike></li>
-	<li><strike><a title="past show" href="/performances/LookingAtYou.shtml"><span class="showtitle">Looking At You</span> Thursday-Friday, February 8-9, 2018</a></strike></li>
-	<li><strike><a title="past show" href="/performances/DrinksAlonePoursOut.shtml"><span class="showtitle">ASM Drinks Alone / Pours One Out</span> Sunday, December 17, 2017</a></strike></li>
-</ul>
+
+<p>
+<span class="worktitle">ENCHANTRESS</span> is a one act opera about Ada Lovelace, the inventor of the first computer, originally written under the auspices of American Lyric Theater’s Composer/Librettist Development Program in 2014, and revived by New Camerata Opera and Anti-Social Music for a special one night only performance! Afterwards stick around for a set by Bombay Rickey as they reprise their ever popular hit cabaret show about the exotic life and times of Yma Sumac.
+</p>
+
+<p>
+Friday, November 30, 2018<br/>
+8:00 PM<br/>
+Flea Theater<br/>
+20 Thomas Street (1 to Franklin, NRQWJZ to Canal)<br/>
+Buy tickets from the Flea Theater <a href="http://theflea.org/shows/enchantressbombayrickey/">here</a>
+</p>
+
+<p>
+ENCHANTRESS<br/>
+Composed By: Kamala Sankaram<br/>
+Libretto By: Rob Handel<br/>
+Directed By: Victor Khodadad<br/>
+Musical Direction: Alla Milchtein<br/>
+Eva Parr: Ada Lovelace<br/>
+Erik Bagger: William Lovelace<br/>
+Stan Lacy: Charles Babbage
+</p>
+
+
+<p class="smallprint">This program is supported, in part, by public funds from the New York City Department of Cultural Affairs, in partnership with the City Council, and in part with public funds from the New York State Council on the Arts, a state agency.</p>
+
 			</div>
 		</div>
 
 		<div class="column">
+			<div id="photo">
+<img src="/images/performances/Enchantress_NOV_web.jpg" alt="ENCHANTRESS promo image" title="enchantress" />
+			</div>
+
 			<div id="pastperformances">
 <!--#INCLUDE VIRTUAL="/pastperformances.html"-->
 			</div>

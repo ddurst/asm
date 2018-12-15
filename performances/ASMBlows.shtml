@@ -11,11 +11,11 @@
 	<meta name="robots" content="index, follow" />
 	<meta http-equiv="X-UA-Compatible" content="IE=7" />
 	<meta property="og:site_name" content="Anti-Social Music" />
-	<meta property="og:url" content="http://www.antisocialmusic.org/performances/ASMBlows.shtml" />
+	<meta property="og:url" content="https://www.antisocialmusic.org/performances/ASMBlows.shtml" />
 	<meta property="og:title" content="ASM Blows!" />
-	<meta property="og:image" content="http://www.antisocialmusic.org/ASM_social.jpg" />
+	<meta property="og:image" content="https://www.antisocialmusic.org/ASM_social.jpg" />
 	<link rel="SHORTCUT ICON" href="/favicon.ico" type="image/x-icon" />
-	<link rel="image_src" href="http://www.antisocialmusic.org/ASM_social.jpg" />
+	<link rel="image_src" href="https://www.antisocialmusic.org/ASM_social.jpg" />
 	<meta name="description" content="Anti-Social Music, Inc., is a non-profit collective of composers and performers created for the purpose of presenting new music by emerging, primarily New York-based musicians." />
 
 	<link rel="stylesheet" href="/styles/init.css" type="text/css" />
