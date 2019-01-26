@@ -2,6 +2,14 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
+<!-- Global Site Tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-133225713-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-133225713-1');
+</script>
 	<title>Upcoming Performances | Anti-Social Music</title>
 
 	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
@@ -55,11 +63,14 @@
 			<div id="details">
 <!--<p>What you missed last season...</p>-->
 <ul class="upcomingperformances">
-	<li><a title="next show" href="/performances/Enchantress.shtml"><span class="showtitle">ASM + New Camerata Opera present Kamala Sankaram and Rob Handel's ENCHANTRESS</span> Friday, November 30, 2018</a></li>
+	<li><a title="next show" href="/performances/YiddishLaborSongs.shtml"><span class="showtitle">Yiddish Labor Songs and More!</span> Friday, January 18, 2019</a></li>
+<strike><li><a title="past show" href="/performances/Enchantress.shtml"><span class="showtitle">ASM + New Camerata Opera present Kamala Sankaram and Rob Handel's ENCHANTRESS</span> Friday, November 30, 2018</a></li></strike>
+<!--
 <strike><li><a title="past show" href="/performances/ASMriffs.shtml"><span class="showtitle">ASM riffs (Hangs out in barres, again)</span> Saturday, June 30, 2018</a></li>
 	<li><a title="past show" href="/performances/AintNeverHeard.shtml"><span class="showtitle">ASM Plays What You Ain't Never Heard Yet</span> Thursday, June 28, 2018</a></li>
 	<li><a title="past show" href="/performances/ASMinBarres.shtml"><span class="showtitle">ASM Hangs out in barres</span> Thursday, June 21, 2018</a></li>
 	<li><a title="past show" href="/performances/DrinksAlonePoursOut.shtml"><span class="showtitle">ASM Drinks Alone / Pours One Out</span> Sunday, December 17, 2017</a></li></strike>
+-->
 </ul>
 <!--
 <ul class="pastperformances">
@@ -84,15 +95,5 @@
 <!--#INCLUDE VIRTUAL="/footer.html"-->
 </div>
 
-<script type="text/javascript">
-var _gaq = _gaq || [];
-_gaq.push(['_setAccount', 'UA-17744388-1']);
-_gaq.push(['_trackPageview']);
-(function() {
-	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-})();
-</script>
 </body>
 </html>

@@ -1,21 +1,28 @@
 ## Add SSI.
+# DH is automatically doing this for shtml. Add for html
 #AddType text/html .shtml
 #AddHandler server-parsed .shtml
+AddHandler server-parsed .html
 #Options FollowSymLinks Includes
-#Options -Indexes
+Options -Indexes
 #
 ## Setup rewriting.
 RewriteEngine On
 #RewriteBase     /
 
 
-## COMMENTED OUT ON LOCAL DEV ONLY
+# COMMENT OUT ON LOCAL DEV ONLY
 # This checks to make sure the connection is not already HTTPS
-RewriteCond    %{HTTPS}        !=on
-RewriteRule    ^(.*)$	https://%{HTTP_HOST}%{REQUEST_URI}       [R=301,L]
-#
+#RewriteCond    %{HTTPS}        !=on
+#RewriteRule    ^(.*)$	https://%{HTTP_HOST}%{REQUEST_URI}       [R=301,L]
+# LEAVE COMMENTED OUT, HANDLED ELSEWHERE
 #RewriteCond    %{HTTP_HOST}    !^antisocialmusic\.com
 #RewriteRule    (.*)    https://antisocialmusic.org/$1       [R=301,L]
+
+# These are old redirects handled in files via window.location scripting. Putting them here.
+Redirect 301 /performances/performances.html /Performances.shtml
+Redirect 301 /performances/performances.shtml /Performances.shtml
+Redirect 301 /performances/default.html /Performances.shtml
 
 Redirect 301 /music.html /Music.html
 Redirect 301 /performances.html /Performances.html
@@ -24,3 +31,5 @@ Redirect 301 /history.html /History.html
 Redirect 301 /press.html /Press.html
 Redirect 301 /store.html /Store.html
 Redirect 301 /pressphotos.html /PressPhotos.html
+
+
