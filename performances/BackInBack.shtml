@@ -1,0 +1,116 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<!-- Global Site Tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-133225713-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-133225713-1');
+</script>
+	<title>ASM Back in Back (June 22, 2019) | Performances | Anti-Social Music</title>
+
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="imagetoolbar" content="false" />
+	<meta name="author" content="Anti-Social Music" />
+	<meta name="robots" content="index, follow" />
+	<meta http-equiv="X-UA-Compatible" content="IE=7" />
+	<meta property="og:site_name" content="Anti-Social Music" />
+	<meta property="og:url" content="https://www.antisocialmusic.org/performances/BackInBack.shtml" />
+	<meta property="og:title" content="ASM Back in Back" />
+	<meta property="og:image" content="https://www.antisocialmusic.org/ASM_social.jpg" />
+	<link rel="SHORTCUT ICON" href="/favicon.ico" type="image/x-icon" />
+	<link rel="image_src" href="https://www.antisocialmusic.org/ASM_social.jpg" />
+	<meta name="description" content="Anti-Social Music, Inc., is a non-profit collective of composers and performers created for the purpose of presenting new music by emerging, primarily New York-based musicians." />
+
+	<link rel="stylesheet" href="/styles/init.css" type="text/css" />
+	<link rel="stylesheet" href="/styles/subpage.css" type="text/css" />
+	<!--[if IE 6]>
+	<link rel="stylesheet" href="/styles/ie6.css" type="text/css" />
+	<![endif]-->
+	<!--[if IE 7]>
+	<link rel="stylesheet" href="/styles/ie7.css" type="text/css" />
+	<![endif]-->
+</head>
+<body>
+<div id="performancespage">
+	<div id="header">
+		<h1>Anti-Social Music</h1>
+		<h2>Past Performance</h2>
+		<p class="accessibility">Jump to <a href="#content">Content</a> or <a href="#navigation">Main Navigation</a></p>
+		<ul id="navigation">
+			<li id="home"><a href="/">Home</a></li>
+			<li id="performances"><a href="/Performances.shtml">Performances</a></li>
+			<li id="music"><a href="/Music.html">Music</a></li>
+			<li id="members"><a href="/Members.html">Members</a></li>
+			<li id="history"><a href="/History.html">History</a></li>
+			<li id="press"><a href="/Press.html">Press</a></li>
+			<li id="store"><a href="/Store.html">Store</a></li>
+		</ul>
+	</div>
+
+	<div id="content" class="clear">
+
+		<div class="column">
+			<div id="intro">
+
+<h3>ASM Back in Back</h3>
+			</div>
+
+			<div id="details">
+
+<p>You're probably expecting some Yankovician play on AC/DC's "Back In Black" lyrics, and at this point you're likely realizing that's not going to happen. You're disappointed. That's fair. We can't always rise to the challenge of a master parodist, but we can turn a concert into an experience.</p>
+
+<p>You read that right. I'm upping the ante. I'm saying: antiphonal.</p>
+
+<p>While the program is a mix of world premieres and other repertoire, we're doing something new for you &ndash; the audience. We're putting you on the stage.</p>
+
+<p>Or, rather, we're putting the stage around you. This performance seeks to use the space as a performer. All of these pieces exploit the physical space to immerse the listener in real-life surround sound live performance. Goodbye, fancy hipster loft parties. Goodbye, austere "us and them" seating arrangements. We will be all over the place; here, there, and everywhere; right behind you, and way over there; binaural. Get it? Got it? Good.</p>
+
+<p>You will stand in the presence of the sound waves of:<br/><br/>
+Rima FAND - <span class="worktitle">Serpent Tango</span> for string quartet<br/><br/>
+Al GIUSTO - <span class="worktitle">Suite No. 1</span> for string trio and trumpet<br/><br/>
+Peter HESS - <span class="worktitle">Salt or Hail</span> for two clarinets<br/><br/>
+Pat MUCHMORE - <span class="worktitle">String Quartet No. 3 "Antiphonal"</span>world premiere for string quartet<br/><br/>
+Kamala SANKARAM - <span class="worktitle">60 Words</span> for string quartet<br/><br/>
+Charles WATERS - <span class="worktitle">Father Popieluszko Square</span> for two clarinets and strings
+</p>
+
+<p>You will stand in the presence of the talents of:<br/><br/>
+	Tim Byrnes, Hubert Chen, Claudia Chopek, Jean Cook, Peter Hess, Judith Insell, Pat Muchmore, and Charlie Waters.
+</p>
+
+<p><b>
+	Saturday, June 22 at 7:30 PM<br/>
+	National Opera Center<br/>
+	330 7th Ave, NYC (1/N/R to 28th, N/Q/R/B/D/F/M to 34th)<br/>
+	Always a steal at $9.99
+</b></p>
+
+<p class="smallprint">
+This program is supported, in part, by public funds from the New York City Department of Cultural Affairs, in partnership with the City Council, which is basically to say - your tax dollars at work. Yeah, frightening isn't it?
+</p>
+
+			</div>
+		</div>
+
+		<div class="column">
+			<div id="photo">
+<img src="/images/performances/antiphonal.png" alt="Anti-Phonal Music / Saturday, June 22, 2019 at 7:30 PM / Anti-Social Music" title="ASM is all around you" />
+			</div>
+
+			<div id="pastperformances">
+<!--#INCLUDE VIRTUAL="/pastperformances.html"-->
+			</div>
+		</div>
+
+	</div>
+
+<!--#INCLUDE VIRTUAL="/footer.html"-->
+</div>
+
+</body>
+</html>

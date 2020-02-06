@@ -1630,12 +1630,16 @@ body > div {
 }
 
 #performancespage #pastperformances ul {
-	float: none;
+	display: flex;
+	flex-flow: row wrap;
 	clear: both;
+	float: none;
 }
 #performancespage #pastperformances ul li {
+/*
 	float: left;
 	height: 50px;
+*/
 	padding-right: 5%;
 	width: 45%;
 }
@@ -1971,9 +1975,11 @@ body > div {
 	max-width: 100%;
 }
 
+/*
 #performancespage #pastperformances ul li {
 	height: 90px;
 }
+*/
 
 #musicpage #audio {
 	background-size: contain;

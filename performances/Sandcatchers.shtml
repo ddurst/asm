@@ -10,7 +10,7 @@
   gtag('js', new Date());
   gtag('config', 'UA-133225713-1');
 </script>
-	<title>Upcoming Performances | Anti-Social Music</title>
+	<title>ASM Presents Sandcatchers (April 24, 2019) | Performances | Anti-Social Music</title>
 
 	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -19,8 +19,8 @@
 	<meta name="robots" content="index, follow" />
 	<meta http-equiv="X-UA-Compatible" content="IE=7" />
 	<meta property="og:site_name" content="Anti-Social Music" />
-	<meta property="og:url" content="https://www.antisocialmusic.org/Performances.shtml" />
-	<meta property="og:title" content="Upcoming Performances" />
+	<meta property="og:url" content="https://www.antisocialmusic.org/performances/Sandcatchers.shtml" />
+	<meta property="og:title" content="ASM Presents Sandcatchers" />
 	<meta property="og:image" content="https://www.antisocialmusic.org/ASM_social.jpg" />
 	<link rel="SHORTCUT ICON" href="/favicon.ico" type="image/x-icon" />
 	<link rel="image_src" href="https://www.antisocialmusic.org/ASM_social.jpg" />
@@ -39,7 +39,7 @@
 <div id="performancespage">
 	<div id="header">
 		<h1>Anti-Social Music</h1>
-		<h2>Upcoming Performances</h2>
+		<h2>Past Performance</h2>
 		<p class="accessibility">Jump to <a href="#content">Content</a> or <a href="#navigation">Main Navigation</a></p>
 		<ul id="navigation">
 			<li id="home"><a href="/">Home</a></li>
@@ -56,32 +56,48 @@
 
 		<div class="column">
 			<div id="intro">
-<h3>Upcoming Shows</h3>
-<!--<h3>Our 2018-2019 season is coming soon!</h3>-->
+
+<h3>ASM Presents Sandcatchers</h3>
 			</div>
 
 			<div id="details">
-<!--<p>What you missed last season...</p>-->
-<ul class="upcomingperformances">
-	<li><a title="next show" href="/performances/DrinksAloneAloneAgainAgain.shtml"><span class="showtitle">ASM Drinks Alone, Alone Again, Again</span> Sunday, February 23, 2020</a></li>
-	<li><a title="future show" href="/performances/"><span class="showtitle">Saxophone show (details TBD)</span> Friday, May 22, 2020</a></li>
-	<li><a title="future show" href="/performances/"><span class="showtitle">Accordion show (details TBD)</span> Friday, June 5, 2020</a></li>
-</ul>
-<!--
-	<strike>
-		<li><a title="next show" href="/performances/ThisIsTheGround.shtml"><span class="showtitle">ASM + Opera On Tap present <i>This Is The Ground</i></span> Friday, July 5, 2019<br/>Saturday, July 6, 2019<br/>Friday, July 12, 2019<br/>Saturday, July 13, 2019</a></li>
-		<li><a title="past show" href="/performances/BeefermanTrio.shtml"><span class="showtitle">ASM Presents Beeferman's Organ Trio</span> Tuesday, June 14, 2019</a></li>
-		<li><a title="past show" href="/performances/BackInBack.shtml"><span class="showtitle">ASM Back In Back</span> Saturday, June 22, 2019</a></li>
-		<li><a title="past show" href="/performances/DrinksAloneAgainSquared.shtml"><span class="showtitle">ASM Drinks Alone Again (Squared)</span> Tuesday, May 14, 2019</a></li>
-		<li><a title="past show" href="/performances/Sandcatchers.shtml"><span class="showtitle">ASM Presents Sandcatchers</span> Wednesday, April 24, 2019</a></li>
-		<li><a title="past show" href="/performances/YiddishLaborSongs.shtml"><span class="showtitle">Yiddish Labor Songs and More!</span> Friday, January 18, 2019</a></li>
-		<li><a title="past show" href="/performances/Enchantress.shtml"><span class="showtitle">ASM + New Camerata Opera present Kamala Sankaram and Rob Handel's ENCHANTRESS</span> Friday, November 30, 2018</a></li>
-	</strike>
--->
+
+<p>
+ASM and Church Ave Sessions present an evening of music for plucked strings.
+</p>
+
+<p>
+Program to include new works for Sandcatchers + guests by Yoshie Fruchter
+</p>
+
+<p>
+Sandcatchers is:<br/>
+<b>Yoshie Fruchter</b> (oud)<br/>
+<b>Myk Freedman</b> (lap steel)<br/>
+<b>Michael Bates</b> (bass)<br/>
+<b>Shai Wetzer</b> (percussion)<br/>
+<br/>
+with guests <b>Jean Rohe</b> (vocal) and <b>Tim Sparks</b> (acoustic guitar)
+</p>
+
+<p>
+Wed 24 Apr 7:30 PM<br/>
+Flatbush Jewish Center<br/>
+327 East 5th St, BK (F/G to Church, Q to Beverley)
+</p>
+
+<p class="smallprint">
+This program is supported, in part, by public funds from the New York City Department of Cultural Affairs, in partnership with the City Council.
+</p>
+
 			</div>
 		</div>
 
 		<div class="column">
+			<div id="photo">
+<img src="/images/performances/sandcatchers.png" alt="ASM and Church Ave Sessions Present: Tim Sparks / Sandcatchers, Wed 24 April 2019 7:30PM @ Flatbush Jewish Center, 327 E 5th and Church" title="Tim Sparks / Sandcatchers" />
+			</div>
+
 			<div id="pastperformances">
 <!--#INCLUDE VIRTUAL="/pastperformances.html"-->
 			</div>
