@@ -10,7 +10,7 @@
   gtag('js', new Date());
   gtag('config', 'UA-133225713-1');
 </script>
-	<title>Upcoming Performances | Anti-Social Music</title>
+	<title>ASM Presents The Ultimate Love (June 30, 2021) | Performances | Anti-Social Music</title>
 
 	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -19,8 +19,8 @@
 	<meta name="robots" content="index, follow" />
 	<meta http-equiv="X-UA-Compatible" content="IE=7" />
 	<meta property="og:site_name" content="Anti-Social Music" />
-	<meta property="og:url" content="https://www.antisocialmusic.org/Performances.shtml" />
-	<meta property="og:title" content="Upcoming Performances" />
+	<meta property="og:url" content="https://www.antisocialmusic.org/performances/TheUltimateLove.shtml" /> 
+	<meta property="og:title" content="ASM Presents The Ultimate Love" />
 	<meta property="og:image" content="https://www.antisocialmusic.org/ASM_social.jpg" />
 	<link rel="SHORTCUT ICON" href="/favicon.ico" type="image/x-icon" />
 	<link rel="image_src" href="https://www.antisocialmusic.org/ASM_social.jpg" />
@@ -39,7 +39,7 @@
 <div id="performancespage">
 	<div id="header">
 		<h1>Anti-Social Music</h1>
-		<h2>Upcoming Performances</h2>
+		<h2>Next Performance</h2>
 		<p class="accessibility">Jump to <a href="#content">Content</a> or <a href="#navigation">Main Navigation</a></p>
 		<ul id="navigation">
 			<li id="home"><a href="/">Home</a></li>
@@ -56,37 +56,38 @@
 
 		<div class="column">
 			<div id="intro">
-<h3>Upcoming Shows</h3>
-<!--<h3>Our 2018-2019 season is coming soon!</h3>-->
+				<h3>ASM Presents<br/>&nbsp;<br/>The Ultimate Love<h3/>
 			</div>
 
 			<div id="details">
-<!--<p>What you missed last season...</p>-->
-	<ul class="upcomingperformances">
-		<li><a title="next show" href="/performances/TheUltimateLove.shtml"><span class="showtitle">ASM presents The Ultimate Love</span>Wednesday, June 30, 2021 @ 6PM EDT</a></li>
-	<strike>
-		<li><a title="past show" href="/performances/RecognizeTheSignal.shtml"><span class="showtitle">ASM presents ONLY YOU WILL REGONIZE THE SIGNAL, Episode 5 - This Mesh We're In</span> Thursday, December 3, 2020 @ 1PM EST</a></li>
-	<strike>
-		<li><a title="past show" href="/performances/DrinksAloneAloneAgainAgain.shtml"><span class="showtitle">ASM Drinks Alone, Alone Again, Again</span> Sunday, February 23, 2020</a></li>
-		<li><a title="future show" href="#"><span class="showtitle">POSTPONED: Saxophone show</span> Friday, May 22, 2020</a></li>
-		<li><a title="future show" href="#"><span class="showtitle">POSTPONED: Accordion show</span> Friday, June 5, 2020</a></li>
-	</strike>
-	</ul>
-<!--
-	<strike>
-		<li><a title="next show" href="/performances/ThisIsTheGround.shtml"><span class="showtitle">ASM + Opera On Tap present <i>This Is The Ground</i></span> Friday, July 5, 2019<br/>Saturday, July 6, 2019<br/>Friday, July 12, 2019<br/>Saturday, July 13, 2019</a></li>
-		<li><a title="past show" href="/performances/BeefermanTrio.shtml"><span class="showtitle">ASM Presents Beeferman's Organ Trio</span> Tuesday, June 14, 2019</a></li>
-		<li><a title="past show" href="/performances/BackInBack.shtml"><span class="showtitle">ASM Back In Back</span> Saturday, June 22, 2019</a></li>
-		<li><a title="past show" href="/performances/DrinksAloneAgainSquared.shtml"><span class="showtitle">ASM Drinks Alone Again (Squared)</span> Tuesday, May 14, 2019</a></li>
-		<li><a title="past show" href="/performances/Sandcatchers.shtml"><span class="showtitle">ASM Presents Sandcatchers</span> Wednesday, April 24, 2019</a></li>
-		<li><a title="past show" href="/performances/YiddishLaborSongs.shtml"><span class="showtitle">Yiddish Labor Songs and More!</span> Friday, January 18, 2019</a></li>
-		<li><a title="past show" href="/performances/Enchantress.shtml"><span class="showtitle">ASM + New Camerata Opera present Kamala Sankaram and Rob Handel's ENCHANTRESS</span> Friday, November 30, 2018</a></li>
-	</strike>
--->
+
+<p>In these times of one hand pulling the other back and forth and left and right and flipping oneself over, then throwing onself into the ropes only to hit oneself over the head with a chair, we here at ASM headquarters have just the thing for you:</p>
+
+<p>A suite of songs inspired by (and in some cases built around) the WWF wrestling promos of The Ultimate Warrior, presented as an imaginary tag-team event with The Ultimate Warrior &amp; Sir Cubworth joining forces.</p>
+
+<p clas="mediumprint">Songs include:<br/>
+<span class="worktitle">I Live Intravenously</span><br/>
+<span class="worktitle">Interference in my Pathways</span><br/>
+<span class="worktitle">Now is the Time</span><br/>
+<span class="worktitle">This is Happening</span><br/>
+<span class="worktitle">Is It Lonely</span><br/>
+<span class="worktitle">The Frustration of Mankind</span><br/>
+and more!</p>
+
+<p><b>Composed &amp; Performed by Ed RosenBerg III</b></p>
+
+<p>Live Stream Album Release Party on Jun 30, 2021 6PM Eastern at <a target="sircubworth" href="https://www.youtube.com/c/SirCubworth/videos">Sir Cubworth's page.</a>
+
+<p class="smallprint">This program is supported in part with public funds from the New York State Council on the Arts, a state agency.</p>
+
 			</div>
 		</div>
 
 		<div class="column">
+			<div id="photo">
+<a href="/images/performances/ultimatelove_fullsize.png"><img src="/images/performances/ultimatelove_promo.png" alt="Anti-Social Music Presents The Ultimate Love - June 30 at 6PM EDT" /></a>
+			</div>
+
 			<div id="pastperformances">
 <!--#INCLUDE VIRTUAL="/pastperformances.html"-->
 			</div>
