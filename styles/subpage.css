@@ -969,6 +969,12 @@ body > div {
 	list-style-type: square;
 	margin-left: 30px;
 }
+#performancespage #details.verbose p, 
+#performancespage #details.verbose ul, 
+#performancespage #details.verbose ol {
+	font-size: 13px;
+}
+
 #performancespage #details ol li {
 	margin-bottom: 13px;
 }
