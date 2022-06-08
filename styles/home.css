@@ -337,7 +337,7 @@ a:hover {
 
 /* FOOTER: */
 #footer {
-	color: #f8f8f8;
+	color: rgb(110,110,110);
 	font-size: 11px;
 	text-align: center;
 }

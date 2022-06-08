@@ -14,7 +14,7 @@ small, strike, strong, /* sub, sup,*/ tt, var,
 b, u, i, center,
 dl, dt, dd, ol, ul, li,
 fieldset, form, label, legend,
-table, caption, tbody, tfoot, thead, tr, th, td {
+table, figure, caption, tbody, tfoot, thead, tr, th, td {
 	background: transparent;
 	border: 0;
 	font-size: 100%;

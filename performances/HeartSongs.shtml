@@ -10,7 +10,7 @@
   gtag('js', new Date());
   gtag('config', 'UA-133225713-1');
 </script>
-	<title>ASM Presents The Ultimate Love (June 30, 2021) | Performances | Anti-Social Music</title>
+	<title>ASM Presents Heart Songs and Sounds (June 29, 2022) | Performances | Anti-Social Music</title>
 
 	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -19,8 +19,8 @@
 	<meta name="robots" content="index, follow" />
 	<meta http-equiv="X-UA-Compatible" content="IE=7" />
 	<meta property="og:site_name" content="Anti-Social Music" />
-	<meta property="og:url" content="https://www.antisocialmusic.org/performances/TheUltimateLove.shtml" /> 
-	<meta property="og:title" content="ASM Presents The Ultimate Love" />
+	<meta property="og:url" content="https://www.antisocialmusic.org/performances/VeerQuartet.shtml" /> 
+	<meta property="og:title" content="ASM Presents VEER QUARTET at Greenwich House Music School" />
 	<meta property="og:image" content="https://www.antisocialmusic.org/ASM_social.jpg" />
 	<link rel="SHORTCUT ICON" href="/favicon.ico" type="image/x-icon" />
 	<link rel="image_src" href="https://www.antisocialmusic.org/ASM_social.jpg" />
@@ -39,7 +39,7 @@
 <div id="performancespage">
 	<div id="header">
 		<h1>Anti-Social Music</h1>
-		<h2>Past Performance</h2>
+		<h2>Future Performance</h2>
 		<p class="accessibility">Jump to <a href="#content">Content</a> or <a href="#navigation">Main Navigation</a></p>
 		<ul id="navigation">
 			<li id="home"><a href="/">Home</a></li>
@@ -56,39 +56,43 @@
 
 		<div class="column">
 			<div id="intro">
-				<h3>ASM Presents<br/>&nbsp;<br/>The Ultimate Love<h3/>
+				<h3>ASM Presents<br/>&nbsp;<br/>Heart Songs and Sounds<h3/>
 			</div>
 
 			<div id="details">
 
-<p>In these times of one hand pulling the other back and forth and left and right and flipping oneself over, then throwing onself into the ropes only to hit oneself over the head with a chair, we here at ASM headquarters have just the thing for you:</p>
+<p>
+Heart Songs and Sounds: a new project of songs, compositions, improvisations evoked by meditations on love and its many opposites
+</p>
 
-<p>A suite of songs inspired by (and in some cases built around) the WWF wrestling promos of The Ultimate Warrior, presented as an imaginary tag-team event with The Ultimate Warrior &amp; Sir Cubworth joining forces.</p>
+<p>
+<b>Performing:</b><br/>
+Theresa Rosas, piano and vocals<br/>
+Alan Grubner, violin<br/>
+Sam Weber, bass
+</p>
 
-<p clas="mediumprint">Songs include:<br/>
-<span class="worktitle">I Live Intravenously</span><br/>
-<span class="worktitle">Interference in my Pathways</span><br/>
-<span class="worktitle">Now is the Time</span><br/>
-<span class="worktitle">This is Happening</span><br/>
-<span class="worktitle">Is It Lonely</span><br/>
-<span class="worktitle">The Frustration of Mankind</span><br/>
-and more!</p>
+</p>
 
-<p><b>Composed &amp; Performed by Ed RosenBerg III</b></p>
+<p>
+	<b>Wednesday, June 29, 2022 at 8 pm<br/>
+	<a href="https://www.greenwichhouse.org/music-school/" target="ghms">Greenwich House Music School</a><br/>
+	46 Barrow St, NYC</b>
+</p>
 
-<p>Live Streamed Album Release Party on Jun 30, 2021 6PM Eastern at <a target="sircubworth" href="https://www.youtube.com/c/SirCubworth/videos">Sir Cubworth's page.</a></p>
+<p>
+	$15 cash at the door / <a href="https://www.greenwichhouse.org/music-school-home/ghms-during-covid/" target="covid">masks and proof of vaccination required</a>
+</p>
 
-<p class="largeprint"><b><a href="https://www.youtube.com/watch?v=bFULi9xPVl0&list=PLmoe07z60K7BK5AKpfoi0zYQMSlVOE5ls" target="TheUltimateLove">Watch the live stream as a playlist! &gt;&gt;</a></b></p>
-
-<p class="smallprint">This program is supported in part with public funds from the New York State Council on the Arts, a state agency.</p>
+<p class="smallprint">This program is supported, in part, by public funds from the New York City Department of Cultural Affairs, in partnership with the City Council, and in part with public funds from the New York State Council on the Arts, a state agency. Blah blah blah.</p>
 
 			</div>
 		</div>
 
 		<div class="column">
-			<div id="photo">
-<a href="/images/performances/ultimatelove_fullsize.png"><img src="/images/performances/ultimatelove_promo.png" alt="Anti-Social Music Presents The Ultimate Love - June 30 at 6PM EDT" /></a>
-			</div>
+			<div id="photo"><figure><img src="/images/performances/heartsongs.png" alt="ASM Presents Heart Songs and Sounds at Greenwich House Music School, June 29, 2022, at 8pm." />
+				<figcaption><cite>Photo by Grayson Dantzic</cite></figcaption>
+			</figure></div>
 
 			<div id="pastperformances">
 <!--#INCLUDE VIRTUAL="/pastperformances.html"-->

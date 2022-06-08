@@ -933,6 +933,7 @@ body > div {
 }
 #performancespage #details {
 	background: url(/images/performances_divider_5.jpg) 0px bottom no-repeat;
+	overflow-wrap: break-word;
 	padding: 0px 0px 52px 0px;
 	width: 380px;
 }
@@ -951,7 +952,7 @@ body > div {
 #performancespage #details ul.insidelist {
 	list-style-position: inside;
 	list-style-type: square;
-	margin-left: 0px;
+	margin-left: 20px;
 }
 #performancespage #details li {
 	margin-bottom: 6px;
@@ -959,7 +960,7 @@ body > div {
 #performancespage #details ul.insidelist li {
 	font-size: 14px;
 	line-height: 16px;
-	margin-bottom: 24px;
+	margin-bottom: 4px;
 }
 #performancespage #details ol {
 	font-size: 14px;
@@ -989,6 +990,9 @@ body > div {
 	padding-left: 2px;
 	text-align: center;
 }
+#performancespage #photo img {
+	margin-bottom: 6px;
+}
 #performancespage #release,
 #performancespage #pastperformances {
 	background: url(/images/performances_divider_4.jpg) 0px bottom no-repeat;
@@ -1015,7 +1019,7 @@ body > div {
 	font-weight: bold;
 }
 #performancespage #pastperformances li {
-	color: rgb(170,170,170);
+	color: rgb(110,110,110);
 	font-size: 13px;
 	line-height: 14px;
 	margin-bottom: 16px;
@@ -1283,7 +1287,7 @@ ul.upcomingperformances .showtitle {
 
 /* FOOTER */
 #footer {
-	color: rgb(248,248,248); /* #f8f8f8 */
+	color: rgb(110,110,110); /* #f8f8f8 */
 	font-size: 11px;
 	xmargin: 0px auto;
 	text-align: center;
