@@ -91,7 +91,8 @@ $5-15 at the door
 		</div>
 
 		<div class="column">
-			<div id="photo"><img src="/images/performances/joyguidry.png" alt="ASM Presents Live Radical Acceptance: July 21, 2022" /></div>
+			<div id="photo"><figure><img src="/images/performances/joyguidry.png" alt="ASM Presents Radical Acceptance album release celebration: July 21, 2022" /><figcaption><cite>photo by Shala Miller</cite></figcaption>
+			</figure></div>
 
 			<div id="pastperformances">
 <!--#INCLUDE VIRTUAL="/pastperformances.html"-->
