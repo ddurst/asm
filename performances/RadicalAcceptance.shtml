@@ -1,0 +1,107 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<!-- Global Site Tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-133225713-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-133225713-1');
+</script>
+	<title>ASM Presents Radical Acceptance album release celebration (July 21, 2022) | Performances | Anti-Social Music</title>
+
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="imagetoolbar" content="false" />
+	<meta name="author" content="Anti-Social Music" />
+	<meta name="robots" content="index, follow" />
+	<meta http-equiv="X-UA-Compatible" content="IE=7" />
+	<meta property="og:site_name" content="Anti-Social Music" />
+	<meta property="og:url" content="https://www.antisocialmusic.org/performances/LiveRadicalAcceptance.shtml" /> 
+	<meta property="og:title" content="ASM Presents LIVE RADICAL ACCEPTANCE" />
+	<meta property="og:image" content="https://www.antisocialmusic.org/ASM_social.jpg" />
+	<link rel="SHORTCUT ICON" href="/favicon.ico" type="image/x-icon" />
+	<link rel="image_src" href="https://www.antisocialmusic.org/ASM_social.jpg" />
+	<meta name="description" content="Anti-Social Music, Inc., is a non-profit collective of composers and performers created for the purpose of presenting new music by emerging, primarily New York-based musicians." />
+
+	<link rel="stylesheet" href="/styles/init.css" type="text/css" />
+	<link rel="stylesheet" href="/styles/subpage.css" type="text/css" />
+	<!--[if IE 6]>
+	<link rel="stylesheet" href="/styles/ie6.css" type="text/css" />
+	<![endif]-->
+	<!--[if IE 7]>
+	<link rel="stylesheet" href="/styles/ie7.css" type="text/css" />
+	<![endif]-->
+</head>
+<body>
+<div id="performancespage">
+	<div id="header">
+		<h1>Anti-Social Music</h1>
+		<h2>Future Performance</h2>
+		<p class="accessibility">Jump to <a href="#content">Content</a> or <a href="#navigation">Main Navigation</a></p>
+		<ul id="navigation">
+			<li id="home"><a href="/">Home</a></li>
+			<li id="performances"><a href="/Performances.shtml">Performances</a></li>
+			<li id="music"><a href="/Music.html">Music</a></li>
+			<li id="members"><a href="/Members.html">Members</a></li>
+			<li id="history"><a href="/History.html">History</a></li>
+			<li id="press"><a href="/Press.html">Press</a></li>
+			<li id="store"><a href="/Store.html">Store</a></li>
+		</ul>
+	</div>
+
+	<div id="content" class="clear">
+
+		<div class="column">
+			<div id="intro">
+				<h3>ASM Presents<br/>&nbsp;<br/>Radical Acceptance<br/>album release celebration<h3/>
+			</div>
+
+			<div id="details">
+
+<p>
+<i>Radical Acceptance</i> is the title of Joy’s new album, and it tells their story of processing trauma, self-care, self-love, and finding hope for the future. Drawing inspiration from the work of Sonya Renee Taylor, who has defined radical self-love as “its own entity, a lush and verdant island are offering safe harbor for self-esteem and self-confidence.”  While Joy’s musical offerings represent a range of musical idioms and methodologies from improvisation and graphic scores to multimedia and gospel, the uniting principle for Guidry is a focus on the importance of affirmation, validation, and self-care. 
+</p>
+
+<p>
+Guidry states, “Radical acceptance is a personal practice that has evolved in my life over the past year. This doesn’t mean there aren’t still tough times, but times of warmth and comfort are much more present these days. I will never be able to change my past, the things that hurt me, but I can live a peaceful and beautiful life of my own creation. The most important thing I’ve had to teach myself is that there is nothing wrong with my body or my brain. My body is fat and I struggle with my mental health daily, and neither of those things makes me any less of a human being. I know that my Black, Fat, Queer, and Non-binary body is valid in every way. Learning to love my whole self unconditionally will be a lifelong journey, but I am just so happy to be where I am today. This is my radical acceptance.” 
+</p>
+
+<p>
+<b>The concert features Joy Guidry on bassoon, voice, electronics</b><br/>
+Gabrielle Garo on Flute<br/>
+Alfredo Colon on saxophone and EWI<br/>
+Marvin Carter on saxophone<br/>
+Chris Williams on trumpet<br/>
+Cleo Reed on Guitar<br/>
+Khari Lucas on Bass Guitar
+</p>
+
+<p><b>
+July 21, 2022 at <a href="https://artcake.org/" target="cake">Art Cake</a><br/>
+7 PM<br/>
+$5-15 at the door
+</b></p>
+
+<p class="smallprint">This program is supported, in part, by public funds from the New York City Department of Cultural Affairs, in partnership with the City Council, and in part with public funds from the New York State Council on the Arts, a state agency. Blah blah blah.</p>
+
+			</div>
+		</div>
+
+		<div class="column">
+			<div id="photo"><img src="/images/performances/joyguidry.png" alt="ASM Presents Live Radical Acceptance: July 21, 2022" /></div>
+
+			<div id="pastperformances">
+<!--#INCLUDE VIRTUAL="/pastperformances.html"-->
+			</div>
+		</div>
+
+	</div>
+
+<!--#INCLUDE VIRTUAL="/footer.html"-->
+</div>
+
+</body>
+</html>
