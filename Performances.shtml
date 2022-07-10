@@ -62,10 +62,7 @@
 
 			<div id="details">
 				<ul class="upcomingperformances">
-					<li><a title="next show" href="/performances/Streamfest3.shtml"><span class="showtitle">ASM Presents Infrequent Seams Streamfest 3</span>Thursday-Sunday, June 16-19, 2022</a></li>
-					<li><a title="future show" href="/performances/VeerQuartet.shtml"><span class="showtitle">ASM Presents VEER QUARTET at Greenwich House Music School</span>Saturday, June 25, 2022 @ 4PM</a></li>
-					<li><a title="future show" href="/performances/HeartSongs.shtml"><span class="showtitle">ASM Presents Heart Songs and Sounds</span>Wednesday, June 29, 2022 @ 8pm</a></li>
-					<li><a title="future show" href="/performances/RadicalAcceptance.shtml"><span class="showtitle">ASM Presents Radical Acceptance album release celebration</span>Thursday, July 21, 2022 @ 7pm</a></li>
+					<li><a title="next show" href="/performances/RadicalAcceptance.shtml"><span class="showtitle">ASM Presents Radical Acceptance album release celebration</span>Thursday, July 21, 2022 @ 7pm</a></li>
 <!-- 
 -->
 				</ul>
@@ -73,6 +70,9 @@
 				<p>What you missed already this season...</p>
 				<ul class="upcomingperformances">
 				<strike>
+					<li><a title="past show" href="/performances/HeartSongs.shtml"><span class="showtitle">ASM Presents Heart Songs and Sounds</span>Wednesday, June 29, 2022 @ 8pm</a></li>
+					<li><a title="past show" href="/performances/VeerQuartet.shtml"><span class="showtitle">ASM Presents VEER QUARTET at Greenwich House Music School</span>Saturday, June 25, 2022 @ 4PM</a></li>
+					<li><a title="past show" href="/performances/Streamfest3.shtml"><span class="showtitle">ASM Presents Infrequent Seams Streamfest 3</span>Thursday-Sunday, June 16-19, 2022</a></li>
 					<li><a title="past show" href="/performances/WatersGarden.shtml"><span class="showtitle">ASM Presents ASM waters the garden</span>Sunday, May 15, 2022 @ 2-4pm</a></li>
 					<li><a title="past show" href="/performances/LoSpazioInverso.shtml"><span class="showtitle">ASM and PinkNoise present: lo spazio inverso</span>Friday, April 15, 2022 @ 7:30PM EDT</a></li>
 					<li><a title="past show" href="/performances/DrinksAloneForTwoAndAHalfYears.shtml"><span class="showtitle">ASM Drinks Alone For Two And A Half Years And Have No Plans To Stop Now</span>Friday, April 1, 2022 @ 7:30PM EDT</a></li>
