@@ -61,15 +61,15 @@
 			</div>
 
 			<div id="details">
+<!--
 				<ul class="upcomingperformances">
-					<li><a title="next show" href="/performances/RadicalAcceptance.shtml"><span class="showtitle">ASM Presents Radical Acceptance album release celebration</span>Thursday, July 21, 2022 @ 7pm</a></li>
-<!-- 
--->
 				</ul>
+-->
 
-				<p>What you missed already this season...</p>
+				<p>What you missed <!--already -->this season...</p>
 				<ul class="upcomingperformances">
 				<strike>
+					<li><a title="past show" href="/performances/RadicalAcceptance.shtml"><span class="showtitle">ASM Presents Radical Acceptance album release celebration</span>Thursday, July 21, 2022 @ 7pm</a></li>
 					<li><a title="past show" href="/performances/HeartSongs.shtml"><span class="showtitle">ASM Presents Heart Songs and Sounds</span>Wednesday, June 29, 2022 @ 8pm</a></li>
 					<li><a title="past show" href="/performances/VeerQuartet.shtml"><span class="showtitle">ASM Presents VEER QUARTET at Greenwich House Music School</span>Saturday, June 25, 2022 @ 4PM</a></li>
 					<li><a title="past show" href="/performances/Streamfest3.shtml"><span class="showtitle">ASM Presents Infrequent Seams Streamfest 3</span>Thursday-Sunday, June 16-19, 2022</a></li>
