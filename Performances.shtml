@@ -61,12 +61,11 @@
 			</div>
 
 			<div id="details">
-<!--
 				<ul class="upcomingperformances">
+					<li><a title="future show" href="/performances/Crackling.shtml"><span class="showtitle">ASM, Opera On Tap, and Kinesis Project dance theatre present Capacity, or: the Work of Crackling</span>Saturday-Sunday, September 24-25, 2022 @5 PM EDT</a></li>
 				</ul>
--->
 
-				<p>What you missed <!--already -->this season...</p>
+				<p>What you missed <!--already -->last season...</p>
 				<ul class="upcomingperformances">
 				<strike>
 					<li><a title="past show" href="/performances/RadicalAcceptance.shtml"><span class="showtitle">ASM Presents Radical Acceptance album release celebration</span>Thursday, July 21, 2022 @ 7pm</a></li>
