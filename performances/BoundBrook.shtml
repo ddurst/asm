@@ -40,16 +40,7 @@
 	<div id="header">
 		<h1>Anti-Social Music</h1>
 		<h2>Past Performance</h2>
-		<p class="accessibility">Jump to <a href="#content">Content</a> or <a href="#navigation">Main Navigation</a></p>
-		<ul id="navigation">
-			<li id="home"><a href="/">Home</a></li>
-			<li id="performances"><a href="/Performances.shtml">Performances</a></li>
-			<li id="music"><a href="/Music.html">Music</a></li>
-			<li id="members"><a href="/Members.html">Members</a></li>
-			<li id="history"><a href="/History.html">History</a></li>
-			<li id="press"><a href="/Press.html">Press</a></li>
-			<li id="store"><a href="/Store.html">Store</a></li>
-		</ul>
+<!--#INCLUDE VIRTUAL="/includes/header_navigation.html"-->
 	</div>
 	<div id="content" class="clear">
 
@@ -99,7 +90,7 @@ $8 Cover
 
 	</div>
 
-<!--#INCLUDE VIRTUAL="/footer.html"-->
+<!--#INCLUDE VIRTUAL="/includes/footer.html"-->
 </div>
 
 </body>

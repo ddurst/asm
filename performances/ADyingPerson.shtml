@@ -1,0 +1,116 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<!-- Global Site Tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-133225713-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-133225713-1');
+</script>
+	<title>ASM Presents A Dying Person (A Goyses) (chamber opera, not literally a dying person) (June 12, 2023) | Performances | Anti-Social Music</title>
+
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="imagetoolbar" content="false" />
+	<meta name="author" content="Anti-Social Music" />
+	<meta name="robots" content="index, follow" />
+	<meta http-equiv="X-UA-Compatible" content="IE=7" />
+	<meta property="og:site_name" content="Anti-Social Music" />
+	<meta property="og:url" content="https://www.antisocialmusic.org/performances/ADyingPerson.shtml" /> 
+	<meta property="og:title" content="ASM Presents A Dying Person (A Goyses) (chamber opera, not literally a dying person)" />
+	<meta property="og:image" content="https://www.antisocialmusic.org/ASM_social.jpg" />
+	<link rel="SHORTCUT ICON" href="/favicon.ico" type="image/x-icon" />
+	<link rel="image_src" href="https://www.antisocialmusic.org/ASM_social.jpg" />
+	<meta name="description" content="Anti-Social Music, Inc., is a non-profit collective of composers and performers created for the purpose of presenting new music by emerging, primarily New York-based musicians." />
+
+	<link rel="stylesheet" href="/styles/init.css" type="text/css" />
+	<link rel="stylesheet" href="/styles/subpage.css" type="text/css" />
+	<!--[if IE 6]>
+	<link rel="stylesheet" href="/styles/ie6.css" type="text/css" />
+	<![endif]-->
+	<!--[if IE 7]>
+	<link rel="stylesheet" href="/styles/ie7.css" type="text/css" />
+	<![endif]-->
+</head>
+<body>
+<div id="performancespage">
+	<div id="header">
+		<h1>Anti-Social Music</h1>
+		<h2>Next Performance</h2>
+<!--#INCLUDE VIRTUAL="/includes/header_navigation.html"-->
+	</div>
+
+	<div id="content" class="clear">
+
+		<div class="column">
+			<div id="intro">
+				<h3>ASM Presents<br/>&nbsp;<br/>A Dying Person<br/>(A Goyses)</h3>
+				<h3 class="verysmallprint">(chamber opera, not literally a dying person)<h3/>
+			</div>
+
+			<div id="details">
+
+<p>
+A Dying Person (A Goyses) is inspired by S. An-sky, the ethnographer and author of The Dybbuk, who prepared a questionnaire of 2,087 detailed questions in the hopes of compiling a comprehensive record of Jewish life in Eastern Europe; however, the questions remained unanswered due to the onset of World War I. The opera engages the continuous&mdash;and legitimate&mdash;anxiety regarding the loss of Jewish civilization, even before the Holocaust, and ethnography, interviewing, testimony, and oral history as ways of addressing this fear. The libretto also contains elements of interviews done by the composer with his wife’s grandfather, a musician from a family of klezmers who was born in the Pale of Settlement in 1916 and lived there during his childhood.
+</p>
+
+<p>
+The plot of the opera is simple: a middle-aged researcher interviews an older woman on her deathbed. In traditional Ashkenazic Jewish culture, the person on their deathbed, between two worlds, has a distinct status (a goyses). A Dying Person (A Goyses) wrestles with the idea that Jewish culture may itself be in a perpetual sort of goyses state, always seemingly on the verge of loss and annihilation, but never crossing over to the other side.
+</p>
+
+<p>
+The ensemble for A Dying Person (A Goyses) is seven players, the instrumentation reminiscent of dance band and klezmer configurations at the beginning of the twentieth century. Together with the three singers, the group satisfies the minimum number of ten adults required for Jewish communal prayer.
+</p>
+
+<p>
+Performers:<br/><br/>
+Nehemiah Luckett (tenor)<br/>
+Noa Fort (alto)<br/>
+Jeremiah Lockwood (baritone)<br/>
+Jessica Schmitz (flute)<br/>
+Peter Hess (clarinet)<br/>
+Jeff Hudgins (alto sax)<br/>
+Derek Baron (drums)<br/>
+Ty Citerman (guitar)<br/>
+Dana Lyn (violin)<br/>
+James Ilgenfritz (double bass)
+John Altieri (conductor)<br/>
+</p>
+
+<p>
+Composed by Evan Rapport<br/>
+Libretto by Daniel London
+</p>
+
+<p><b>
+June 12, 2023, 7:30 - 9:00 PM<br/>
+Door open at 7 PM<br/>
+YIVO Institute for Jewish Research (located in the Center for Jewish History)<br/>
+<a href="https://yivo.org/Visit#Directions%20&%20Parking" target="yivo">15 West 16th Street, NYC</a><br/>
+Admission is FREE but <a href="https://secure2.convio.net/yivo/site/Ticketing?view=Tickets&id=103871" target="yivoreg">advance registration</a> is required<br/>
+Sponsors: Anti-Social Music, American Society for Jewish Music, <a href="https://www.yivo.org/A-Goyses" target="agoyses">YIVO Institute for Jewish Research</a>
+</b></p>
+
+<p class="smallprint">This program is supported, in part, by public funds from the New York City Department of Cultural Affairs, in partnership with the City Council, and in part with public funds from the New York State Council on the Arts, a state agency. Blah blah blah.</p>
+
+			</div>
+		</div>
+
+		<div class="column">
+			<div id="photo"><a href="https://www.yivo.org/A-Goyses" title="go to yivo.org" target="yivo"><img src="/images/performances/agoyses.png" alt="ASM Presents A Dying Person, June 12, 2023 at 7:30pm at YIVO Institute for Jewish Research" /></a></div>
+
+			<div id="pastperformances">
+<!--#INCLUDE VIRTUAL="/pastperformances.html"-->
+			</div>
+		</div>
+
+	</div>
+
+<!--#INCLUDE VIRTUAL="/includes/footer.html"-->
+</div>
+
+</body>
+</html>

@@ -40,16 +40,7 @@
 	<div id="header">
 		<h1>Anti-Social Music</h1>
 		<h2>Upcoming Performances</h2>
-		<p class="accessibility">Jump to <a href="#content">Content</a> or <a href="#navigation">Main Navigation</a></p>
-		<ul id="navigation">
-			<li id="home"><a href="/">Home</a></li>
-			<li id="performances"><a href="/Performances.shtml">Performances</a></li>
-			<li id="music"><a href="/Music.html">Music</a></li>
-			<li id="members"><a href="/Members.html">Members</a></li>
-			<li id="history"><a href="/History.html">History</a></li>
-			<li id="press"><a href="/Press.html">Press</a></li>
-			<li id="store"><a href="/Store.html">Store</a></li>
-		</ul>
+<!--#INCLUDE VIRTUAL="/includes/header_navigation.html"-->
 	</div>
 
 	<div id="content" class="clear">
@@ -62,12 +53,13 @@
 
 			<div id="details">
 				<ul class="upcomingperformances">
-					<li><a title="next show" href="/performances/InfrequentFestival.shtml"><span class="showtitle">ASM Presents Infrequent Seams Festival</span> Monday, December 19, 2022 @8 PM EDT</a></li>
+					<li><a title="next show" href="/performances/ADyingPerson.shtml"><span class="showtitle">ASM Presents A Dying Person (chamber opera, not literally a dying person)</span> Monday, June 12, 2023 @7:30 PM EDT</a></li>
 				</ul>
 
 				<p>What you missed already <!--last season-->...</p>
 				<ul class="upcomingperformances">
 				<strike>
+					<li><a title="past show" href="/performances/InfrequentFestival.shtml"><span class="showtitle">ASM Presents Infrequent Seams Festival</span> Monday, December 19, 2022 @8 PM EDT</a></li>
 					<li><a title="past show" href="/performances/Crackling.shtml"><span class="showtitle">ASM, Opera On Tap, and Kinesis Project dance theatre present Capacity, or: the Work of Crackling</span>Saturday-Sunday, September 24-25, 2022 @5 PM EDT</a></li>
 				</strike>
 				</ul>
@@ -96,7 +88,7 @@
 
 	</div>
 
-<!--#INCLUDE VIRTUAL="/footer.html"-->
+<!--#INCLUDE VIRTUAL="/includes/footer.html"-->
 </div>
 
 </body>
