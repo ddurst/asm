@@ -1,11 +1,12 @@
-jQuery.fn.swap = function(x){
-	x = jQuery(x)[0];
-	var a = this[0];
-	var t = a.parentNode.insertBefore(document.createTextNode(''), a);
-	x.parentNode.insertBefore(a, x);
-	t.parentNode.insertBefore(x, t);
-	t.parentNode.removeChild(t);
-	return this;
+"use strict";
+
+const swap = function(nodeA, nodeB) {
+    const parentA = nodeA.parentNode;
+    const siblingA = nodeA.nextSibling === nodeB ? nodeA : nodeA.nextSibling;
+    // Move `nodeA` to before the `nodeB`
+    nodeB.parentNode.insertBefore(nodeA, nodeB);
+    // Move `nodeB` to before the sibling of `nodeA`
+    parentA.insertBefore(nodeB, siblingA);
 };
 
 /*
@@ -15,51 +16,38 @@ function isValidEmailAddress(emailAddress) {
 }
 */
 
-$(document).ready(function() {
-/*
-On the memberssubpage, the content flow (structurally, so meaning print and other accessibility-wise) should be: bio_text, bio_photo, bio_turntable, bio_link.
-This swaps photo/turntable (or haiku/turntable) for the screen layout. However, some older versions had a photo AND haiku (and no turntable), so in that case we swap photo and haiku. Eesh.
-*/
-	if ($('#memberssubpage').length) {
-		if ($('#bio_photo').length && $('#bio_turntable').length) {
-			$('#bio_link').swap('#bio_photo');
-			$('#bio_photo').swap('#bio_turntable');
-		}
-		if ($('#bio_haiku').length && $('#bio_turntable').length) {
-			$('#bio_link').swap('#bio_haiku');
-			$('#bio_haiku').swap('#bio_turntable');
-		}
-		if ($('#bio_photo').length && $('#bio_haiku').length) {
-			$('#bio_link').swap('#bio_photo');
-			$('#bio_photo').swap('#bio_haiku');
-		}
-	}
-/*
-On GetInvolved and the homepage, tweak the form.
-*/
-/*
-	if ($('.fanbridge').length) {
-		$('input#email').click(function(){
-			if (this.value.toLowerCase().trim() == 'enter your email') this.value='';
-		});
-		$('input#email').blur(function(){
-			if (this.value.toLowerCase().trim() == '') {
-				this.value='enter your email';
-			}
-		});
-		$('form').submit(function(){
-			var email = $("input#email").val().toLowerCase().trim();
-			if(isValidEmailAddress(email)) {
-				if ($('input#submit + span').length) $('input#submit + span').html('').removeClass('error');
-				return true;
-      } else {
-				if (!$('input#submit + span').length) $('input#submit').after(' <span></span>');
-				if ($('input#submit + span').length) $('input#submit + span').html("email is not valid").addClass('error');
-				$('input#email').select();
-	      return false;
-      }
-		});
-	}
-*/
+const ready = (fn) => {
+  if (document.readyState != 'loading') {
+    fn();
+  } else {
+    document.addEventListener("DOMContentLoaded", fn);
+  }
+};
+
+ready(() => { 
+  /* Now the DOM is loaded */
+  /*
+  On the memberssubpage, the content flow (structurally, so meaning print and other accessibility-wise) should be: bio_text, bio_photo, bio_turntable, bio_link.
+  This swaps photo/turntable (or haiku/turntable) for the screen layout. However, some older versions had a photo AND haiku (and no turntable), so in that case we swap photo and haiku. Eesh.
+  */
+  let memberssubpage = document.getElementById("memberssubpage");
+  if (memberssubpage) {
+    let photo = document.getElementById("bio_photo");
+    let turntable = document.getElementById("bio_turntable");
+    let haiku = document.getElementById("bio_haiku");
+    let link = document.getElementById("bio_link");
+    if (photo && turntable) {
+      swap(link, photo);
+      swap(photo, turntable);
+    }
+    if (haiku && turntable) {
+      swap(link, haiku);
+      swap(haiku, turntable);
+    }
+    if (photo && haiku) {
+      swap(link, photo);
+      swap(photo, haiku);
+    }
+  }
 
 });

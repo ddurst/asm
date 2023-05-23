@@ -34,6 +34,7 @@
 	<!--[if IE 7]>
 	<link rel="stylesheet" href="/styles/ie7.css" type="text/css" />
 	<![endif]-->
+	<script type="text/javascript" src="/scripts/asm.js"></script>
 </head>
 <body>
 <div id="performancespage">
