@@ -36,6 +36,7 @@
 	<![endif]-->
 	<script type="text/javascript" src="/scripts/asm.js"></script>
 </head>
+<!--#INCLUDE VIRTUAL="/includes/gtag.js"-->
 <body>
 <div id="performancespage">
 	<div id="header">

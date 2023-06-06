@@ -2,14 +2,6 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
-<!-- Global Site Tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-133225713-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'UA-133225713-1');
-</script>
 	<title>Upcoming Performances | Anti-Social Music</title>
 
 	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
@@ -36,6 +28,7 @@
 	<![endif]-->
 	<script type="text/javascript" src="/scripts/asm.js"></script>
 </head>
+<!--#INCLUDE VIRTUAL="/includes/gtag.js"-->
 <body>
 <div id="performancespage">
 	<div id="header">
@@ -54,7 +47,8 @@
 
 			<div id="details">
 				<ul class="upcomingperformances">
-					<li><a title="next show" href="/performances/ADyingPerson.shtml"><span class="showtitle">ASM Presents A Dying Person (chamber opera, not literally a dying person)</span> Monday, June 12, 2023 @7:30 PM EDT</a></li>
+					<li><a title="next show" href="/performances/InfrequentFestival2023.shtml"><span class="showtitle">ASM Presents Infrequent Seams</span> Wednesday, Thursday, and Saturday, June 7, 8, and 10, 2023 @8 PM EDT</a></li>
+					<li><a title="upcoming show" href="/performances/ADyingPerson.shtml"><span class="showtitle">ASM Presents A Dying Person (chamber opera, not literally a dying person)</span> Monday, June 12, 2023 @7:30 PM EDT</a></li>
 				</ul>
 
 				<p>What you missed already <!--last season-->...</p>

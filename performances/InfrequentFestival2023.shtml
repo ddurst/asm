@@ -2,7 +2,7 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
-	<title>What's that Lassie? (August 24, 2002) | Performances | Anti-Social Music</title>
+	<title>ASM Presents Infrequent Seams Festival 2023 (June 7, 8 and 10, 2023) | Performances | Anti-Social Music</title>
 
 	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -11,8 +11,8 @@
 	<meta name="robots" content="index, follow" />
 	<meta http-equiv="X-UA-Compatible" content="IE=7" />
 	<meta property="og:site_name" content="Anti-Social Music" />
-	<meta property="og:url" content="https://www.antisocialmusic.org/performances/Lassie.shtml" />
-	<meta property="og:title" content="What's that Lassie?" />
+	<meta property="og:url" content="https://www.antisocialmusic.org/performances/InfrequentFestival2023.shtml" /> 
+	<meta property="og:title" content="ASM Presents Infrequent Seams Festival 2023" />
 	<meta property="og:image" content="https://www.antisocialmusic.org/ASM_social.jpg" />
 	<link rel="SHORTCUT ICON" href="/favicon.ico" type="image/x-icon" />
 	<link rel="image_src" href="https://www.antisocialmusic.org/ASM_social.jpg" />
@@ -33,38 +33,63 @@
 <div id="performancespage">
 	<div id="header">
 		<h1>Anti-Social Music</h1>
-		<h2>Past Performance</h2>
+		<h2>Next Performance</h2>
 <!--#INCLUDE VIRTUAL="/includes/header_navigation.html"-->
 	</div>
+
 	<div id="content" class="clear">
 
 		<div class="column">
 			<div id="intro">
-
-<h3 class="verysmallprint">What's that Lassie?</h3>
-<p style="line-height:normal;margin-left:28px;margin-top:18px;">
-Anti-Social Music needs to be at Raw Space (543 W. 42nd St.) by Saturday, August 24th at 8pm to play in the <b>AugustArt Festival</b>?
-They're doing a full 90-minute set of ASM favorites including John Wriggle's <span class="worktitle">Dead Cat Bounce</span>, Peter Hess' <span class="worktitle">Trios I-III</span>, Dan Lasaga's <span class="worktitle">Parizade &amp; the Singing Tree</span>, Franz Nicolay's <span class="worktitle">...some time later...</span>?
-</p>
-
+				<h3>ASM Presents<br/>&nbsp;<br/>Infrequent Seams Festival 2023</h3>
+				<h3 class="smallprint">a co-presentation with QUBIT<h3/>
 			</div>
 
 			<div id="details">
 
-<p>I'm sorry, I didn't catch that. Louder, girl! They're even doing Pat Muchmore's <span class="worktitle">String Quartet No. 2</span>, never before heard in an ASM concert? Those poor children!</p>
+<p>
+<b>Wednesday June 7, 2023 at 8 PM</b><br/>
+QUBIT presents <span class="worktitle">Whitney Biennial Intervention Revisited</span>: works by Carolyn Chen + Laura Steenberge<br/>
+<br/>
+<span class="worktitle">Ekphrastic Discourse</span>: James Ilgenfritz, Sandy Ewen, Michael Foster, Sam Newsome<br/>
+<br/>
+Sara Schoenbeck, Josh Sinton, Giacomo Merega
+</p>
 
-<p>Come again? Ken has already given up on this earthly life and is gnawing on Jean's elbow in a fit of despondent nihilistic hysteria? Well, we better hurry then! Go tell Grandpa to bring the winch around and lower them some hardtack.</p>
+<p>
+<b>Thursday June 8, 2023 at 8 PM</b><br/>
+Katie Porter plays Johanna Beyer + Trio w/ James Ilgenfritz, Eli Wallace<br/>
+<br/>
+Sarah Bernstein + Stuart Popejoy Duo<br/>
+<br/>
+Time Phase Trio (Ty Citerman, Jen Baker, Nava Dunkelman)
+</p>
 
-<p>AugustArt info: 212-643-6399; <a href="http://www.augustart.com">www.augustart.com</a></p>
+<p>
+<b>Saturday June 10, 2023 at 8 PM</b><br/>
+Alex Marcelo, J D Parran, Daniel Carter Trio<br/>
+<br/>
+Anagram Ensemble: Andrew Drury, Thomas Buckner, James Ilgenfritz<br/>
+<br/>
+Nicole Parks plays Aaron Jay Myers
+</p>
 
-<p>For more information, e-mail <a href="mailto:info@antisocialmusic.org">info@antisocialmusic.org</a>.</p>
+<p>
+All shows at 8 PM
+FourOneOne
+411 Kent Ave, Brooklyn NY 11249
+All proceeds go to musicians
+</p>
+
+<p class="smallprint">
+This festival is presented by Anti-Social Music and SEM Ensemble. Support from Anti-Social Music is provided through public funds from the New York City Department of Cultural Affairs in partnership with the City Council, and through public funds from the New York State Council on the Arts, a state agency.
+</p>
 
 			</div>
 		</div>
 
 		<div class="column">
-			<div id="photo">
-			</div>
+			<div id="photo"><img src="/images/performances/inf_streams_banner_2023.png" alt="ASM Presents Infrequent Seams Festival 2023, June 7, 8, and 10 at 8pm at FourOneOne in Williamsburg" /></a></div>
 
 			<div id="pastperformances">
 <!--#INCLUDE VIRTUAL="/pastperformances.html"-->
