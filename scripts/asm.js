@@ -24,6 +24,12 @@ const ready = (fn) => {
   }
 };
 
+function iframeRef(frameRef) {
+    return frameRef.contentWindow
+        ? frameRef.contentWindow.document
+        : frameRef.contentDocument
+}
+
 ready(() => { 
   /* Now the DOM is loaded */
   /*
@@ -49,5 +55,17 @@ ready(() => {
       swap(photo, haiku);
     }
   }
+
+/*
+  let homepage = document.getElementById("homepage");
+  if (homepage) {
+    let framed = iframeRef(document.getElementById('bandcamp_player').children[0]);
+    if (! framed) console.log("sorry");
+    let kill = framed.querySelector("#prevnext");
+    if (kill) {
+      kill.style.display = "none";
+    }
+  }
+*/
 
 });
