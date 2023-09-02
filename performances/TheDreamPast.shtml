@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>ASM Presents The Sway Machinery's The Dream Past: A Sonic Conjuring (September 21, 2023) | Performances | Anti-Social Music</title>
+
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="imagetoolbar" content="false" />
+	<meta name="author" content="Anti-Social Music" />
+	<meta name="robots" content="index, follow" />
+	<meta http-equiv="X-UA-Compatible" content="IE=7" />
+	<meta property="og:site_name" content="Anti-Social Music" />
+	<meta property="og:url" content="https://www.antisocialmusic.org/performances/TheDreamPast.shtml" /> 
+	<meta property="og:title" content="ASM Presents The Sway Machinery's The Dream Past: A Sonic Conjuring" />
+	<meta property="og:image" content="https://www.antisocialmusic.org/ASM_social.jpg" />
+	<link rel="SHORTCUT ICON" href="/favicon.ico" type="image/x-icon" />
+	<link rel="image_src" href="https://www.antisocialmusic.org/ASM_social.jpg" />
+	<meta name="description" content="Anti-Social Music, Inc., is a non-profit collective of composers and performers created for the purpose of presenting new music by emerging, primarily New York-based musicians." />
+
+	<link rel="stylesheet" href="/styles/init.css" type="text/css" />
+	<link rel="stylesheet" href="/styles/subpage.css" type="text/css" />
+	<!--[if IE 6]>
+	<link rel="stylesheet" href="/styles/ie6.css" type="text/css" />
+	<![endif]-->
+	<!--[if IE 7]>
+	<link rel="stylesheet" href="/styles/ie7.css" type="text/css" />
+	<![endif]-->
+	<script type="text/javascript" src="/scripts/asm.js"></script>
+</head>
+<!--#INCLUDE VIRTUAL="/includes/gtag.js"-->
+<body>
+<div id="performancespage">
+	<div id="header">
+		<h1>Anti-Social Music</h1>
+		<h2>Upcoming Performance</h2>
+<!--#INCLUDE VIRTUAL="/includes/header_navigation.html"-->
+	</div>
+
+	<div id="content" class="clear">
+
+		<div class="column">
+			<div id="intro">
+				<h3>ASM Presents<br/>&nbsp;<br/>The Sway Machinery's
+					<br/>&nbsp;<br/><i>The Dream Past: A Sonic Conjuring</i><h3/>
+			</div>
+
+			<div id="details">
+
+<p>
+It has been said that the ability to talk to ghosts is directly proportional to the amount of historical material that has been electronically archived. In the current day, the internet overflows with secret material, creating unimaginable opportunities to touch the past. The live davening (recitation of Jewish liturgical prayers) archive, previously held in secret collections and circulated on dubbed cassettes by a tiny community of fans, has begun to go public via file sharing sites and streaming video. These recordings provide raw access to the long-form improvisatory style of prayer leading in the khazones tradition (sacred Jewish improvisational cantors), light-years removed from the stylized excerpts heard on old gramophone records. This newly accessible material has proven especially valuable to contemporary cantorial revivalists, for whom these recordings may provide their only exposure to khazones as a ritual performance form.
+</p>
+
+<p>
+ASM is thrilled to present, with Congregation Beth Elohim, the premiere performance of <span class="worktitle">The Dream Past: A Sonic Conjuring</span> by Brooklyn’s <a href="https://jeremiahlockwood.com/music/sway-machinery/" target="_blank">The Sway Machinery</a> (a group <i>The New Yorker</i> called “unclassifiable and uplifting”) at an art deco synagogue. Not kidding. Read on.
+</p>
+
+
+<p>
+Featuring the double-front of vocalists Yuli Ya’el Be’eri and band-leader Jeremiah Lockwood, the ace horn section of band-cofounders Stuart Bogie and Jordan McLean, and the great beauty of drummer John Bollinger, The Dream Past extends the band’s long running project of cantorial revival &ndash; excavating the otherworldly potentials of Jewish sacred music and lost melodies to instigate a party, break boundaries between communities, and touch the past. Like its debut project, <span class="worktitle">Hidden Melodies Revealed</span>, which also drew upon High Holidays liturgy, <span class="worktitle">The Dream Past</span> offers an expansive vision of what can be achieved through commitment to ancestor voices and reciprocity with the dead. This new work turns to a lost&mdash;and now rediscovered&mdash;archive of bootleg recordings of live prayer leading as the source material for its ecstatic transformation.
+</p>
+
+<p>
+Come initiate a dance with ghosts during the Days of Awe between Rosh Hashanah and Yom Kippur!<br/><br/>
+<b>Thursday, September 21, 2023 at 7:30 PM</b><br/>
+Union Temple House of CBE - 17 Eastern Parkway, Brooklyn (2/3/4 to Grand Army Plaza and a short jaunt from there)<br/><br/>
+Reserve your tickets at <a href="https://cbebk.shulcloud.com/the-dream-past" target="thedreampast">https://cbebk.shulcloud.com/the-dream-past</a><br/><br/>
+Note <a href="https://cbebk.org/cbe-covid-19-policy/" target="covid">CBE’s covid policy</a>
+</p>
+
+<p class="smallprint">
+This program is supported, in part, by public funds from the New York City Department of Cultural Affairs, in partnership with the City Council, and in part with public funds from the New York State Council on the Arts, a state agency.
+</p>
+
+			</div>
+		</div>
+
+		<div class="column">
+			<div id="photo"><img src="/images/performances/SwayMachinery.png" alt="ASM Presents The Sway Machinery's The Dream Past: A Sonic Conjuring, on September 21, 2023 at 7:30pm at Union Temple House of CBE in Brooklyn" /></a></div>
+
+			<div id="pastperformances">
+<!--#INCLUDE VIRTUAL="/pastperformances.html"-->
+			</div>
+		</div>
+
+	</div>
+
+<!--#INCLUDE VIRTUAL="/includes/footer.html"-->
+</div>
+
+</body>
+</html>
