@@ -46,8 +46,10 @@
 
 			<div id="details">
 				<ul class="upcomingperformances">
-					<li><a title="next show" href="/performances/WhyTried.shtml"><span class="showtitle">ASM Presents The Why at Mama Tried</span> Wednesday, September 13, 2023 @7 PM</a></li>
+					<li><a title="next show" href="/performances/WhyTried.shtml"><span class="showtitle">ASM Presents The Why at Mama Tried</span> Wednesday, September 13, 2023 @7:30 PM</a></li>
 					<li><a title="upcoming show" href="/performances/TheDreamPast.shtml"><span class="showtitle">ASM Presents The Sway Machinery's <i>The Dream Past: A Sonic Conjuring</i></span> Thursday, September 21, 2023 @7:30 PM</a></li>
+					<li><a title="upcoming show" href="/performances/EliWallaceExtravaganza.shtml"><span class="showtitle">ASM Presents Eli Wallace Extravaganza</span> Friday, October 6, 2023 @8 PM</a></li>
+					<li><a title="upcoming show" href="/performances/OccamsMachete.shtml"><span class="showtitle">ASM Presents Elliott Sharp: <i>Occam's Machete</i></span> Thursday, October 12, 2023 @8 PM</a></li>
 				</ul>
 
 				<p>What you missed already <!--last season-->...</p>

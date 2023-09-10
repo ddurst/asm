@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>ASM Presents The Why at Mama Tried (September 13, 2023) | Performances | Anti-Social Music</title>
+	<title>ASM Presents Elliott Sharp: Occam's Machete (October 12, 2023) | Performances | Anti-Social Music</title>
 
 	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -10,8 +10,8 @@
 	<meta name="robots" content="index, follow" />
 	<meta http-equiv="X-UA-Compatible" content="IE=7" />
 	<meta property="og:site_name" content="Anti-Social Music" />
-	<meta property="og:url" content="https://www.antisocialmusic.org/performances/WhyTried.shtml" /> 
-	<meta property="og:title" content="ASM Presents The Why at Mama Tried" />
+	<meta property="og:url" content="https://www.antisocialmusic.org/performances/OccamsMachete.shtml" /> 
+	<meta property="og:title" content="ASM Presents Elliott Sharp: Occam's Machete" />
 	<meta property="og:image" content="https://www.antisocialmusic.org/ASM_social.jpg" />
 	<link rel="SHORTCUT ICON" href="/favicon.ico" type="image/x-icon" />
 	<link rel="image_src" href="https://www.antisocialmusic.org/ASM_social.jpg" />
@@ -32,7 +32,7 @@
 <div id="performancespage">
 	<div id="header">
 		<h1>Anti-Social Music</h1>
-		<h2>Next Performance</h2>
+		<h2>Upcoming Performance</h2>
 <!--#INCLUDE VIRTUAL="/includes/header_navigation.html"-->
 	</div>
 
@@ -40,27 +40,34 @@
 
 		<div class="column">
 			<div id="intro">
-				<h3>ASM Presents<br/>&nbsp;<br/>The Why<h3/>
+				<h3>ASM Presents<br/>&nbsp;<br/>Elliot Sharp SysOrk’s
+					<br/>&nbsp;<br/><i>Occam’s Machete</i><h3/>
 			</div>
 
 			<div id="details">
 
 <p>
-A night of original music! You want details, and you want to go out on a Wednesday night. (It’s OK, we all do.) DO IT. You only live once. We think. (Actually, we think time is an illusion, the soul is eternal, and “life” as we speak of it is a continuum of various states of being. But we can’t prove this, so go see live music while you can.)
+Coming October 12, 2023 at MAIN DRAG MUSIC, Brooklyn:
+
+Anti-Social Music presents Elliott Sharp SysOrk performing <span class="worktitle">Occam’s Machete</span> for 24 strings plus the world premiere of <span class="worktitle">Nero Code</span> for four contrabasses.
 </p>
 
 <p>
-<b><i>The Why</i></b>: is Anders Nilsson (electric guitar), Jeremy Carlstedt (drums), and special guest On Ka'a Davis (electric guitar)
-<br/><br/>
-The what: a double bill of original music with <i>Huvudbry</i>
-<br/><br/>
-The where: Mama tried, 787 3rd Avenue, Brooklyn, NY 11232
-<br/><br/>
-The when: Wednesday, September 13, 2023 at 7:30pm
-<br/><br/>
-The who: The Why, we already covered that
-<br/><br/>
-The how: D/N/R/W to 25th St and then walk a block. Look, it’s not hard.
+<span class="worktitle">Occam’s Machete</span> is a 50-minute microtonal string orchestra piece for 24 players. Main Drag has a wonderful performance space with high ceilings and a spectacular sound, especially for acoustic instruments. The musicians will be situated throughout the space for an immersive sonic experience.
+</p>
+
+<p>
+The orchestra will consist of:<br/><br/>
+VIOLIN: Shaleah Feinstein, Sarah Thomas, Ledah Finck, Sarah Bernstein, On Ka'a Davis, Aimee Neimann, Tom Chiu, Rachel Golub, Joanna Mattrey, Sana Nagano, Jean Cook.<br/><br/>
+VIOLA: Ron Lawrence, Jessica Pavone, Judith Insell, Amy Huimei Tan, John Pickford Richards.<br/><br/>
+CELLO: Hao Jiang, Irene Han, Alex Waterman, Chris Otto.<br/><br/>
+CONTRABASS: JA Andrew Wilhite-Hannisdal, Shayna Dulberger, Kevin Ray, Kyle Motl.
+</p>
+
+<p>
+<b>Thursday, October 12, 2023 @ 8PM</b><br/>
+Main Drag Music<br/>
+50 South 1st Street, Williamsburg (between Kent Ave and Wythe Ave)
 </p>
 
 <p class="smallprint">
@@ -71,7 +78,7 @@ This program is supported, in part, by public funds from the New York City Depar
 		</div>
 
 		<div class="column">
-			<div id="photo"><img src="/images/performances/WhyTried.png" alt="ASM Presents The Why at Mama tried, on September 13, 2023 at 7:30pm" /></div>
+			<div id="photo"><img src="/images/performances/OccamsMachete.png" alt="ASM Presents Elliott Sharp: Occam's Machete on October 12, 2023 at Main Drag Music in Williamsburg" /></a></div>
 
 			<div id="pastperformances">
 <!--#INCLUDE VIRTUAL="/pastperformances.html"-->
