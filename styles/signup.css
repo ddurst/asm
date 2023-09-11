@@ -1,0 +1,67 @@
+#getinvolvedpage h4.subscribe, 
+#homepage h4.subscribe {
+	font-size: 14px;
+	font-weight: bold;
+	margin: 8px 0 3px 0;
+	padding: 20px 0 0 300px;
+	width: 350px;
+}
+#homepage #solicit h4 {
+	padding-left: 0px;
+	padding-top: 8px;
+}
+#getinvolvedpage #section1 form, 
+#getinvolvedpage #section1 iframe {
+	padding: 8px 0 0 300px;
+	width: 350px;
+}
+#getinvolvedpage p.secret {
+	background: none;
+	padding-top: 28px;
+}
+#homepage p.secret {
+	clear: left;
+	margin-top: 0px;
+	padding-top: 8px;
+}
+
+p.secret,
+p.secret a {
+	color: #eee;
+}
+p.secret a:hover {
+	color: #e99;
+}
+#homepage p.secret,
+#homepage p.secret a {
+	color: #e7e7e7;
+	font-size: 90%;
+	margin-bottom: 8px;
+}
+#homepage p.secret a:hover {
+	color: #d99;
+}
+
+/* MEDIA QUERIES */
+@media only screen and (max-width: 768px) {
+
+#getinvolvedpage #section1 form, 
+#getinvolvedpage #section1 iframe {
+	padding: 0px;
+	width: 300px;
+}
+
+#getinvolvedpage h4.subscribe, 
+#getinvolvedpage #section1 form {
+	padding-left: 0;
+	width: auto;
+}
+
+#homepage h4.subscribe {
+	padding: 20px 0 0 0;
+	text-align: center;
+	width: auto;
+}
+
+
+} /* end max-width 768 */
