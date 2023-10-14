@@ -10,8 +10,8 @@
 	<meta name="robots" content="index, follow" />
 	<meta http-equiv="X-UA-Compatible" content="IE=7" />
 	<meta property="og:site_name" content="Anti-Social Music" />
-	<meta property="og:url" content="https://www.antisocialmusic.org/performances/EliWallaceExtravaganza.shtml" /> 
-	<meta property="og:title" content="ASM Presents Eli Wallace Extravaganza" />
+	<meta property="og:url" content="https://www.antisocialmusic.org/performances/EliWallace.shtml" /> 
+	<meta property="og:title" content="ASM Presents Eli Wallace" />
 	<meta property="og:image" content="https://www.antisocialmusic.org/ASM_social.jpg" />
 	<link rel="SHORTCUT ICON" href="/favicon.ico" type="image/x-icon" />
 	<link rel="image_src" href="https://www.antisocialmusic.org/ASM_social.jpg" />
@@ -32,7 +32,7 @@
 <div id="performancespage">
 	<div id="header">
 		<h1>Anti-Social Music</h1>
-		<h2>Upcoming Performance</h2>
+		<h2>Past Performance</h2>
 <!--#INCLUDE VIRTUAL="/includes/header_navigation.html"-->
 	</div>
 
@@ -94,7 +94,7 @@ This program is supported, in part, by public funds from the New York City Depar
 		</div>
 
 		<div class="column">
-			<div id="photo"><!--<img src="/images/performances/TBD.png" alt="ASM Presents Eli Wallace Extravaganza on October 6, 2023 at 8 PM at Mise-En Place in Brooklyn NYC" /></a>--></div>
+			<div id="photo"><img src="/images/performances/elipresents.png" alt="ASM Presents Eli Wallace on October 6, 2023 at 8 PM at Mise-En Place in Brooklyn NYC, 341 Cayler St" /></div>
 
 			<div id="pastperformances">
 <!--#INCLUDE VIRTUAL="/pastperformances.html"-->

@@ -24,6 +24,13 @@ table, figure, caption, tbody, tfoot, thead, tr, th, td {
 	vertical-align: baseline;
 }
 
+html {
+	-moz-text-size-adjust: 100%;
+	-ms-text-size-adjust: 100%;
+	-webkit-text-size-adjust: 100%;
+	text-size-adjust: 100%;
+}
+
 /* Neutralize styling: Elements with a vertical margin */
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 dl, ol, ul {

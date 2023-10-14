@@ -1309,6 +1309,10 @@ ul.upcomingperformances .showtitle {
 /* MEDIA QUERIES */
 @media only screen and (max-width: 768px) {
 
+html { /* stupid mobile safari */
+	-webkit-text-size-adjust: 100%;
+}
+
 body > div {
 	padding: 0;
 	margin: 1%;
@@ -1624,7 +1628,7 @@ body > div {
 #performancespage #details {
 	background: none;
 	padding-bottom: 0;
-	xbackground-position: 55% bottom;
+	/* background-position: 55% bottom; */
 	width: 95%;
 }
 

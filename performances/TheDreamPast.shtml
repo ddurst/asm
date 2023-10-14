@@ -32,7 +32,7 @@
 <div id="performancespage">
 	<div id="header">
 		<h1>Anti-Social Music</h1>
-		<h2>Upcoming Performance</h2>
+		<h2>Past Performance</h2>
 <!--#INCLUDE VIRTUAL="/includes/header_navigation.html"-->
 	</div>
 
@@ -75,7 +75,7 @@ This program is supported, in part, by public funds from the New York City Depar
 		</div>
 
 		<div class="column">
-			<div id="photo"><img src="/images/performances/SwayMachinery.png" alt="ASM Presents The Sway Machinery's The Dream Past: A Sonic Conjuring, on September 21, 2023 at 7:30pm at Union Temple House of CBE in Brooklyn" /></a></div>
+			<div id="photo"><img src="/images/performances/SwayMachinery.png" alt="ASM Presents The Sway Machinery's The Dream Past: A Sonic Conjuring, on September 21, 2023 at 7:30pm at Union Temple House of CBE in Brooklyn" /></div>
 
 			<div id="pastperformances">
 <!--#INCLUDE VIRTUAL="/pastperformances.html"-->
