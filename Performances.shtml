@@ -46,7 +46,7 @@
 
 			<div id="details">
 				<ul class="upcomingperformances">
-					<li>Stay tuned...</li>
+					<li><a title="next show" href="/performances/GhostEnsemble.shtml"><span class="showtitle">ASM Presents Ghost Ensemble</span> Thursday, November 9, 2023 @7:30 PM</a></li>
 				</ul>
 
 				<p>What you missed already <!--last season-->...</p>

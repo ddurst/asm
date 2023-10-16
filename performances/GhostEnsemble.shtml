@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html> 
+<head>
+	<title>ASM Presents Ghost Ensemble (November 9, 2023) | Performances | Anti-Social Music</title>
+
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="imagetoolbar" content="false" />
+	<meta name="author" content="Anti-Social Music" />
+	<meta name="robots" content="index, follow" />
+	<meta http-equiv="X-UA-Compatible" content="IE=7" />
+	<meta property="og:site_name" content="Anti-Social Music" />
+	<meta property="og:url" content="https://www.antisocialmusic.org/performances/GhostEnsemble.shtml" /> 
+	<meta property="og:title" content="ASM Presents Ghost Ensemble" />
+	<meta property="og:image" content="https://www.antisocialmusic.org/ASM_social.jpg" />
+	<link rel="SHORTCUT ICON" href="/favicon.ico" type="image/x-icon" />
+	<link rel="image_src" href="https://www.antisocialmusic.org/ASM_social.jpg" />
+	<meta name="description" content="Anti-Social Music, Inc., is a non-profit collective of composers and performers created for the purpose of presenting new music by emerging, primarily New York-based musicians." />
+
+	<link rel="stylesheet" href="/styles/init.css" type="text/css" />
+	<link rel="stylesheet" href="/styles/subpage.css" type="text/css" />
+	<!--[if IE 6]>
+	<link rel="stylesheet" href="/styles/ie6.css" type="text/css" />
+	<![endif]-->
+	<!--[if IE 7]>
+	<link rel="stylesheet" href="/styles/ie7.css" type="text/css" />
+	<![endif]-->
+	<script type="text/javascript" src="/scripts/asm.js"></script>
+</head>
+<!--#INCLUDE VIRTUAL="/includes/gtag.js"-->
+<body>
+<div id="performancespage">
+	<div id="header">
+		<h1>Anti-Social Music</h1>
+		<h2>Next Performance</h2>
+<!--#INCLUDE VIRTUAL="/includes/header_navigation.html"-->
+	</div>
+
+	<div id="content" class="clear">
+
+		<div class="column">
+			<div id="intro">
+				<h3>ASM Presents Ghost Ensemble<h3/>
+			</div>
+
+			<div id="details">
+
+<p>
+Anti-Social Music and <a href="https://www.ghostensemble.org/about" target="ghost">Ghost Ensemble</a> present an evening of recent commissions exploring cellophane, patternicity, breath cycles, and inflating arboreal harmonica-playing sound sculptures!
+</p>
+
+<p>Featuring the <em>world premiere</em> of <b>Carl Bettendorf</b>’s <span class="worktitle">Variations on 4x25 Notes</span> (2022-23) and the New York premiere of <b>Miya Masaoka</b>’s <span class="worktitle">Spirals of Energy</span> (2023). Two other recent commissions by ensemble-member composers, <b>Sky Macklay</b>’s <span class="worktitle">Harmonifriends</span> and <b>James Ilgenfritz</b>’s <span class="worktitle">Apophenia V: Outmoded Large Crumbling Oval Lime-Green Midwestern Plastic-Frame Reading Glasses</span>, receive their second New York performances. Also on the program is <b>Caroline Louise Miller</b>’s <span class="worktitle">Vessel</span> (2013).
+</p>
+
+<p>
+<b>Musicians:</b>
+Margaret Lancaster: flutes<br/>
+Sky Macklay: oboe<br/>
+Ben Richter: accordion<br/>
+Chris Nappi: percussion<br/>
+Lucia Stavros: harp<br/>
+Martine Thomas: viola<br/>
+Tyler J Borden: cello<br/>
+Kyle Motl: contrabass<br/>
+James Ilgenfritz: contrabass<br/>
+Carl Bettendorf: conductor
+</p>
+
+<p>
+<b>Thursday, November 9th, 2023 @ 7:30PM</b><br/>
+<b><a href="https://www.theinvisibledog.org/visit" target="invisible">The Invisible Dog Art Center</a></b><br/>
+<b>51 Bergen Street (between Smith St and Boerum Pl), Brooklyn NY 11201</b><br/>
+$20
+</p>
+
+<p class="smallprint">
+This program is supported, in part, by public funds from the New York City Department of Cultural Affairs, in partnership with the City Council, and in part with public funds from the New York State Council on the Arts, a state agency.
+</p>
+
+			</div>
+		</div>
+
+		<div class="column">
+			<div id="photo"><img src="/images/performances/ghostensemble.png" alt="ASM Presents Ghost Ensemble on November 9, 2023 at 7:30 PM at The Invisible Dog Art Center, 51 Bergen Street in Brooklyn, NY" /></div>
+
+			<div id="pastperformances">
+<!--#INCLUDE VIRTUAL="/pastperformances.html"-->
+			</div>
+		</div>
+
+	</div>
+
+<!--#INCLUDE VIRTUAL="/includes/footer.html"-->
+</div>
+
+</body>
+</html>
