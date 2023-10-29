@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html> 
+<head>
+	<title>ASM Presents Invocation XII (December 8, 2023) | Performances | Anti-Social Music</title>
+
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="imagetoolbar" content="false" />
+	<meta name="author" content="Anti-Social Music" />
+	<meta name="robots" content="index, follow" />
+	<meta http-equiv="X-UA-Compatible" content="IE=7" />
+	<meta property="og:site_name" content="Anti-Social Music" />
+	<meta property="og:url" content="https://www.antisocialmusic.org/performances/InvocationXII.shtml" /> 
+	<meta property="og:title" content="ASM Presents Invocation XII" />
+	<meta property="og:image" content="https://www.antisocialmusic.org/ASM_social.jpg" />
+	<link rel="SHORTCUT ICON" href="/favicon.ico" type="image/x-icon" />
+	<link rel="image_src" href="https://www.antisocialmusic.org/ASM_social.jpg" />
+	<meta name="description" content="Anti-Social Music, Inc., is a non-profit collective of composers and performers created for the purpose of presenting new music by emerging, primarily New York-based musicians." />
+
+	<link rel="stylesheet" href="/styles/init.css" type="text/css" />
+	<link rel="stylesheet" href="/styles/subpage.css" type="text/css" />
+	<!--[if IE 6]>
+	<link rel="stylesheet" href="/styles/ie6.css" type="text/css" />
+	<![endif]-->
+	<!--[if IE 7]>
+	<link rel="stylesheet" href="/styles/ie7.css" type="text/css" />
+	<![endif]-->
+	<script type="text/javascript" src="/scripts/asm.js"></script>
+</head>
+<!--#INCLUDE VIRTUAL="/includes/gtag.js"-->
+<body>
+<div id="performancespage">
+	<div id="header">
+		<h1>Anti-Social Music</h1>
+		<h2>Upcoming Performance</h2>
+<!--#INCLUDE VIRTUAL="/includes/header_navigation.html"-->
+	</div>
+
+	<div id="content" class="clear">
+
+		<div class="column">
+			<div id="intro">
+				<h3>ASM Presents Invocation XII<h3/>
+			</div>
+
+			<div id="details">
+
+<p>
+Invocation pairs installation artists, improvisers, and performers across all disciplines to collectively synthesize a durational work unique to each iteration, conjuring the collective ethos in a single, uninterrupted performance.
+</p>
+
+<p><b>Invocation XII</b> will feature a sound installation and performance by percussionist &amp; sound artist <b>Lisa Cameron</b>, a commission by renowned composer/improviser &amp; instrument builder <b>id m theftable</b>, and an electronics performance by <b>Dominic Coles</b>.
+</p>
+
+
+<p>
+<b>Friday, December 8th, 2023 @ 8:00PM</b><br/>
+<b><a href="https://place.mise-en.org/" target="setup">Mise-En Place</a></b><br/>
+<b>341 Calyer St, Brooklyn, NY 11222</b><br/>
+G to Greenpoint Ave, then hoof it
+</p>
+
+<p class="smallprint">
+This program is supported, in part, by public funds from the New York City Department of Cultural Affairs, in partnership with the City Council, and in part with public funds from the New York State Council on the Arts, a state agency.
+</p>
+
+			</div>
+		</div>
+
+		<div class="column">
+			<div id="photo"><img src="/images/performances/invocationXII.png" alt="ASM Presents Invocation XII on December 8, 2023 at 8 PM at Mise-En Place in Brooklyn NYC, 341 Cayler St" /></div>
+
+			<div id="pastperformances">
+<!--#INCLUDE VIRTUAL="/pastperformances.html"-->
+			</div>
+		</div>
+
+	</div>
+
+<!--#INCLUDE VIRTUAL="/includes/footer.html"-->
+</div>
+
+</body>
+</html>
