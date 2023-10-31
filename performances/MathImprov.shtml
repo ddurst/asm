@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html> 
+<head>
+	<title>ASM Presents A Night Of Math Improv-ish (December 13, 2023) | Performances | Anti-Social Music</title>
+
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="imagetoolbar" content="false" />
+	<meta name="author" content="Anti-Social Music" />
+	<meta name="robots" content="index, follow" />
+	<meta http-equiv="X-UA-Compatible" content="IE=7" />
+	<meta property="og:site_name" content="Anti-Social Music" />
+	<meta property="og:url" content="https://www.antisocialmusic.org/performances/MathImprov.shtml" /> 
+	<meta property="og:title" content="ASM Presents A Night Of Math Improv-ish" />
+	<meta property="og:image" content="https://www.antisocialmusic.org/ASM_social.jpg" />
+	<link rel="SHORTCUT ICON" href="/favicon.ico" type="image/x-icon" />
+	<link rel="image_src" href="https://www.antisocialmusic.org/ASM_social.jpg" />
+	<meta name="description" content="Anti-Social Music, Inc., is a non-profit collective of composers and performers created for the purpose of presenting new music by emerging, primarily New York-based musicians." />
+
+	<link rel="stylesheet" href="/styles/init.css" type="text/css" />
+	<link rel="stylesheet" href="/styles/subpage.css" type="text/css" />
+	<!--[if IE 6]>
+	<link rel="stylesheet" href="/styles/ie6.css" type="text/css" />
+	<![endif]-->
+	<!--[if IE 7]>
+	<link rel="stylesheet" href="/styles/ie7.css" type="text/css" />
+	<![endif]-->
+	<script type="text/javascript" src="/scripts/asm.js"></script>
+</head>
+<!--#INCLUDE VIRTUAL="/includes/gtag.js"-->
+<body>
+<div id="performancespage">
+	<div id="header">
+		<h1>Anti-Social Music</h1>
+		<h2>Upcoming Performance</h2>
+<!--#INCLUDE VIRTUAL="/includes/header_navigation.html"-->
+	</div>
+
+	<div id="content" class="clear">
+
+		<div class="column">
+			<div id="intro">
+				<h3>ASM Presents A Night Of Math Improv-ish<h3/>
+			</div>
+
+			<div id="details">
+
+
+<p>
+This will be a night of three distinctive math rock, heavy improv projects led by three different musicians: violinist Sana Nagano, guitarist Matt Hollenberg, and drummer Danny Sher. Soon after discovering each other in the summer of 2023, the three felt a chemistry as musicians. They started rehearsing each other’s new and wild compositions as a group. Soon they brought in some of their favorite collaborators to complete Nagano’s <b>Atomic Pigeons</b> and Hollenberg’s <b>Shardik</b>. They love each other’s music so much that they decided to have Danny Sher’s <b>Horse Torso</b> as the third band to complete this special night of head banging, mind melting, deeply visceral music.
+</p>
+
+
+<h4>Shardik (Matt Hollenberg)</h4>
+<p>
+Introducing the innovative instrumental quartet project led by the dynamic guitarist of <i>Cleric</i> and <i>Simulacrum</i>, Matt Hollenberg. Hailing from Philly and now residing in Brooklyn, Hollenberg has crafted a mind-bending fusion of avant-garde classical, free jazz, dissonant math metal, ambient, and world music. Since 2018, he has meticulously composed these intricate pieces, collaborating with the accomplished Sana Nagano on violin, Danny Sher on drums, and Nick Jost on bass to achieve a fluid and organic sound. This bold new lineup brings forth a powerful blend of musical styles that will undoubtedly fry your mind!
+</p>
+
+<h4>Horse Torso (Danny Sher)</h4>
+<p>
+<i>Horse Torso</i> is the brainchild of drummer/composer Danny Sher. This quartet combines dense, dissonant tonality and avant-garde improvisation with elements of noise rock, math rock, and punk. The band features Will Chapin and Andrew Smiley on guitars, Nick Jost on bass, and Danny Sher on drums.
+</p>
+
+<h4>Atomic Pigeons (Sana Nagano)</h4>
+<p>
+Brooklyn-based composer <a href="https://www.allmusic.com/artist/sana-nagano-mn0003310331" target="allmusic">Sana Nagano</a> has a highly distinctive approach to violin playing, grounding chaotic improvisations with restrained precision. Formally trained in both jazz and classical traditions, she rips up the rulebook with projects such as the avant-bluegrass trio <span class="worktitle"><a href="https://www.allmusic.com/artist/astroturf-noise-mn0003920458" target="noise">Astroturf Noise</a></span> and 2021’s <span class="worktitle"><a href="https://www.allmusic.com/album/smashing-humans-mw0003492501" target="humans">Smashing Humans</a></span>, which bears the name of her explosive prog-jazz quintet. In 2022, Nagano reassembled her new project <i>Atomic Pigeons</i> that she started
+envisioning in pre-Covid era. The four-piece ensemble plays her glitchy, out-of-the-mind compositions employing multilayered, precise but artful uses of polyrhythms and vibrant, raw sonic choices. The collaborators include some of the top-level musicians in the heavy punk jazz, avant math rock field with multi-diverse musical backgrounds: Harvey Valdes on guitar, Matt Hollenberg on bass, and Danny Sher on drums.
+</p>
+
+<p>
+<b>Wednesday, December 13th, 2023 @ 7-10PM</b><br/>
+<b><a href="http://www.nublu.net/" target="nublu">Nublu</a></b><br/>
+<b>151 Loisaida Ave, NY NY 10009</b><br/>
+$22.26 <a href="https://dice.fm/partner/tatu-llc/event/6a7k7-asm-presents-shardik-horse-torso-atomic-pigeons-13th-dec-nublu-new-york-tickets" target="tickets">precisely</a>
+</p>
+
+<p class="smallprint">
+This program is supported, in part, by public funds from the New York City Department of Cultural Affairs, in partnership with the City Council, and in part with public funds from the New York State Council on the Arts, a state agency.
+</p>
+
+			</div>
+		</div>
+
+		<div class="column">
+			<div id="photo"><img src="/images/performances/mathimprov.png" alt="ASM Presents Shardik, Horse Torso, and Atomic Pigeons on December 13, 2023, 7-10 PM at Nublu, 151 Loisaida Ave in Manhattan's East Village" /></div>
+
+			<div id="pastperformances">
+<!--#INCLUDE VIRTUAL="/pastperformances.html"-->
+			</div>
+		</div>
+
+	</div>
+
+<!--#INCLUDE VIRTUAL="/includes/footer.html"-->
+</div>
+
+</body>
+</html>
