@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>ASM Presents La Suspendida (March 12, 2024) | Performances | Anti-Social Music</title>
+
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="imagetoolbar" content="false" />
+	<meta name="author" content="Anti-Social Music" />
+	<meta name="robots" content="index, follow" />
+	<meta http-equiv="X-UA-Compatible" content="IE=7" />
+	<meta property="og:site_name" content="Anti-Social Music" />
+	<meta property="og:url" content="https://www.antisocialmusic.org/performances/Suspendida.shtml" /> 
+	<meta property="og:title" content="ASM Presents La Suspendida" />
+	<meta property="og:image" content="https://www.antisocialmusic.org/ASM_social.jpg" />
+	<link rel="SHORTCUT ICON" href="/favicon.ico" type="image/x-icon" />
+	<link rel="image_src" href="https://www.antisocialmusic.org/ASM_social.jpg" />
+	<meta name="description" content="Anti-Social Music, Inc., is a non-profit collective of composers and performers created for the purpose of presenting new music by emerging, primarily New York-based musicians." />
+
+	<link rel="stylesheet" href="/styles/init.css" type="text/css" />
+	<link rel="stylesheet" href="/styles/subpage.css" type="text/css" />
+	<!--[if IE 6]>
+	<link rel="stylesheet" href="/styles/ie6.css" type="text/css" />
+	<![endif]-->
+	<!--[if IE 7]>
+	<link rel="stylesheet" href="/styles/ie7.css" type="text/css" />
+	<![endif]-->
+	<script type="text/javascript" src="/scripts/asm.js"></script>
+</head>
+<!--#INCLUDE VIRTUAL="/includes/gtag.js"-->
+<body>
+<div id="performancespage">
+	<div id="header">
+		<h1>Anti-Social Music</h1>
+		<h2>Past Performance</h2>
+<!--#INCLUDE VIRTUAL="/includes/header_navigation.html"-->
+	</div>
+
+	<div id="content" class="clear">
+
+		<div class="column">
+			<div id="intro">
+				<h3>ASM Presents<br/>&nbsp;<br/>La Suspendida, A Jazz Metal Opera ALBUM RELEASE</h3>
+				<h3 class="smallprint">a co-presentation with EXCURSUS PRODUCTION and SILENT PENDULUM RECORDS<h3/>
+			</div>
+
+			<div id="details">
+
+<p>
+<span class="worktitle">La Suspendida</span> is an <a href="https://www.youtube.com/watch?v=WqlDBpvQN3I" target="snippet">opera in jazz and metal</a>. In telling its story of a relationship that extends beyond death, it extends what we mean by opera, jazz, and metal, even while honoring and reveling in those traditions.
+</p>
+
+<p>
+There will be two shows, one at 8PM and one at 10PM, so you have two chances to catch a performance. This is the album release ahead of the release of the full double album expected on March 15th by <a href="https://silentpendulumrecords.com/" target="silent">Silent Pendulum Records</a>.
+</p>
+
+
+<p>
+Produced by Laurent David<br/>
+Music by Kilter<br/>
+Libretto by Will Berger<br/>
+</p>
+
+<p>
+Featuring:<br/>
+<br/>
+Ed Rosenberg III: Bass Sax<br/>
+Kenny Grohowski: Drums<br/>
+Laurent David: E-Bass<br/>
+<br/>
+Andromeda Anarchia: Growlaratura, <i>&laquo; Maria-Elena &raquo;</i><br/>
+Growlers Choir <i>&laquo; The Choir Of The Dead &raquo;</i><br/>
+<br/>
+SEVEN)SUNS, string quartet
+</p>
+
+<p>
+<b>Tuesday, March 12th, 2024</b><br/>
+<b>Two shows, 8PM &amp; 10PM</b><br/>
+<b><a href="http://www.nublu.net/" target="nublu">Nublu</a></b><br/>
+<b>151 Loisaida Ave, NY NY 10009</b><br/>
+$35 at the door, <a href="https://link.dice.fm/n2a657a4916a?dice_id=n2a657a4916a" target="tickets">$30 in advance</a>
+</p>
+
+<p class="smallprint">
+This festival is presented by Anti-Social Music and SEM Ensemble. Support from Anti-Social Music is provided through public funds from the New York City Department of Cultural Affairs in partnership with the City Council, and through public funds from the New York State Council on the Arts, a state agency.
+</p>
+
+			</div>
+		</div>
+
+		<div class="column">
+			<div id="photo"><img src="/images/performances/suspendida.png" alt="ASM, EXCURSUS PRODUCTION, and SILENT PENDULUM RECORDS Present La Suspendida, a Jazz Metal Opera on March 12, 2024 at 8 and 10 PM at Nublu" /></div>
+
+			<div id="pastperformances">
+<!--#INCLUDE VIRTUAL="/pastperformances.html"-->
+			</div>
+		</div>
+
+	</div>
+
+<!--#INCLUDE VIRTUAL="/includes/footer.html"-->
+</div>
+
+</body>
+</html>
