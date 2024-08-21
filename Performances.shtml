@@ -47,12 +47,13 @@
 			<div id="details">
 
 				<ul class="upcomingperformances">
-					<li><a title="next show" href="/performances/DoubleTrouble.shtml"><span class="showtitle">ASM Presents Double Trouble: A Night of Duos<span> Saturday, April 13, 2024 @7:30 PM</a></li>
+					<li><a title="next show" href="/performances/Amen.shtml"><span class="showtitle">ASM Presents Amen: Joy Guidry Trio<span> Sunday, August 25, 2024 @6:00 PM</a></li>
 				</ul>
 
 				<p>What you missed already ...</p>
 				<ul class="upcomingperformances">
 				<strike>
+					<li><a title="past show" href="/performances/DoubleTrouble.shtml"><span class="showtitle">ASM Presents Double Trouble: A Night of Duos<span> Saturday, April 13, 2024 @7:30 PM</a></li>
 					<li><a title="past show" href="/performances/Suspendida.shtml"><span class="showtitle">ASM Presents La Suspendida</span> Tuesday, March 12, 2024 @8 PM &amp; 10 PM</a></li>
 				</strike>
 				</ul>
