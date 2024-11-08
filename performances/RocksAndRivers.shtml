@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>ASM Presents Amen: Joy Guidry Trio (August 25, 2024) | Performances | Anti-Social Music</title>
+	<title>ASM Presents Rocks and Rivers (November 8, 2024) | Performances | Anti-Social Music</title>
 
 	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -10,8 +10,8 @@
 	<meta name="robots" content="index, follow" />
 	<meta http-equiv="X-UA-Compatible" content="IE=7" />
 	<meta property="og:site_name" content="Anti-Social Music" />
-	<meta property="og:url" content="https://www.antisocialmusic.org/performances/Amen.shtml" /> 
-	<meta property="og:title" content="ASM Presents Amen: Joy Guidry Trio" />
+	<meta property="og:url" content="https://www.antisocialmusic.org/performances/RocksAndRivers.shtml" /> 
+	<meta property="og:title" content="ASM Presents Rocks and Rivers" />
 	<meta property="og:image" content="https://www.antisocialmusic.org/ASM_social.jpg" />
 	<link rel="SHORTCUT ICON" href="/favicon.ico" type="image/x-icon" />
 	<link rel="image_src" href="https://www.antisocialmusic.org/ASM_social.jpg" />
@@ -32,7 +32,7 @@
 <div id="performancespage">
 	<div id="header">
 		<h1>Anti-Social Music</h1>
-		<h2>Past Performance</h2>
+		<h2>Next Performance</h2>
 <!--#INCLUDE VIRTUAL="/includes/header_navigation.html"-->
 	</div>
 
@@ -40,31 +40,30 @@
 
 		<div class="column">
 			<div id="intro">
-				<h3>ASM Presents<br/>&nbsp;<br/>Amen: Joy Guidry Trio</h3>
+				<h3>ASM Presents<br/>&nbsp;<br/>Rocks and Rivers</h3>
 			</div>
 
 			<div id="details">
 
 <p>
+<span class="worktitle">Rocks and Rivers</span> follows up <span class="worktitle"><a href="HeartSongs.shtml" target="heartsongs">Heart Songs and Sounds</a></span> from 2022. It's a new cycle of songs and compositions exploring the qualities of human emotion as they relate to our natural world, performed by the same trio.
 </p>
 
-<p class="largeprint">
-Joy Guidry's newest album, <a href="https://www.guidrybassoon.com/amen" target="details">AMEN</a>, was released on May 10th, 2024. On August 25th, the Joy Guidry Trio will be playing an album release show.
+<p><b>Performing:</b><br/>
+Theresa Rosas, piano and vocals<br/>
+Alan Grubner, violin<br/>
+Sam Weber, bass
 </p>
 
 <p>
-You don't get many (any?) chances to see live experimental gospel jazz ambient spiritual soul featuring a bassoonist. Guidry does not disappoint, whatever your expectations are, and more importantly, it's badass.
+<b>Friday, November 8th, 2024 at 7:00 PM<br/>
+at Renee Weller Concert Hall<br/>
+<a href="https://greenwichhouse.org/event/rocks-and-rivers-a-new-song-cycle-from-theresa-rosas-presented-by-asm" target="ghms">Greenwich House Music School</a><br/>
+<a href="https://maps.google.com/maps?q=46+Barrow+Street+New+York+NY+10014+United+States" target="map">46 Barrow Street, NYC</a></b>
 </p>
 
-<p>Here at ASM we're just putting the facts out there: you won't hear anything else like this. In this remix culture, seeing a human perform in person is getting more and more rare. Sure, you could sit at home and listen to it, counting off another day that you whirled through space in a continuum of Blursdays, or you could step out into the golden light of a Sunday and immerse yourself in the power of community. By the end, you too will be saying Amen!</p>
-
 <p>
-<b>Sunday, August 25th, 2024</b><br/>
-<b>Doors at 5:30PM, show at 6PM</b><br/>
-at <a href="https://publictheater.org/productions/joes-pub/2024/j/joy-guidry-trio/" target="joespub">Joe's Pub</a><br/>
-425 Lafayette Street (at Astor Place)<br/>
-New York, NY 10003<br/>
-<a href="https://publictheater.org/reserve/reserve?productionseasonNumber=50724&performanceNumber=50725" target="amentix">Tickets are $25</a>
+<a href="https://bit.ly/rocksandrivers" target="tickets">Tickets</a> are $20
 </p>
 
 <p class="smallprint">
@@ -75,7 +74,7 @@ Support from Anti-Social Music is provided through public funds from the New Yor
 		</div>
 
 		<div class="column">
-			<div id="photo"><img src="/images/performances/guidry_amen.png" alt="ASM Presents Amen: Joy Guidry Trio: August 25, 2024 @ 6pm" /></div>
+			<div id="photo"><img src="/images/performances/rocks_and_rivers.png" alt="ASM Presents Rocks and Rivers at Greenwich House Music School, November 8, 2024, at 7pm." /></div>
 
 			<div id="pastperformances">
 <!--#INCLUDE VIRTUAL="/pastperformances.html"-->

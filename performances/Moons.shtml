@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>ASM Presents Moons (November 16, 2024) | Performances | Anti-Social Music</title>
+
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="imagetoolbar" content="false" />
+	<meta name="author" content="Anti-Social Music" />
+	<meta name="robots" content="index, follow" />
+	<meta http-equiv="X-UA-Compatible" content="IE=7" />
+	<meta property="og:site_name" content="Anti-Social Music" />
+	<meta property="og:url" content="https://www.antisocialmusic.org/performances/Moons.shtml" /> 
+	<meta property="og:title" content="ASM Presents Moons" />
+	<meta property="og:image" content="https://www.antisocialmusic.org/ASM_social.jpg" />
+	<link rel="SHORTCUT ICON" href="/favicon.ico" type="image/x-icon" />
+	<link rel="image_src" href="https://www.antisocialmusic.org/ASM_social.jpg" />
+	<meta name="description" content="Anti-Social Music, Inc., is a non-profit collective of composers and performers created for the purpose of presenting new music by emerging, primarily New York-based musicians." />
+
+	<link rel="stylesheet" href="/styles/init.css" type="text/css" />
+	<link rel="stylesheet" href="/styles/subpage.css" type="text/css" />
+	<!--[if IE 6]>
+	<link rel="stylesheet" href="/styles/ie6.css" type="text/css" />
+	<![endif]-->
+	<!--[if IE 7]>
+	<link rel="stylesheet" href="/styles/ie7.css" type="text/css" />
+	<![endif]-->
+	<script type="text/javascript" src="/scripts/asm.js"></script>
+</head>
+<!--#INCLUDE VIRTUAL="/includes/gtag.js"-->
+<body>
+<div id="performancespage">
+	<div id="header">
+		<h1>Anti-Social Music</h1>
+		<h2>Upcoming Performance</h2>
+<!--#INCLUDE VIRTUAL="/includes/header_navigation.html"-->
+	</div>
+
+	<div id="content" class="clear">
+
+		<div class="column">
+			<div id="intro">
+				<h3>ASM Presents<br/>&nbsp;<br/>MOONS</h3>
+			</div>
+
+			<div id="details">
+
+<p>
+There's been a lot of talk about what the moon is. Not A moon, but THE moon.
+</p>
+
+<p>
+Is it hollow? Is it inhabited? Is it artificial? We may never know. In fact, we may never care. By the time these details matter, the Earth will be uninhabitable for humans, and everything you have ever known &ndash; indeed, every bit of history, every record of every work of art, every person who has ever lived (as far as we know) &ndash; will be gone. Erased from the face of the planet, straight out of a Neal Stephenson novel (ok, technically some survived on and outside the planet, but that's a different subject). There will be no Shakespeare, no Jesus, no Mozart, no Galileo, no Einstein, no one. All gone. Lost to the ravages of the surface of our planet should something catastrophic happen with the moon.
+</p>
+
+<p>However. You can still enjoy Moons, right now, right here on planet Earth (while it's here).</p>
+
+<p>
+MOONS is a collective featuring four composers:<br/><br/>
+Katie Porter (clarinet)<br/>
+Chistine Tavolacci (flutes)<br/>
+Laura Cetilia (cello)<br/>
+Judith Berkson (vocals and accordion)
+</p>
+
+<p>
+And this is a performance celebrating their album release, featuring new compositions, one by each member of MOONS:<br/>
+<span class="worktitle">Cries</span> (2024) by Katie Porter<br/>
+<span class="worktitle">Singed and Sung</span> (2024) by Laura Cetilia<br/>
+<span class="worktitle">Passacaglio</span> (2024) by Judith Berkson<br/>
+<span class="worktitle">Papyri</span> (2024) by Christine Tavolacci<br/>
+</p>
+
+<p>
+<b>Saturday, November 16th, 2024 at 8 PM<br/>
+at Fridman Gallery<br/>
+<a href="https://maps.google.com/maps?q=169+Bowery+New+York+NY+10002" target="map">169 Bowery<br/>
+New York, NY 10002</a></b>
+</p>
+
+<p>
+$20 suggested donation
+</p>
+
+<p class="smallprint">
+Support from Anti-Social Music is provided through public funds from the New York City Department of Cultural Affairs in partnership with the City Council, and through public funds from the New York State Council on the Arts, a state agency.
+</p>
+
+			</div>
+		</div>
+
+		<div class="column">
+			<div id="photo"><img src="/images/performances/MoonsFridman.png" alt="ASM Presents Moons at Fridman Gallery on November 16, 2024 at 8 PM" /></div>
+
+			<div id="pastperformances">
+<!--#INCLUDE VIRTUAL="/pastperformances.html"-->
+			</div>
+		</div>
+
+	</div>
+
+<!--#INCLUDE VIRTUAL="/includes/footer.html"-->
+</div>
+
+</body>
+</html>
