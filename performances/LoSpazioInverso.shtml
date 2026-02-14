@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 	<title>ASM and PinkNoise present: lo spazio inverso (April 15, 2022) | Performances | Anti-Social Music</title>
 
@@ -29,14 +29,19 @@
 </head>
 <!--#INCLUDE VIRTUAL="/includes/gtag.js"-->
 <body>
+
 <div id="performancespage">
 	<div id="header">
+		<header>
 		<h1>Anti-Social Music</h1>
 		<h2>Past Performance</h2>
+		</header>
 <!--#INCLUDE VIRTUAL="/includes/header_navigation.html"-->
 	</div>
 
 	<div id="content" class="clear">
+	<main>
+		<article>
 
 		<div class="column">
 			<div id="intro">
@@ -92,16 +97,20 @@ PinkNoise and ASM present works by Salvatore Sciarrino, Jessie Cox, and Clara Ia
 
 			</div>
 		</div>
+		</article>
 
 		<div class="column">
-			<div id="photo"><img src="/images/performances/pinknoise_spazio.png" alt="ASM and PinkNoise present: lo spazio inverso - April 15 at 7:30PM" />
+			<div id="photo">
+<img src="/images/performances/pinknoise_spazio.png" alt="ASM and PinkNoise present: lo spazio inverso - April 15 at 7:30PM" />
 			</div>
+			<aside>
 
-			<div id="pastperformances">
-<!--#INCLUDE VIRTUAL="/pastperformances.html"-->
-			</div>
+			<aside id="pastperformances" aria-labelledby="pastperformanceslist">
+<!--#INCLUDE VIRTUAL="/includes/pastperformances.html"-->
+			</aside>
 		</div>
 
+	</main>
 	</div>
 
 <!--#INCLUDE VIRTUAL="/includes/footer.html"-->

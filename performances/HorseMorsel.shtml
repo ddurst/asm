@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 	<title>Horse Morsel in the Park (June 21, 2016) | Performances | Anti-Social Music</title>
 
@@ -29,21 +29,25 @@
 </head>
 <!--#INCLUDE VIRTUAL="/includes/gtag.js"-->
 <body>
+
 <div id="performancespage">
 	<div id="header">
+		<header>
 		<h1>Anti-Social Music</h1>
 		<h2>Past Performance</h2>
+		</header>
 <!--#INCLUDE VIRTUAL="/includes/header_navigation.html"-->
 	</div>
 
 	<div id="content" class="clear">
+	<main>
+		<article>
 
 		<div class="column">
 			<div id="intro">
-
 <h3>Horse Morsel <br/>in the Park</h3>
 			</div>
-	
+
 			<div id="details">
 
 <p>Here at ASM, we know that you have many options when it comes to listening to free shows outside on a beautiful Tuesday afternoon in NYC, so on behalf of–<br/>
@@ -81,17 +85,21 @@ FREE. LIKE YOUR MIND.</p>
 
 			</div>
 		</div>
+		</article>
 
 		<div class="column">
+			<aside>
 			<div id="photo">
 <img src="/images/performances/horsemorsel.jpg" alt="mmmm, horse morsel." title="Horse Morsel in the Park!" />
 			</div>
+			<aside>
 
-			<div id="pastperformances">
-<!--#INCLUDE VIRTUAL="/pastperformances.html"-->
-			</div>
+			<aside id="pastperformances" aria-labelledby="pastperformanceslist">
+<!--#INCLUDE VIRTUAL="/includes/pastperformances.html"-->
+			</aside>
 		</div>
 
+	</main>
 	</div>
 
 <!--#INCLUDE VIRTUAL="/includes/footer.html"-->

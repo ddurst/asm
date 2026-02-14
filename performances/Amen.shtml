@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 	<title>ASM Presents Amen: Joy Guidry Trio (August 25, 2024) | Performances | Anti-Social Music</title>
 
@@ -29,18 +29,23 @@
 </head>
 <!--#INCLUDE VIRTUAL="/includes/gtag.js"-->
 <body>
+
 <div id="performancespage">
 	<div id="header">
+		<header>
 		<h1>Anti-Social Music</h1>
 		<h2>Past Performance</h2>
+		</header>
 <!--#INCLUDE VIRTUAL="/includes/header_navigation.html"-->
 	</div>
 
 	<div id="content" class="clear">
+	<main>
+		<article>
 
 		<div class="column">
 			<div id="intro">
-				<h3>ASM Presents<br/>&nbsp;<br/>Amen: Joy Guidry Trio</h3>
+<h3>ASM Presents<br/>&nbsp;<br/>Amen: Joy Guidry Trio</h3>
 			</div>
 
 			<div id="details">
@@ -73,15 +78,21 @@ Support from Anti-Social Music is provided through public funds from the New Yor
 
 			</div>
 		</div>
+		</article>
 
 		<div class="column">
-			<div id="photo"><img src="/images/performances/guidry_amen.png" alt="ASM Presents Amen: Joy Guidry Trio: August 25, 2024 @ 6pm" /></div>
-
-			<div id="pastperformances">
-<!--#INCLUDE VIRTUAL="/pastperformances.html"-->
+			<aside>
+			<div id="photo">
+<img src="/images/performances/guidry_amen.png" alt="ASM Presents Amen: Joy Guidry Trio: August 25, 2024 @ 6pm" />
 			</div>
+			</aside>
+
+			<aside id="pastperformances" aria-labelledby="pastperformanceslist">
+<!--#INCLUDE VIRTUAL="/includes/pastperformances.html"-->
+			</aside>
 		</div>
 
+	</main>
 	</div>
 
 <!--#INCLUDE VIRTUAL="/includes/footer.html"-->

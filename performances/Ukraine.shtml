@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 	<title>ASM Tours the Ukraine! (October 30 - November 7, 2010) | Performances | Anti-Social Music</title>
 
@@ -29,21 +29,24 @@
 </head>
 <!--#INCLUDE VIRTUAL="/includes/gtag.js"-->
 <body>
+
 <div id="performancespage">
 	<div id="header">
+		<header>
 		<h1>Anti-Social Music</h1>
 		<h2>Past Performance</h2>
+		</header>
 <!--#INCLUDE VIRTUAL="/includes/header_navigation.html"-->
 	</div>
 
 	<div id="content" class="clear">
+	<main>
+		<article>
 
 		<div class="column">
 			<div id="intro">
-
 <h3>ASM Tours to Ukraine!</h3>
 <p class="download"><a target="bandcamp" href="http://antisocialmusic.bandcamp.com/album/ukraine-tour-exit-art-club">STREAM/DOWNLOAD THIS SHOW</a></p>
-
 			</div>
 
 			<div id="details">
@@ -80,19 +83,23 @@
 
 			</div>
 		</div>
+		</article>
 
 		<div class="column">
+			<aside>
 			<div id="photo">
 
 <a href="/images/asm_ukraine_nyc_poster.jpg" title="click to download the full-size poster!"><img style="border: 1px #a70e09 solid;" src="/images/performances/ukraine.jpg" alt="ukraine tour poster" title="click to download the full-size poster!" /></a>
 
 			</div>
+			<aside>
 
-			<div id="pastperformances">
-<!--#INCLUDE VIRTUAL="/pastperformances.html"-->
-			</div>
+			<aside id="pastperformances" aria-labelledby="pastperformanceslist">
+<!--#INCLUDE VIRTUAL="/includes/pastperformances.html"-->
+			</aside>
 		</div>
 
+	</main>
 	</div>
 
 <!--#INCLUDE VIRTUAL="/includes/footer.html"-->

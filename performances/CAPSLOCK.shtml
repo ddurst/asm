@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 	<title>ASM: STUCK ON CAPS LOCK (April 4, 2007) | Performances | Anti-Social Music</title>
 
@@ -29,22 +29,25 @@
 </head>
 <!--#INCLUDE VIRTUAL="/includes/gtag.js"-->
 <body>
+
 <div id="performancespage">
 	<div id="header">
+		<header>
 		<h1>Anti-Social Music</h1>
 		<h2>Past Performance</h2>
+		</header>
 <!--#INCLUDE VIRTUAL="/includes/header_navigation.html"-->
 	</div>
 
 	<div id="content" class="clear">
+	<main>
+		<article>
 
 		<div class="column">
 			<div id="intro">
-
 <h3 class="largeprint">ASM: <br/>STUCK ON <br/>CAPS LOCK</h3>
 <p style="font-size:24px;font-weight:bold;text-align:center;margin-bottom:0;">Wednesday, April 4th</p>
 <p class="download"><a target="bandcamp" href="http://antisocialmusic.bandcamp.com/album/stuck-on-caps-lock-tonic-4-4-07">STREAM/DOWNLOAD THIS SHOW</a></p>
-
 			</div>
 
 			<div id="details">
@@ -54,19 +57,21 @@
 
 			</div>
 		</div>
+		</article>
 
 		<div class="column">
+			<aside>
 			<div id="photo">
-
 <img src="/images/performances/CAPSLOCK.jpg" alt="picture of caps" title="caps with a subliminal message" />
-
 			</div>
+			<aside>
 
-			<div id="pastperformances">
-<!--#INCLUDE VIRTUAL="/pastperformances.html"-->
-			</div>
+			<aside id="pastperformances" aria-labelledby="pastperformanceslist">
+<!--#INCLUDE VIRTUAL="/includes/pastperformances.html"-->
+			</aside>
 		</div>
 
+	</main>
 	</div>
 
 <!--#INCLUDE VIRTUAL="/includes/footer.html"-->

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 	<title>ASM Plays On Words. And Strings. (June 13, 2014) | Performances | Anti-Social Music</title>
 
@@ -29,23 +29,26 @@
 </head>
 <!--#INCLUDE VIRTUAL="/includes/gtag.js"-->
 <body>
+
 <div id="performancespage">
 	<div id="header">
+		<header>
 		<h1>Anti-Social Music</h1>
 		<h2>Past Performance</h2>
+		</header>
 <!--#INCLUDE VIRTUAL="/includes/header_navigation.html"-->
 	</div>
 
 	<div id="content" class="clear">
+	<main>
+		<article>
 
 		<div class="column">
 			<div id="intro">
-
 <h3>ASM Plays On Words. And Strings.</h3>
 <p class="download"><a target="bandcamp" href="http://antisocialmusic.bandcamp.com/album/asm-strings-you-along-national-opera-center-6-13-2014">STREAM/DOWNLOAD THIS SHOW</a></p>
-
 			</div>
-	
+
 			<div id="details">
 <p>
 Our inner wordnerd was overwhelmed by the possibilities for this show title. Therefore, you must fill in the blank to create your own.<br/>
@@ -104,20 +107,24 @@ CHARLIE WATERS: <span class="worktitle">Concertimento #30</span> for string sept
 
 			</div>
 		</div>
+		</article>
 
 		<div class="column">
+			<aside>
 			<div id="photo">
 				"What's Pat piece's title? I can't read it."<br/>
 <img src="/images/performances/BABEL(thai)title.png" width="210" alt="Fr.BABEL.a--e" title="No, really, this is Pat's sextet title" /><br/>
 				Yup.
 
 			</div>
-	
-			<div id="pastperformances">
-<!--#INCLUDE VIRTUAL="/pastperformances.html"-->
-			</div>
+			</aside>
+
+			<aside id="pastperformances" aria-labelledby="pastperformanceslist">
+<!--#INCLUDE VIRTUAL="/includes/pastperformances.html"-->
+			</aside>
 		</div>
 
+	</main>
 	</div>
 
 <!--#INCLUDE VIRTUAL="/includes/footer.html"-->

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 	<title>I HATE SEA BASS: On Willful Obscurantism in William Brittelle's Mohair Time Warp (June 8, 2007) | Performances | Anti-Social Music</title>
 
@@ -29,20 +29,23 @@
 </head>
 <!--#INCLUDE VIRTUAL="/includes/gtag.js"-->
 <body>
+
 <div id="performancespage">
 	<div id="header">
+		<header>
 		<h1>Anti-Social Music</h1>
 		<h2>Past Performance</h2>
+		</header>
 <!--#INCLUDE VIRTUAL="/includes/header_navigation.html"-->
 	</div>
 
 	<div id="content" class="clear">
+	<main>
+		<article>
 
 		<div class="column">
 			<div id="intro">
-
 <h3>I HATE SEA BASS: <br/><span style="font-size:18px;">On Willful Obscurantism in <br/>William Brittelle's <br/><i>Mohair Time Warp</i></span></h3>
-
 			</div>
 
 			<div id="details">
@@ -85,19 +88,21 @@ between Kent and Wythe</b>
 
 			</div>
 		</div>
+		</article>
 
 		<div class="column">
+			<aside>
 			<div id="photo">
-
 <img src="/images/performances/mtwposterforweb.jpg" alt="mohair time warp poster" title="mohair time warp poster" />
-
 			</div>
+			<aside>
 
-			<div id="pastperformances">
-<!--#INCLUDE VIRTUAL="/pastperformances.html"-->
-			</div>
+			<aside id="pastperformances" aria-labelledby="pastperformanceslist">
+<!--#INCLUDE VIRTUAL="/includes/pastperformances.html"-->
+			</aside>
 		</div>
 
+	</main>
 	</div>
 
 <!--#INCLUDE VIRTUAL="/includes/footer.html"-->

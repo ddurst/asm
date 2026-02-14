@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 	<title>His Name is ASM! (September 17, 2005) | Performances | Anti-Social Music</title>
 
@@ -29,21 +29,24 @@
 </head>
 <!--#INCLUDE VIRTUAL="/includes/gtag.js"-->
 <body>
+
 <div id="performancespage">
 	<div id="header">
+		<header>
 		<h1>Anti-Social Music</h1>
 		<h2>Past Performance</h2>
+		</header>
 <!--#INCLUDE VIRTUAL="/includes/header_navigation.html"-->
 	</div>
 	<div id="content" class="clear">
+	<main>
+		<article>
 
 		<div class="column">
 			<div id="intro">
-
 <p style="font-size:18px;margin-top:0;text-align:center;"><strong>ASM Sleeps Around II:</strong></p>
 <h3>His Name is ASM!</h3>
 <p class="download"><a target="bandcamp" href="http://antisocialmusic.bandcamp.com/album/his-name-is-asm-la-tea-9-17-05">STREAM/DOWNLOAD THIS SHOW</a></p>
-
 			</div>
 
 			<div id="details">
@@ -68,19 +71,21 @@ Only $9.99 (cheap!)
 
 			</div>
 		</div>
+		</article>
 
 		<div class="column">
+			<aside>
 			<div id="photo">
-
 <img src="/images/performances/HisNameIsASM.jpg" alt="ASM hits the medium time poster" title="ASM hits the medium time poster" />
-
 			</div>
+			<aside>
 
-			<div id="pastperformances">
-<!--#INCLUDE VIRTUAL="/pastperformances.html"-->
-			</div>
+			<aside id="pastperformances" aria-labelledby="pastperformanceslist">
+<!--#INCLUDE VIRTUAL="/includes/pastperformances.html"-->
+			</aside>
 		</div>
 
+	</main>
 	</div>
 
 <!--#INCLUDE VIRTUAL="/includes/footer.html"-->

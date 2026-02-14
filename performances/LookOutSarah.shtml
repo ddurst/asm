@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 	<title>Look out, Sarah Lawrence (September 28, 2011) | Performances | Anti-Social Music</title>
 
@@ -29,22 +29,25 @@
 </head>
 <!--#INCLUDE VIRTUAL="/includes/gtag.js"-->
 <body>
+
 <div id="performancespage">
 	<div id="header">
+		<header>
 		<h1>Anti-Social Music</h1>
 		<h2>Past Performance</h2>
+		</header>
 <!--#INCLUDE VIRTUAL="/includes/header_navigation.html"-->
 	</div>
 
 	<div id="content" class="clear">
+	<main>
+		<article>
 
 		<div class="column">
 			<div id="intro">
-
 <h3>Look Out, Sarah Lawrence</h3>
-
 			</div>
-	
+
 			<div id="details">
 
 <p>
@@ -76,19 +79,21 @@ This program is supported, in part, by public funds from the New York City Depar
 
 			</div>
 		</div>
+		</article>
 
 		<div class="column">
+			<aside>
 			<div id="photo">
-
 <img src="/images/performances/LookOutSarah.png" alt="ASM performs works of Dr. Pat Muchmore at Sarah Lawrence College" title="Look Out, Sarah Lawrence" />
+			</div>
+			</aside>
 
-			</div>
-	
-			<div id="pastperformances">
-<!--#INCLUDE VIRTUAL="/pastperformances.html"-->
-			</div>
+			<aside id="pastperformances" aria-labelledby="pastperformanceslist">
+<!--#INCLUDE VIRTUAL="/includes/pastperformances.html"-->
+			</aside>
 		</div>
 
+	</main>
 	</div>
 
 <!--#INCLUDE VIRTUAL="/includes/footer.html"-->

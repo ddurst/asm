@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 	<title>This Is The Ground (July 5 and 6, 2019; July 12 and 13, 2019) | Performances | Anti-Social Music</title>
 
@@ -29,18 +29,22 @@
 </head>
 <!--#INCLUDE VIRTUAL="/includes/gtag.js"-->
 <body>
+
 <div id="performancespage">
 	<div id="header">
+		<header>
 		<h1>Anti-Social Music</h1>
 		<h2>Past Performance</h2>
+		</header>
 <!--#INCLUDE VIRTUAL="/includes/header_navigation.html"-->
 	</div>
 
 	<div id="content" class="clear">
+	<main>
+		<article>
 
 		<div class="column">
 			<div id="intro">
-
 <p style="font-size:18px;margin-top:0;text-align:center;"><strong>ASM + Opera On Tap present<br/></strong></p>
 <h3><i>This Is The Ground</i></h3>
 			</div>
@@ -74,17 +78,21 @@ To secure a spot, RSVP to <a href="mailto:operaontap@operaontap.com" target="_bl
 
 			</div>
 		</div>
+		</article>
 
 		<div class="column">
+			<aside>
 			<div id="photo">
 <img src="/images/performances/this_is_the_ground.jpg" alt="This Is The Ground. Opera On Tap @ The Old Stone House, July 2019" />
 			</div>
+			<aside>
 
-			<div id="pastperformances">
-<!--#INCLUDE VIRTUAL="/pastperformances.html"-->
-			</div>
+			<aside id="pastperformances" aria-labelledby="pastperformanceslist">
+<!--#INCLUDE VIRTUAL="/includes/pastperformances.html"-->
+			</aside>
 		</div>
 
+	</main>
 	</div>
 
 <!--#INCLUDE VIRTUAL="/includes/footer.html"-->

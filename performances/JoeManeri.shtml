@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 	<title>Joe Maneri's Unknown Chamber Works (August 14, 2004) | Performances | Anti-Social Music</title>
 
@@ -29,17 +29,21 @@
 </head>
 <!--#INCLUDE VIRTUAL="/includes/gtag.js"-->
 <body>
+
 <div id="performancespage">
 	<div id="header">
+		<header>
 		<h1>Anti-Social Music</h1>
 		<h2>Past Performance</h2>
+		</header>
 <!--#INCLUDE VIRTUAL="/includes/header_navigation.html"-->
 	</div>
 	<div id="content" class="clear">
+	<main>
+		<article>
 
 		<div class="column">
 			<div id="intro">
-
 <h3 class="verysmallprint">ANTI-SOCIAL MUSIC PLAYS JOE MANERI'S UNKNOWN CHAMBER WORKS</h3>
 <p style="line-height:normal;margin-left:28px;margin-top:18px;">
 with JOE MANERI TRIO<br/>
@@ -47,7 +51,6 @@ Saturday, August 14, 2004, 8 p.m.<br/>
 Tonic (107 Norfolk, <a href="http://www.tonicnyc.com/">www.tonicnyc.com</a>)<br/>
 $12.00
 </p>
-
 			</div>
 
 			<div id="details">
@@ -80,16 +83,20 @@ Performers include: Steven Beck (piano), Judith Berkson (voice), Meredith Borden
 
 			</div>
 		</div>
+		</article>
 
 		<div class="column">
+			<aside>
 			<div id="photo">
 			</div>
+			<aside>
 
-			<div id="pastperformances">
-<!--#INCLUDE VIRTUAL="/pastperformances.html"-->
-			</div>
+			<aside id="pastperformances" aria-labelledby="pastperformanceslist">
+<!--#INCLUDE VIRTUAL="/includes/pastperformances.html"-->
+			</aside>
 		</div>
 
+	</main>
 	</div>
 
 <!--#INCLUDE VIRTUAL="/includes/footer.html"-->

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 	<title>ASM Goes Deutsch (May 16, 2014) | Performances | Anti-Social Music</title>
 
@@ -29,22 +29,25 @@
 </head>
 <!--#INCLUDE VIRTUAL="/includes/gtag.js"-->
 <body>
+
 <div id="performancespage">
 	<div id="header">
+		<header>
 		<h1>Anti-Social Music</h1>
 		<h2>Past Performance</h2>
+		</header>
 <!--#INCLUDE VIRTUAL="/includes/header_navigation.html"-->
 	</div>
 
 	<div id="content" class="clear">
+	<main>
+		<article>
 
 		<div class="column">
 			<div id="intro">
-
 <h3>ASM G&#776oes&#776 D&#776eut&#776s&#776c&#776h&#776</h3>
-
 			</div>
-	
+
 			<div id="details">
 
 <p class="smallprint">
@@ -83,18 +86,22 @@ Spectr&uuml;m (121 Ludlow, Second Floor, near Rivington. F to 2nd Avenue)<br/>
 
 			</div>
 		</div>
+		</article>
 
 		<div class="column">
+			<aside>
 			<div id="photo">
 <img src="/images/performances/GoesDeutsch.jpg" alt="ASM Goes Deutsch" title="This is not John Deutsch" />
 
 			</div>
-	
-			<div id="pastperformances">
-<!--#INCLUDE VIRTUAL="/pastperformances.html"-->
-			</div>
+			</aside>
+
+			<aside id="pastperformances" aria-labelledby="pastperformanceslist">
+<!--#INCLUDE VIRTUAL="/includes/pastperformances.html"-->
+			</aside>
 		</div>
 
+	</main>
 	</div>
 
 <!--#INCLUDE VIRTUAL="/includes/footer.html"-->

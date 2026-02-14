@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 	<title>New York's Alright If You Like Saxophones (March 31, 2015) | Performances | Anti-Social Music</title>
 
@@ -29,23 +29,26 @@
 </head>
 <!--#INCLUDE VIRTUAL="/includes/gtag.js"-->
 <body>
+
 <div id="performancespage">
 	<div id="header">
+		<header>
 		<h1>Anti-Social Music</h1>
 		<h2>Past Performance</h2>
+		</header>
 <!--#INCLUDE VIRTUAL="/includes/header_navigation.html"-->
 	</div>
 
 	<div id="content" class="clear">
+	<main>
+		<article>
 
 		<div class="column">
 			<div id="intro">
-
 <h3>New York's Alright If You Like Saxophones</h3>
 <p class="download"><a target="bandcamp" href="https://antisocialmusic.bandcamp.com/album/asm-does-not-get-saxy">STREAM/DOWNLOAD THIS SHOW (ish)</a></p>
-
 			</div>
-	
+
 			<div id="details">
 <p>
 The trick with premieres shows is that they usually happen once, and then we only maybe will get some of those premiered pieces into our regular repertoire. Plus, we only do those shows in New York. And New York is terrible.
@@ -90,19 +93,21 @@ KAMALA SANKARAM - <span class="worktitle">shut it down</span> for saxophone quar
 
 			</div>
 		</div>
+		</article>
 
 		<div class="column">
+			<aside>
 			<div id="photo">
-
 <img src="/images/performances/toosaxy2.jpg" alt="New York is alright if you like postcards" title="New York Is Alright If You Like Saxophones" />
+			</div>
+			</aside>
 
-			</div>
-	
-			<div id="pastperformances">
-<!--#INCLUDE VIRTUAL="/pastperformances.html"-->
-			</div>
+			<aside id="pastperformances" aria-labelledby="pastperformanceslist">
+<!--#INCLUDE VIRTUAL="/includes/pastperformances.html"-->
+			</aside>
 		</div>
 
+	</main>
 	</div>
 
 <!--#INCLUDE VIRTUAL="/includes/footer.html"-->

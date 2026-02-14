@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 	<title>ASM Sings and Plays Out of Tune (October 11, 2003) | Performances | Anti-Social Music</title>
 
@@ -29,17 +29,21 @@
 </head>
 <!--#INCLUDE VIRTUAL="/includes/gtag.js"-->
 <body>
+
 <div id="performancespage">
 	<div id="header">
+		<header>
 		<h1>Anti-Social Music</h1>
 		<h2>Past Performance</h2>
+		</header>
 <!--#INCLUDE VIRTUAL="/includes/header_navigation.html"-->
 	</div>
 	<div id="content" class="clear">
+	<main>
+		<article>
 
 		<div class="column">
 			<div id="intro">
-
 <h3 class="verysmallprint">Anti-Social Music Sings and Plays Out of Tune!</h3>
 <p class="download"><a target="bandcamp" href="http://antisocialmusic.bandcamp.com/album/sings-and-plays-out-of-tune-cami-hall-10-11-03">STREAM/DOWNLOAD THIS SHOW</a></p>
 
@@ -50,7 +54,6 @@ Subway: N/R to 57th St.<br/>
 Cover: A mere $9.99. You just don't get a better deal.<br/>
 Call: (917) 543-0947 Email: <a href="mailto:info@antisocialmusic.org">info@antisocialmusic.org</a><br/>
 </p>
-
 			</div>
 
 			<div id="details">
@@ -98,19 +101,21 @@ Call: (917) 543-0947 Email: <a href="mailto:info@antisocialmusic.org">info@antis
 
 			</div>
 		</div>
+		</article>
 
 		<div class="column">
+			<aside>
 			<div id="photo">
-
 <img src="/images/performances/outoftune.jpg" alt="out of tune promo image" title="out of tune promo image" />
-
 			</div>
+			<aside>
 
-			<div id="pastperformances">
-<!--#INCLUDE VIRTUAL="/pastperformances.html"-->
-			</div>
+			<aside id="pastperformances" aria-labelledby="pastperformanceslist">
+<!--#INCLUDE VIRTUAL="/includes/pastperformances.html"-->
+			</aside>
 		</div>
 
+	</main>
 	</div>
 
 <!--#INCLUDE VIRTUAL="/includes/footer.html"-->

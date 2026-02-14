@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 	<title>ASM Drinks Alone For Two And A Half Years And Have No Plans To Stop Now (April 1, 2022) | Performances | Anti-Social Music</title>
 
@@ -29,14 +29,19 @@
 </head>
 <!--#INCLUDE VIRTUAL="/includes/gtag.js"-->
 <body>
+
 <div id="performancespage">
 	<div id="header">
+		<header>
 		<h1>Anti-Social Music</h1>
 		<h2>Past Performance</h2>
+		</header>
 <!--#INCLUDE VIRTUAL="/includes/header_navigation.html"-->
 	</div>
 
 	<div id="content" class="clear">
+	<main>
+		<article>
 
 		<div class="column">
 			<div id="intro">
@@ -89,17 +94,21 @@ STEFAN ZENIUK - <span class="worktitle">Segundo, Mis Diablo</span> for solo bass
 
 			</div>
 		</div>
+		</article>
 
 		<div class="column">
-			<div id="photo"><figure><img src="/images/performances/ASMDrinksAloneForTwoAndAHalfYears.png" width="381px" style="border: 0.5px solid #555" alt="Anti-Social Music Drinks Alone For Two And A Half Years And Has No Plans To Stop Now - April 1 at 7:30 PM EDT." />
-				<figcaption><cite>Drinks Along art is by Emily Hope Price</cite></figcaption>
-			</figure></div>
-
-			<div id="pastperformances">
-<!--#INCLUDE VIRTUAL="/pastperformances.html"-->
+			<aside>
+			<div id="photo">
+<figure><img src="/images/performances/ASMDrinksAloneForTwoAndAHalfYears.png" width="381px" style="border: 0.5px solid #555" alt="Anti-Social Music Drinks Alone For Two And A Half Years And Has No Plans To Stop Now - April 1 at 7:30 PM EDT." /><figcaption><cite>Drinks Along art is by Emily Hope Price</cite></figcaption></figure>
 			</div>
+			</aside>
+
+			<aside id="pastperformances" aria-labelledby="pastperformanceslist">
+<!--#INCLUDE VIRTUAL="/includes/pastperformances.html"-->
+			</aside>
 		</div>
 
+	</main>
 	</div>
 
 <!--#INCLUDE VIRTUAL="/includes/footer.html"-->

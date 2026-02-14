@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 	<title>Upcoming Performances | Anti-Social Music</title>
 
@@ -29,47 +29,51 @@
 </head>
 <!--#INCLUDE VIRTUAL="/includes/gtag.js"-->
 <body>
+
 <div id="performancespage">
 	<div id="header">
+		<header>
 		<h1>Anti-Social Music</h1>
 		<h2>Upcoming Performances</h2>
+		</header>
 <!--#INCLUDE VIRTUAL="/includes/header_navigation.html"-->
 	</div>
 
 	<div id="content" class="clear">
+	<main>
+		<article>
 
 		<div class="column">
 			<div id="intro">
 <h3>Upcoming Shows</h3>
-<h3>Our 2025 season is coming soon!</h3>
+<!--<h3>Our 2025 season is coming soon!</h3>-->
 			</div>
 
 			<div id="details">
 
 				<ul class="upcomingperformances">
+<!--#INCLUDE VIRTUAL="/includes/upcoming_shows_list.html"-->
 				</ul>
 
+<!--
 				<p>What you missed already ...</p>
 				<ul class="upcomingperformances">
 				<strike>
-					<li><a title="past show" href="/performances/BentDuo.shtml"><span class="showtitle">ASM Presents Bent Duo + Jace Clayton</span> Saturday, November 16, 2024 @2:30 PM</a></li>
-					<li><a title="past show" href="/performances/Moons.shtml"><span class="showtitle">ASM Presents Moons</span> Saturday, November 16, 2024 @8 PM</a></li>
-					<li><a title="past show" href="/performances/RocksAndRivers.shtml"><span class="showtitle">ASM Presents Rocks and Rivers</span> Friday, November 8, 2024 @7:00 PM</a></li>
-					<li><a title="past show" href="/performances/Amen.shtml"><span class="showtitle">ASM Presents Amen: Joy Guidry Trio</span> Sunday, August 25, 2024 @6:00 PM</a></li>
-					<li><a title="past show" href="/performances/DoubleTrouble.shtml"><span class="showtitle">ASM Presents Double Trouble: A Night of Duos</span> Saturday, April 13, 2024 @7:30 PM</a></li>
-					<li><a title="past show" href="/performances/Suspendida.shtml"><span class="showtitle">ASM Presents La Suspendida</span> Tuesday, March 12, 2024 @8 PM &amp; 10 PM</a></li>
+<RESTORE WHEN SHOWING !--#INCLUDE VIRTUAL="/includes/past_shows_list.html"-- RESTORE WHEN SHOWING>
 				</strike>
 				</ul>
+-->
 
 			</div>
 		</div>
 
 		<div class="column">
-			<div id="pastperformances">
-<!--#INCLUDE VIRTUAL="/pastperformances.html"-->
-			</div>
+			<aside id="pastperformances" aria-labelledby="pastperformanceslist">
+<!--#INCLUDE VIRTUAL="/includes/pastperformances.html"-->
+			</aside>
 		</div>
 
+	</main>
 	</div>
 
 <!--#INCLUDE VIRTUAL="/includes/footer.html"-->

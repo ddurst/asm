@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 	<title>Looking At You (February 8-9, 2018) | Performances | Anti-Social Music</title>
 
@@ -29,20 +29,23 @@
 </head>
 <!--#INCLUDE VIRTUAL="/includes/gtag.js"-->
 <body>
+
 <div id="performancespage">
 	<div id="header">
+		<header>
 		<h1>Anti-Social Music</h1>
 		<h2>Past Performance</h2>
+		</header>
 <!--#INCLUDE VIRTUAL="/includes/header_navigation.html"-->
 	</div>
 
 	<div id="content" class="clear">
+	<main>
+		<article>
 
 		<div class="column">
 			<div id="intro">
-
 <h3>Looking At You<br/>(Kamala Sankaram + ASM)</h3>
-
 			</div>
 
 			<div id="details">
@@ -101,8 +104,10 @@ Baritone Sax: Josh Sinton
 
 			</div>
 		</div>
+		</article>
 
 		<div class="column">
+			<aside>
 			<div id="photo">
 <style>
 a.rollover { background: url(/images/performances/asm_lookingatyou.png) 0px 0px no-repeat; display: block; height: 504px; margin: 10px 0px 0px 10px; width: 360px; }
@@ -111,12 +116,14 @@ a.rollover:hover { background-position: -360px 0px; }
 <a class="rollover" href="#" title="Looking At You postcard"></a>
 
 			</div>
+			<aside>
 
-			<div id="pastperformances">
-<!--#INCLUDE VIRTUAL="/pastperformances.html"-->
-			</div>
+			<aside id="pastperformances" aria-labelledby="pastperformanceslist">
+<!--#INCLUDE VIRTUAL="/includes/pastperformances.html"-->
+			</aside>
 		</div>
 
+	</main>
 	</div>
 
 <!--#INCLUDE VIRTUAL="/includes/footer.html"-->

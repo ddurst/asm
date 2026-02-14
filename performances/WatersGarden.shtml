@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 	<title>ASM Presents ASM waters the garden (May 15, 2022) | Performances | Anti-Social Music</title>
 
@@ -29,14 +29,19 @@
 </head>
 <!--#INCLUDE VIRTUAL="/includes/gtag.js"-->
 <body>
+
 <div id="performancespage">
 	<div id="header">
+		<header>
 		<h1>Anti-Social Music</h1>
 		<h2>Past Performance</h2>
+		</header>
 <!--#INCLUDE VIRTUAL="/includes/header_navigation.html"-->
 	</div>
 
 	<div id="content" class="clear">
+	<main>
+		<article>
 
 		<div class="column">
 			<div id="intro">
@@ -75,16 +80,20 @@ ASM Presents longtime partner composer Charles Waters in collection of new and r
 
 			</div>
 		</div>
+		</article>
 
 		<div class="column">
-			<div id="photo"><img src="/images/performances/watersgarden.png" alt="ASM Presents ASM waters the garden at Red Shed Garden, May 15, 2022, 2-4pm" />
+			<div id="photo">
+<img src="/images/performances/watersgarden.png" alt="ASM Presents ASM waters the garden at Red Shed Garden, May 15, 2022, 2-4pm" />
 			</div>
+			<aside>
 
-			<div id="pastperformances">
-<!--#INCLUDE VIRTUAL="/pastperformances.html"-->
-			</div>
+			<aside id="pastperformances" aria-labelledby="pastperformanceslist">
+<!--#INCLUDE VIRTUAL="/includes/pastperformances.html"-->
+			</aside>
 		</div>
 
+	</main>
 	</div>
 
 <!--#INCLUDE VIRTUAL="/includes/footer.html"-->

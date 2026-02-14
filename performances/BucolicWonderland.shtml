@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 	<title>Anti-Social Music Gets Toasted, Visits Bucolic Wonderland (May 12, 2007) | Performances | Anti-Social Music</title>
 
@@ -29,21 +29,24 @@
 </head>
 <!--#INCLUDE VIRTUAL="/includes/gtag.js"-->
 <body>
+
 <div id="performancespage">
 	<div id="header">
+		<header>
 		<h1>Anti-Social Music</h1>
 		<h2>Past Performance</h2>
+		</header>
 <!--#INCLUDE VIRTUAL="/includes/header_navigation.html"-->
 	</div>
 
 	<div id="content" class="clear">
+	<main>
+		<article>
 
 		<div class="column">
 			<div id="intro">
-
 <h3>Anti-Social Music <br/>Gets Toasted, <br/>Visits Bucolic <br/>Wonderland</h3>
 <p class="download"><a target="bandcamp" href="http://antisocialmusic.bandcamp.com/album/visits-a-bucolic-wonderland-greenwich-house-5-12-07">STREAM/DOWNLOAD THIS SHOW</a></p>
-
 			</div>
 
 			<div id="details">
@@ -80,19 +83,21 @@ excerpts from <span class="worktitle">Mohair Time Warp</span> by William Brittel
 
 			</div>
 		</div>
+		</article>
 
 		<div class="column">
+			<aside>
 			<div id="photo">
-
 <img src="/images/performances/BucolicWonderland.jpg" alt="Bucolic wonderland poster" title="Bucolic wonderland poster" />
-
 			</div>
+			<aside>
 
-			<div id="pastperformances">
-<!--#INCLUDE VIRTUAL="/pastperformances.html"-->
-			</div>
+			<aside id="pastperformances" aria-labelledby="pastperformanceslist">
+<!--#INCLUDE VIRTUAL="/includes/pastperformances.html"-->
+			</aside>
 		</div>
 
+	</main>
 	</div>
 
 <!--#INCLUDE VIRTUAL="/includes/footer.html"-->

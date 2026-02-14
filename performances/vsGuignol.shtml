@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 	<title>ASM vs Guignol (November 24, 2003) | Performances | Anti-Social Music</title>
 
@@ -29,17 +29,21 @@
 </head>
 <!--#INCLUDE VIRTUAL="/includes/gtag.js"-->
 <body>
+
 <div id="performancespage">
 	<div id="header">
+		<header>
 		<h1>Anti-Social Music</h1>
 		<h2>Past Performance</h2>
+		</header>
 <!--#INCLUDE VIRTUAL="/includes/header_navigation.html"-->
 	</div>
 	<div id="content" class="clear">
+	<main>
+		<article>
 
 		<div class="column">
 			<div id="intro">
-
 <h3 class="verysmallprint">ASM vs. Guignol!</h3>
 <p style="line-height:normal;margin-left:28px;margin-top:18px;">
 ANTI-SOCIAL MUSIC Returns to the Ring and Announces Plans to Fight K-1 Superstar GUIGNOL<br/><br/>
@@ -49,7 +53,6 @@ Cornelia St. Cafe<br/>
 29 Cornelia St.<br/>
 $10
 </p>
-
 			</div>
 
 			<div id="details">
@@ -79,19 +82,21 @@ ABOUT "21st Century Schizoid Music"<br/>
 
 			</div>
 		</div>
+		</article>
 
 		<div class="column">
+			<aside>
 			<div id="photo">
-
 <img src="/images/performances/asmvsguignol.jpg" alt="21st century schizoid music flyer" title="21st century schizoid music flyer" />
-
 			</div>
+			<aside>
 
-			<div id="pastperformances">
-<!--#INCLUDE VIRTUAL="/pastperformances.html"-->
-			</div>
+			<aside id="pastperformances" aria-labelledby="pastperformanceslist">
+<!--#INCLUDE VIRTUAL="/includes/pastperformances.html"-->
+			</aside>
 		</div>
 
+	</main>
 	</div>
 
 <!--#INCLUDE VIRTUAL="/includes/footer.html"-->

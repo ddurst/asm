@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 	<title>ASM Presents Infrequent Seams Festival 2023 (June 7, 8 and 10, 2023) | Performances | Anti-Social Music</title>
 
@@ -29,14 +29,19 @@
 </head>
 <!--#INCLUDE VIRTUAL="/includes/gtag.js"-->
 <body>
+
 <div id="performancespage">
 	<div id="header">
+		<header>
 		<h1>Anti-Social Music</h1>
 		<h2>Past Performance</h2>
+		</header>
 <!--#INCLUDE VIRTUAL="/includes/header_navigation.html"-->
 	</div>
 
 	<div id="content" class="clear">
+	<main>
+		<article>
 
 		<div class="column">
 			<div id="intro">
@@ -86,15 +91,21 @@ This festival is presented by Anti-Social Music and SEM Ensemble. Support from A
 
 			</div>
 		</div>
+		</article>
 
 		<div class="column">
-			<div id="photo"><img src="/images/performances/inf_streams_banner_2023.png" alt="ASM Presents Infrequent Seams Festival 2023, June 7, 8, and 10 at 8pm at FourOneOne in Williamsburg" /></div>
-
-			<div id="pastperformances">
-<!--#INCLUDE VIRTUAL="/pastperformances.html"-->
+			<aside>
+			<div id="photo">
+<img src="/images/performances/inf_streams_banner_2023.png" alt="ASM Presents Infrequent Seams Festival 2023, June 7, 8, and 10 at 8pm at FourOneOne in Williamsburg" />
 			</div>
+			</aside>
+
+			<aside id="pastperformances" aria-labelledby="pastperformanceslist">
+<!--#INCLUDE VIRTUAL="/includes/pastperformances.html"-->
+			</aside>
 		</div>
 
+	</main>
 	</div>
 
 <!--#INCLUDE VIRTUAL="/includes/footer.html"-->

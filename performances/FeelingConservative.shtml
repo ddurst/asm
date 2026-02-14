@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 	<title>Feeling Conservative? (November 10, 2007) | Performances | Anti-Social Music</title>
 
@@ -29,21 +29,24 @@
 </head>
 <!--#INCLUDE VIRTUAL="/includes/gtag.js"-->
 <body>
+
 <div id="performancespage">
 	<div id="header">
+		<header>
 		<h1>Anti-Social Music</h1>
 		<h2>Past Performance</h2>
+		</header>
 <!--#INCLUDE VIRTUAL="/includes/header_navigation.html"-->
 	</div>
 
 	<div id="content" class="clear">
+	<main>
+		<article>
 
 		<div class="column">
 			<div id="intro">
-
 <h3>Feeling Conservative?</h3>
 <p class="download"><a target="bandcamp" href="http://antisocialmusic.bandcamp.com/album/feeling-conservative-yippie-cafe-11-10-07">STREAM/DOWNLOAD THIS SHOW</a></p>
-
 			</div>
 
 			<div id="details">
@@ -81,19 +84,21 @@ BDFV to Broadway/Lafayette<br/>
 
 			</div>
 		</div>
+		</article>
 
 		<div class="column">
+			<aside>
 			<div id="photo">
-
 <img src="/images/performances/conservative.jpg" alt="picture of a certain conservative someone" title="my friends?" />
-
 			</div>
+			<aside>
 
-			<div id="pastperformances">
-<!--#INCLUDE VIRTUAL="/pastperformances.html"-->
-			</div>
+			<aside id="pastperformances" aria-labelledby="pastperformanceslist">
+<!--#INCLUDE VIRTUAL="/includes/pastperformances.html"-->
+			</aside>
 		</div>
 
+	</main>
 	</div>
 
 <!--#INCLUDE VIRTUAL="/includes/footer.html"-->

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 	<title>The Wind in the Bellows (May 19, 2017) | Performances | Anti-Social Music</title>
 
@@ -32,22 +32,26 @@
 </head>
 <!--#INCLUDE VIRTUAL="/includes/gtag.js"-->
 <body>
+
 <div id="performancespage">
 	<div id="header">
+		<header>
 		<h1>Anti-Social Music</h1>
 		<h2>Past Performance</h2>
+		</header>
 <!--#INCLUDE VIRTUAL="/includes/header_navigation.html"-->
 	</div>
 
 	<div id="content" class="clear">
+	<main>
+		<article>
 
 		<div class="column">
 			<div id="intro">
-
 <h3>The Wind in the Bellows</h3>
 <h3 class="smallprint">(A is for Accordion, encore)</h3>
 			</div>
-	
+
 			<div id="details">
 
 <p>One can argue over the merits of most <strike>books</strike> music, and in arguing understand the point of view of one's opponent. One may even come to the conclusion that possibly he is right after all. One does not argue about <strike><i>The Wind in the Willows</strike> The Wind in the Bellows</i>. The young man <strike>gives it to</strike> plays it for the girl with whom he is in love, and if she does not like it, asks her to return his letters. The older man <strike>tries</strike> forces it on his nephew, and alters his will accordingly. The <strike>book</strike> music is a test of character. We can't criticise it, because it is criticising us. It is a Household <strike>Book</strike> Music; a <strike>book</strike> performance which everybody in the household loves, and quotes continually; a <strike>book</strike> concert which is <strike>read aloud</strike> forcibly re-played to every new guest and is regarded as the touchstone of this worth. But I must give you one word of warning. When you sit down to it, don't be so ridiculous as to suppose that you are sitting in judgment on my taste, or on the art of <strike>Kenneth Grahame</strike> ASM. You are merely sitting in judgement on yourself. You may be worthy: I don't know. but it is you who are on trial.</p>
@@ -89,17 +93,21 @@ $15 admission (gets you both sets)</b>
 
 			</div>
 		</div>
+		</article>
 
 		<div class="column">
+			<aside>
 			<div id="photo">
 <img src="/images/performances/Bellows.png" alt="president twerp" title="RESIST" />
 			</div>
+			<aside>
 
-			<div id="pastperformances">
-<!--#INCLUDE VIRTUAL="/pastperformances.html"-->
-			</div>
+			<aside id="pastperformances" aria-labelledby="pastperformanceslist">
+<!--#INCLUDE VIRTUAL="/includes/pastperformances.html"-->
+			</aside>
 		</div>
 
+	</main>
 	</div>
 
 <!--#INCLUDE VIRTUAL="/includes/footer.html"-->

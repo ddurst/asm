@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 	<title>What's that Lassie? (August 24, 2002) | Performances | Anti-Social Music</title>
 
@@ -29,23 +29,26 @@
 </head>
 <!--#INCLUDE VIRTUAL="/includes/gtag.js"-->
 <body>
+
 <div id="performancespage">
 	<div id="header">
+		<header>
 		<h1>Anti-Social Music</h1>
 		<h2>Past Performance</h2>
+		</header>
 <!--#INCLUDE VIRTUAL="/includes/header_navigation.html"-->
 	</div>
 	<div id="content" class="clear">
+	<main>
+		<article>
 
 		<div class="column">
 			<div id="intro">
-
 <h3 class="verysmallprint">What's that Lassie?</h3>
 <p style="line-height:normal;margin-left:28px;margin-top:18px;">
 Anti-Social Music needs to be at Raw Space (543 W. 42nd St.) by Saturday, August 24th at 8pm to play in the <b>AugustArt Festival</b>?
 They're doing a full 90-minute set of ASM favorites including John Wriggle's <span class="worktitle">Dead Cat Bounce</span>, Peter Hess' <span class="worktitle">Trios I-III</span>, Dan Lasaga's <span class="worktitle">Parizade &amp; the Singing Tree</span>, Franz Nicolay's <span class="worktitle">...some time later...</span>?
 </p>
-
 			</div>
 
 			<div id="details">
@@ -60,16 +63,20 @@ They're doing a full 90-minute set of ASM favorites including John Wriggle's <sp
 
 			</div>
 		</div>
+		</article>
 
 		<div class="column">
+			<aside>
 			<div id="photo">
 			</div>
+			<aside>
 
-			<div id="pastperformances">
-<!--#INCLUDE VIRTUAL="/pastperformances.html"-->
-			</div>
+			<aside id="pastperformances" aria-labelledby="pastperformanceslist">
+<!--#INCLUDE VIRTUAL="/includes/pastperformances.html"-->
+			</aside>
 		</div>
 
+	</main>
 	</div>
 
 <!--#INCLUDE VIRTUAL="/includes/footer.html"-->

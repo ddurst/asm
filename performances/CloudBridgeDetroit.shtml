@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 	<title>Cloud Bridge, Detroit (October 14-16, 2011) | Performances | Anti-Social Music</title>
 
@@ -29,20 +29,23 @@
 </head>
 <!--#INCLUDE VIRTUAL="/includes/gtag.js"-->
 <body>
+
 <div id="performancespage">
 	<div id="header">
+		<header>
 		<h1>Anti-Social Music</h1>
 		<h2>Past Performance</h2>
+		</header>
 <!--#INCLUDE VIRTUAL="/includes/header_navigation.html"-->
 	</div>
 
 	<div id="content" class="clear">
+	<main>
+		<article>
 
 		<div class="column">
 			<div id="intro">
-
 <h3>CLOUD BRIDGE<br/>(HNIA + ASM)</h3>
-
 			</div>
 
 			<div id="details">
@@ -86,8 +89,10 @@ clouds as a part of a neighborhood beautification project.<br/>
 
 			</div>
 		</div>
+		</article>
 
 		<div class="column">
+			<aside>
 			<div id="photo">
 <style>
 a.rollover { background: url(/images/performances/asm_cloudbridge.jpg) 0px 0px no-repeat; display: block; height: 527px; margin: 10px 0px 0px 10px; width: 360px; }
@@ -96,12 +101,14 @@ a.rollover:hover { background-position: -360px 0px; }
 <a class="rollover" href="#" title="Cloud Bridge postcard"></a>
 
 			</div>
+			<aside>
 
-			<div id="pastperformances">
-<!--#INCLUDE VIRTUAL="/pastperformances.html"-->
-			</div>
+			<aside id="pastperformances" aria-labelledby="pastperformanceslist">
+<!--#INCLUDE VIRTUAL="/includes/pastperformances.html"-->
+			</aside>
 		</div>
 
+	</main>
 	</div>
 
 <!--#INCLUDE VIRTUAL="/includes/footer.html"-->

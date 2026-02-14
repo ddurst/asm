@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 	<title>Hallowmas! (October 31, 2003) | Performances | Anti-Social Music</title>
 
@@ -29,17 +29,21 @@
 </head>
 <!--#INCLUDE VIRTUAL="/includes/gtag.js"-->
 <body>
+
 <div id="performancespage">
 	<div id="header">
+		<header>
 		<h1>Anti-Social Music</h1>
 		<h2>Past Performance</h2>
+		</header>
 <!--#INCLUDE VIRTUAL="/includes/header_navigation.html"-->
 	</div>
 	<div id="content" class="clear">
+	<main>
+		<article>
 
 		<div class="column">
 			<div id="intro">
-
 <h3 class="verysmallprint">World/Inferno Friendship Society<br/>Hallowmas Masked Ball</h3>
 <p style="line-height:normal;margin-left:28px;margin-top:18px;">
 Oh, What Surprises and Delights Await You!<br/><br/>
@@ -50,7 +54,6 @@ At Eckford St.<br/>
 Brooklyn, NY<br/>
 718-387-5252
 </p>
-
 			</div>
 
 			<div id="details">
@@ -61,19 +64,21 @@ Brooklyn, NY<br/>
 
 			</div>
 		</div>
+		</article>
 
 		<div class="column">
+			<aside>
 			<div id="photo">
-
 <img src="/images/performances/hallowmas.jpg" alt="Hallowmas show flyer" title="Hallowmas show flyer" />
-
 			</div>
+			<aside>
 
-			<div id="pastperformances">
-<!--#INCLUDE VIRTUAL="/pastperformances.html"-->
-			</div>
+			<aside id="pastperformances" aria-labelledby="pastperformanceslist">
+<!--#INCLUDE VIRTUAL="/includes/pastperformances.html"-->
+			</aside>
 		</div>
 
+	</main>
 	</div>
 
 <!--#INCLUDE VIRTUAL="/includes/footer.html"-->

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 	<title>Nono Muchmore Warp(ed) Festival (September 17, 2011) | Performances | Anti-Social Music</title>
 
@@ -29,22 +29,25 @@
 </head>
 <!--#INCLUDE VIRTUAL="/includes/gtag.js"-->
 <body>
+
 <div id="performancespage">
 	<div id="header">
+		<header>
 		<h1>Anti-Social Music</h1>
 		<h2>Past Performance</h2>
+		</header>
 <!--#INCLUDE VIRTUAL="/includes/header_navigation.html"-->
 	</div>
 
 	<div id="content" class="clear">
+	<main>
+		<article>
 
 		<div class="column">
 			<div id="intro">
-
 <h3>Nono Muchmore Warp(ed)<br/>Festival</h3>
-
 			</div>
-	
+
 			<div id="details">
 
 <p>
@@ -78,19 +81,23 @@ This concert is presented by the New Spectrum Foundation. ASM does not find Pat 
 
 			</div>
 		</div>
+		</article>
 
 		<div class="column">
+			<aside>
 			<div id="photo">
 
 <a href="http://newspectrum.org/blog/2011/08/24/the-nono-muchmore-warped-festival/" target="NewSpectrum"><img src="/images/performances/NonoMuchmoreWarped_Logo.jpg" alt="Nono Muchmore Warp(ed) Festival logo" title="Muchmore YesYes VERYwarped" /></a>
 
 			</div>
-	
-			<div id="pastperformances">
-<!--#INCLUDE VIRTUAL="/pastperformances.html"-->
-			</div>
+			</aside>
+
+			<aside id="pastperformances" aria-labelledby="pastperformanceslist">
+<!--#INCLUDE VIRTUAL="/includes/pastperformances.html"-->
+			</aside>
 		</div>
 
+	</main>
 	</div>
 
 <!--#INCLUDE VIRTUAL="/includes/footer.html"-->

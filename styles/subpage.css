@@ -1292,12 +1292,14 @@ ul.upcomingperformances .showtitle {
 }
 
 /* FOOTER */
+footer, 
 #footer {
 	color: rgb(110,110,110); /* #f8f8f8 */
 	font-size: 11px;
 	xmargin: 0px auto;
 	text-align: center;
 }
+footer p, 
 #footer p {
 	margin: 0 auto;
 	padding: 0;

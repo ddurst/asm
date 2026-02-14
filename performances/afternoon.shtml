@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 	<title>An Afternoon of Anti-Social Chamber Music! (March 25, 2001) | Performances | Anti-Social Music</title>
 
@@ -29,17 +29,21 @@
 </head>
 <!--#INCLUDE VIRTUAL="/includes/gtag.js"-->
 <body>
+
 <div id="performancespage">
 	<div id="header">
+		<header>
 		<h1>Anti-Social Music</h1>
 		<h2>Past Performance</h2>
+		</header>
 <!--#INCLUDE VIRTUAL="/includes/header_navigation.html"-->
 	</div>
 	<div id="content" class="clear">
+	<main>
+		<article>
 
 		<div class="column">
 			<div id="intro">
-
 <p style="line-height:normal;margin-left:28px;margin-top:-5px;">
 Freaks!<br/>
 Singing Trees!<br/>
@@ -48,9 +52,7 @@ The Perfect Pension Plan!<br/>
 A New Refutation of Time!<br/>
 Eggplant & Eskimo Salad!
 </p>
-
 <h3 class="verysmallprint">An Afternoon of Anti-Social Chamber Music!</h3>
-
 			</div>
 
 			<div id="details">
@@ -93,19 +95,21 @@ John Wriggle-composition, trombone
 
 			</div>
 		</div>
+		</article>
 
 		<div class="column">
+			<aside>
 			<div id="photo">
-
 <img src="/images/performances/Afternoon.jpg" alt="Afternoon of ASM flyer" title="Afternoon of ASM flyer" />
-
 			</div>
+			<aside>
 
-			<div id="pastperformances">
-<!--#INCLUDE VIRTUAL="/pastperformances.html"-->
-			</div>
+			<aside id="pastperformances" aria-labelledby="pastperformanceslist">
+<!--#INCLUDE VIRTUAL="/includes/pastperformances.html"-->
+			</aside>
 		</div>
 
+	</main>
 	</div>
 
 <!--#INCLUDE VIRTUAL="/includes/footer.html"-->

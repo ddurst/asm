@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 	<title>ASM Does Not Get Saxy (February 20, 2015) | Performances | Anti-Social Music</title>
 
@@ -29,23 +29,26 @@
 </head>
 <!--#INCLUDE VIRTUAL="/includes/gtag.js"-->
 <body>
+
 <div id="performancespage">
 	<div id="header">
+		<header>
 		<h1>Anti-Social Music</h1>
 		<h2>Past Performance</h2>
+		</header>
 <!--#INCLUDE VIRTUAL="/includes/header_navigation.html"-->
 	</div>
 
 	<div id="content" class="clear">
+	<main>
+		<article>
 
 		<div class="column">
 			<div id="intro">
-
 <h3>ASM Does Not Get Saxy</h3>
 <p class="download"><a target="bandcamp" href="https://antisocialmusic.bandcamp.com/album/asm-does-not-get-saxy">STREAM/DOWNLOAD THIS SHOW (ish)</a></p>
-
 			</div>
-	
+
 			<div id="details">
 <p>
 I see no reason to not be absolutely upfront with you, gentle reader: there was really no consensus on the title for this show.
@@ -132,19 +135,21 @@ Featuring the multi-talented, not to mention attractive: <b>Alex Hamlin</b> (alt
 
 			</div>
 		</div>
+		</article>
 
 		<div class="column">
+			<aside>
 			<div id="photo">
-
 <img src="/images/performances/toosaxy.jpg" alt="ASM does not get saxy postcard" title="ASM does not get saxy" />
+			</div>
+			</aside>
 
-			</div>
-	
-			<div id="pastperformances">
-<!--#INCLUDE VIRTUAL="/pastperformances.html"-->
-			</div>
+			<aside id="pastperformances" aria-labelledby="pastperformanceslist">
+<!--#INCLUDE VIRTUAL="/includes/pastperformances.html"-->
+			</aside>
 		</div>
 
+	</main>
 	</div>
 
 <!--#INCLUDE VIRTUAL="/includes/footer.html"-->

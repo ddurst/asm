@@ -8,7 +8,7 @@ Options -Indexes
 #
 ## Setup rewriting.
 RewriteEngine On
-#RewriteBase     /
+RewriteBase     /
 
 
 # COMMENT OUT ON LOCAL DEV ONLY
@@ -20,6 +20,10 @@ RewriteEngine On
 #RewriteRule    (.*)    https://antisocialmusic.org/$1       [R=301,L]
 # REFACTORED TO HAVE INCLUDE FILES IN OWN SUBFOLDER; BLOCK DIRECT ACCESS BECAUSE I'M A CONTROLLING JERKFACE
 RewriteRule    ^includes/    -       [F,L,NS]
+
+# Automatically redirect /performances/*.html requests (except for default and performances) to *.shtml
+RewriteCond     %{REQUEST_URI}  !^/performances/(default|performances).html$
+RewriteRule     ^(performances)/([^\./]+)\.html$   /$1/$2.shtml    [R=301,END,NC]
 
 # These are old redirects handled in files via window.location scripting. Putting them here.
 Redirect 301 /performances/performances.html /Performances.shtml

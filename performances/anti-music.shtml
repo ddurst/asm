@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 	<title>Try not to break the fine china (June 21, 2002) | Performances | Anti-Social Music</title>
 
@@ -29,17 +29,21 @@
 </head>
 <!--#INCLUDE VIRTUAL="/includes/gtag.js"-->
 <body>
+
 <div id="performancespage">
 	<div id="header">
+		<header>
 		<h1>Anti-Social Music</h1>
 		<h2>Past Performance</h2>
+		</header>
 <!--#INCLUDE VIRTUAL="/includes/header_navigation.html"-->
 	</div>
 	<div id="content" class="clear">
+	<main>
+		<article>
 
 		<div class="column">
 			<div id="intro">
-
 <p style="line-height:normal;margin-left:28px;margin-top:18px;font-weight:bold;">
 <span class="download"><a target="bandcamp" href="http://antisocialmusic.bandcamp.com/album/an-anti-music-social-with-cami-hall-6-21-02">STREAM/DOWNLOAD THIS SHOW</a></span></p>
 
@@ -55,7 +59,6 @@ Subway: N/R to 57th St.<br/>
 Cover: A mere $9.99. You just don't get a better deal.<br/>
 Call: (917) 543-0947 Email: franz_nicolay@hotmail.com
 </p>
-
 			</div>
 
 			<div id="details">
@@ -86,19 +89,21 @@ Nicolay &#149; Susan Oetgen &#149; Eric Rockwin &#149; Ken Thomson &#149; George
 
 			</div>
 		</div>
+		</article>
 
 		<div class="column">
+			<aside>
 			<div id="photo">
-
 <img src="/images/performances/AntiMusic.jpg" alt="Anti-music show flyer" title="Anti-music show flyer" />
-
 			</div>
+			<aside>
 
-			<div id="pastperformances">
-<!--#INCLUDE VIRTUAL="/pastperformances.html"-->
-			</div>
+			<aside id="pastperformances" aria-labelledby="pastperformanceslist">
+<!--#INCLUDE VIRTUAL="/includes/pastperformances.html"-->
+			</aside>
 		</div>
 
+	</main>
 	</div>
 
 <!--#INCLUDE VIRTUAL="/includes/footer.html"-->

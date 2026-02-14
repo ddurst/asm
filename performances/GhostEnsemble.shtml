@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html> 
+<html lang="en"> 
 <head>
 	<title>ASM Presents Ghost Ensemble (November 9, 2023) | Performances | Anti-Social Music</title>
 
@@ -29,14 +29,19 @@
 </head>
 <!--#INCLUDE VIRTUAL="/includes/gtag.js"-->
 <body>
+
 <div id="performancespage">
 	<div id="header">
+		<header>
 		<h1>Anti-Social Music</h1>
 		<h2>Past Performance</h2>
+		</header>
 <!--#INCLUDE VIRTUAL="/includes/header_navigation.html"-->
 	</div>
 
 	<div id="content" class="clear">
+	<main>
+		<article>
 
 		<div class="column">
 			<div id="intro">
@@ -79,15 +84,21 @@ This program is supported, in part, by public funds from the New York City Depar
 
 			</div>
 		</div>
+		</article>
 
 		<div class="column">
-			<div id="photo"><img src="/images/performances/ghostensemble.png" alt="ASM Presents Ghost Ensemble on November 9, 2023 at 7:30 PM at The Invisible Dog Art Center, 51 Bergen Street in Brooklyn, NY" /></div>
-
-			<div id="pastperformances">
-<!--#INCLUDE VIRTUAL="/pastperformances.html"-->
+			<aside>
+			<div id="photo">
+<img src="/images/performances/ghostensemble.png" alt="ASM Presents Ghost Ensemble on November 9, 2023 at 7:30 PM at The Invisible Dog Art Center, 51 Bergen Street in Brooklyn, NY" />
 			</div>
+			</aside>
+
+			<aside id="pastperformances" aria-labelledby="pastperformanceslist">
+<!--#INCLUDE VIRTUAL="/includes/pastperformances.html"-->
+			</aside>
 		</div>
 
+	</main>
 	</div>
 
 <!--#INCLUDE VIRTUAL="/includes/footer.html"-->

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 	<title>Next Performance | Anti-Social Music</title>
 	<meta http-equiv="refresh" content="0;url=http://www.antisocialmusic.org/performances.shtml" />
@@ -17,6 +17,7 @@
 </head>
 <!--#INCLUDE VIRTUAL="/includes/gtag.js"-->
 <body>
+
 <script>window.location = 'http://www.antisocialmusic.org/Performances.shtml';</script>
 </body>
 </html>

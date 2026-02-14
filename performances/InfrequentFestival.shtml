@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 	<title>ASM Presents Infrequent Seams Festival (December 19, 2022) | Performances | Anti-Social Music</title>
 
@@ -29,14 +29,19 @@
 </head>
 <!--#INCLUDE VIRTUAL="/includes/gtag.js"-->
 <body>
+
 <div id="performancespage">
 	<div id="header">
+		<header>
 		<h1>Anti-Social Music</h1>
 		<h2>Past Performance</h2>
+		</header>
 <!--#INCLUDE VIRTUAL="/includes/header_navigation.html"-->
 	</div>
 
 	<div id="content" class="clear">
+	<main>
+		<article>
 
 		<div class="column">
 			<div id="intro">
@@ -108,15 +113,21 @@ This festival is presented by Anti-Social Music and SEM Ensemble. Support from A
 
 			</div>
 		</div>
+		</article>
 
 		<div class="column">
-			<div id="photo"><a href="https://roulette.org/event/infrequent-seams-festival/" title="go to roulette.org" target="roulette"><img src="/images/performances/InfrequentFestival.png" alt="ASM Presents Infrequent Seams Festival, December 19, 2022 at 8pm at Roulette" /></a></div>
-
-			<div id="pastperformances">
-<!--#INCLUDE VIRTUAL="/pastperformances.html"-->
+			<aside>
+			<div id="photo">
+<a href="https://roulette.org/event/infrequent-seams-festival/" title="go to roulette.org" target="roulette"><img src="/images/performances/InfrequentFestival.png" alt="ASM Presents Infrequent Seams Festival, December 19, 2022 at 8pm at Roulette" /></a>
 			</div>
+			</aside>
+
+			<aside id="pastperformances" aria-labelledby="pastperformanceslist">
+<!--#INCLUDE VIRTUAL="/includes/pastperformances.html"-->
+			</aside>
 		</div>
 
+	</main>
 	</div>
 
 <!--#INCLUDE VIRTUAL="/includes/footer.html"-->

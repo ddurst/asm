@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 	<title>ASM, The Oxford Comma, and The Interrobang (May 28, 2016) | Performances | Anti-Social Music</title>
 
@@ -29,22 +29,26 @@
 </head>
 <!--#INCLUDE VIRTUAL="/includes/gtag.js"-->
 <body>
+
 <div id="performancespage">
 	<div id="header">
+		<header>
 		<h1>Anti-Social Music</h1>
 		<h2>Past Performance</h2>
+		</header>
 <!--#INCLUDE VIRTUAL="/includes/header_navigation.html"-->
 	</div>
 
 	<div id="content" class="clear">
+	<main>
+		<article>
 
 		<div class="column">
 			<div id="intro">
-
 <h3>ASM, The Oxford Comma, and The Interrobang<br/>&#8253;</h3>
 <p class="download"><a target="bandcamp" href="https://antisocialmusic.bandcamp.com/album/asm-the-oxford-comma-and-the-interrobang">STREAM/DOWNLOAD THIS SHOW</a></p>
 			</div>
-	
+
 			<div id="details">
 
 <p>This is an invitation for you (hereinafter referred to as "Audience Member") to view and listen to a concert. Said concert will feature music that Anti-Social Music (hereinafter referred to as "ASM") believes, in whole or in part, will be satisfying to Audience Member. Continued reading of this e-mail, especially the next paragraph, will constitute Audience Member's implied consent to, and relinquishes the right to sue ASM over, various punctuation marks that are controversial and potentially upsetting, including, but not limited to, the Oxford Comma and the Interrobang.</p>
@@ -75,16 +79,20 @@ $9.99</p>
 
 			</div>
 		</div>
+		</article>
 
 		<div class="column">
+			<aside>
 			<div id="photo">
 			</div>
-	
-			<div id="pastperformances">
-<!--#INCLUDE VIRTUAL="/pastperformances.html"-->
-			</div>
+			</aside>
+
+			<aside id="pastperformances" aria-labelledby="pastperformanceslist">
+<!--#INCLUDE VIRTUAL="/includes/pastperformances.html"-->
+			</aside>
 		</div>
 
+	</main>
 	</div>
 
 <!--#INCLUDE VIRTUAL="/includes/footer.html"-->

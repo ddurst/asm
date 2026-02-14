@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 	<title>ASM Presents Capacity, or: the Work of Crackling (in Riverside) (September 30 / October 1, 2023) | Performances | Anti-Social Music</title>
 
@@ -29,14 +29,19 @@
 </head>
 <!--#INCLUDE VIRTUAL="/includes/gtag.js"-->
 <body>
+
 <div id="performancespage">
 	<div id="header">
+		<header>
 		<h1>Anti-Social Music</h1>
 		<h2>Past Performance</h2>
+		</header>
 <!--#INCLUDE VIRTUAL="/includes/header_navigation.html"-->
 	</div>
 
 	<div id="content" class="clear">
+	<main>
+		<article>
 
 		<div class="column">
 			<div id="intro">
@@ -133,16 +138,21 @@ Since 2005, Kinesis Project’s work has been experienced in San Francisco, San 
 
 			</div>
 		</div>
+		</article>
 
 		<div class="column">
-			<div id="photo"><figure><img src="/images/performances/crackling.jpg" alt="Anti-Social Music Presents Capacity, or: the Work of Crackling, September 24-25, 2022 at 5pm" /><figcaption><cite>image by David L. Parker</cite></figcaption>
-			</figure></div>
-
-			<div id="pastperformances">
-<!--#INCLUDE VIRTUAL="/pastperformances.html"-->
+			<aside>
+			<div id="photo">
+<figure><img src="/images/performances/crackling.jpg" alt="Anti-Social Music Presents Capacity, or: the Work of Crackling, September 24-25, 2022 at 5pm" /><figcaption><cite>image by David L. Parker</cite></figcaption></figure>
 			</div>
+			</aside>
+
+			<aside id="pastperformances" aria-labelledby="pastperformanceslist">
+<!--#INCLUDE VIRTUAL="/includes/pastperformances.html"-->
+			</aside>
 		</div>
 
+	</main>
 	</div>
 
 <!--#INCLUDE VIRTUAL="/includes/footer.html"-->

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 <!-- Global Site Tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-133225713-1"></script>
@@ -37,14 +37,19 @@
 </head>
 <!--#INCLUDE VIRTUAL="/includes/gtag.js"-->
 <body>
+
 <div id="performancespage">
 	<div id="header">
+		<header>
 		<h1>Anti-Social Music</h1>
 		<h2>Past Performance</h2>
+		</header>
 <!--#INCLUDE VIRTUAL="/includes/header_navigation.html"-->
 	</div>
 
 	<div id="content" class="clear">
+	<main>
+		<article>
 
 		<div class="column">
 			<div id="intro">
@@ -80,17 +85,21 @@ Sam Weber, bass
 
 			</div>
 		</div>
+		</article>
 
 		<div class="column">
-			<div id="photo"><figure><img src="/images/performances/heartsongs.png" alt="ASM Presents Heart Songs and Sounds at Greenwich House Music School, June 29, 2022, at 8pm." />
-				<figcaption><cite>Photo by Grayson Dantzic</cite></figcaption>
-			</figure></div>
-
-			<div id="pastperformances">
-<!--#INCLUDE VIRTUAL="/pastperformances.html"-->
+			<aside>
+			<div id="photo">
+<figure><img src="/images/performances/heartsongs.png" alt="ASM Presents Heart Songs and Sounds at Greenwich House Music School, June 29, 2022, at 8pm." /><figcaption><cite>Photo by Grayson Dantzic</cite></figcaption></figure>
 			</div>
+			</aside>
+
+			<aside id="pastperformances" aria-labelledby="pastperformanceslist">
+<!--#INCLUDE VIRTUAL="/includes/pastperformances.html"-->
+			</aside>
 		</div>
 
+	</main>
 	</div>
 
 <!--#INCLUDE VIRTUAL="/includes/footer.html"-->
