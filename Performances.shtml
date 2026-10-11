@@ -55,14 +55,12 @@
 <!--#INCLUDE VIRTUAL="/includes/upcoming_shows_list.html"-->
 				</ul>
 
-<!--
 				<p>What you missed already ...</p>
 				<ul class="upcomingperformances">
 				<strike>
-<RESTORE WHEN SHOWING !--#INCLUDE VIRTUAL="/includes/past_shows_list.html"-- RESTORE WHEN SHOWING>
+<!--#INCLUDE VIRTUAL="/includes/past_shows_list.html"-->
 				</strike>
 				</ul>
--->
 
 			</div>
 		</div>

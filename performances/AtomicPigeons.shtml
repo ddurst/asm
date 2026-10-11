@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>ASM presents Atomic Pigeons (May 25, 2026) | Performances | Anti-Social Music</title>
+
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="imagetoolbar" content="false" />
+	<meta name="author" content="Anti-Social Music" />
+	<meta name="robots" content="index, follow" />
+	<meta http-equiv="X-UA-Compatible" content="IE=7" />
+	<meta property="og:site_name" content="Anti-Social Music" />
+	<meta property="og:url" content="https://www.antisocialmusic.org/performances/AtomicPigeons.shtml" />
+	<meta property="og:title" content="ASM presents Atomic Pigeons" />
+	<meta property="og:image" content="https://www.antisocialmusic.org/ASM_social.jpg" />
+	<link rel="SHORTCUT ICON" href="/favicon.ico" type="image/x-icon" />
+	<link rel="image_src" href="https://www.antisocialmusic.org/ASM_social.jpg" />
+	<meta name="description" content="Anti-Social Music, Inc., is a non-profit collective of composers and performers created for the purpose of presenting new music by emerging, primarily New York-based musicians." />
+
+	<link rel="stylesheet" href="/styles/init.css" type="text/css" />
+	<link rel="stylesheet" href="/styles/subpage.css" type="text/css" />
+	<!--[if IE 6]>
+	<link rel="stylesheet" href="/styles/ie6.css" type="text/css" />
+	<![endif]-->
+	<!--[if IE 7]>
+	<link rel="stylesheet" href="/styles/ie7.css" type="text/css" />
+	<![endif]-->
+	<script type="text/javascript" src="/scripts/asm.js"></script>
+</head>
+<!--#INCLUDE VIRTUAL="/includes/gtag.js"-->
+<body>
+
+<div id="performancespage">
+	<div id="header">
+		<header>
+		<h1>Anti-Social Music</h1>
+		<h2>Past Performance</h2>
+		</header>
+<!--#INCLUDE VIRTUAL="/includes/header_navigation.html"-->
+	</div>
+
+	<div id="content" class="clear">
+	<main>
+		<article>
+
+		<div class="column">
+			<div id="intro">
+<h3>ASM presents:<br/>&nbsp;<br/>Atomic Pigeons</h3>
+			</div>
+
+			<div id="details">
+
+<p>
+Excelling at pairing classical violin technique with FX-laden experimentation to inventively ply style with style, violinist <b>Sana Nagano</b> shows equal commitment to freedom and form in many of the works she is involved in. For her latest project as a leader, Nagano introduces an electrified, high-flying avant-math quartet <a href="https://www.sananagano.com/atomic-pigeons" target="pigeons">Atomic Pigeons</a>. Her polyrhythmic compositions are derived from the raw echoes of the headbanger worthy heart-beats, infused with powerful yet deeply intertwined improvisations organically. Her musical collaborators include burning guitarist of <i>Cleric</i> and John Zorn's <i>Simulacrum</i>, <i>Secret Chief 3</i>'s <b>Matt Hollenberg</b>, intuitive beat maker of infinite rhythmic possibilities <b>Danny Sher</b> on drums (<i>Horsetorso</i>, <i>Crippling Alcoholism</i>), astonishing bass virtuoso <b>Adam Minkoff</b> (<i>Graham Nash</i>, <i>Secret Chief 3</i>).
+</p>
+
+<p>
+<b>Monday, May 25, 2026<br/>
+<a href="https://www.google.com/maps/search/?api=1&query=709+Lorimer+St" target="map">Pete's Candy Store<br/>
+709 Lorimer St<br/>
+Brooklyn, NY 11211</a></b><br/>
+$15 suggested donation
+</p>
+
+<p class="smallprint">
+This program is supported, in part, by public funds from the New York City Department of Cultural Affairs, in partnership with the City Council, and in part with public funds from the New York State Council on the Arts, a state agency.
+</p>
+
+			</div>
+		</div>
+		</article>
+
+		<div class="column">
+			<aside>
+			<div id="photo">
+<img src="/images/performances/atomicpigeons.png" alt="ASM presents Atomic Pigeons on May 25, 2026, at Pete's Candy Store." />
+			</div>
+			</aside>
+
+			<aside id="pastperformances" aria-labelledby="pastperformanceslist">
+<!--#INCLUDE VIRTUAL="/includes/pastperformances.html"-->
+			</aside>
+		</div>
+
+	</main>
+	</div>
+
+<!--#INCLUDE VIRTUAL="/includes/footer.html"-->
+</div>
+
+</body>
+</html>
