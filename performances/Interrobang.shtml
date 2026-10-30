@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<title>ASM, The Oxford Comma, and The Interrobang (May 28, 2016) | Performances | Anti-Social Music</title>
-
+	<link rel="canonical" href="https://antisocialmusic.org/performances/ASMPerformersPerform.shtml" />
 	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta http-equiv="imagetoolbar" content="false" />
@@ -10,11 +10,11 @@
 	<meta name="robots" content="index, follow" />
 	<meta http-equiv="X-UA-Compatible" content="IE=7" />
 	<meta property="og:site_name" content="Anti-Social Music" />
-	<meta property="og:url" content="https://www.antisocialmusic.org/performances/ASMPerformersPerform.shtml" />
+	<meta property="og:url" content="https://antisocialmusic.org/performances/ASMPerformersPerform.shtml" />
 	<meta property="og:title" content="ASM, The Oxford Comma, and The Interrobang" />
-	<meta property="og:image" content="https://www.antisocialmusic.org/ASM_social.jpg" />
+	<meta property="og:image" content="https://antisocialmusic.org/ASM_social.jpg" />
 	<link rel="SHORTCUT ICON" href="/favicon.ico" type="image/x-icon" />
-	<link rel="image_src" href="https://www.antisocialmusic.org/ASM_social.jpg" />
+	<link rel="image_src" href="https://antisocialmusic.org/ASM_social.jpg" />
 	<meta name="description" content="Anti-Social Music, Inc., is a non-profit collective of composers and performers created for the purpose of presenting new music by emerging, primarily New York-based musicians." />
 
 	<link rel="stylesheet" href="/styles/init.css" type="text/css" />

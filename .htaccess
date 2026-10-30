@@ -5,21 +5,38 @@
 AddHandler server-parsed .html
 #Options FollowSymLinks Includes
 Options -Indexes
-#
+
+## BEGIN Expire headers  
+#<IfModule mod_expires.c>  
+#  # Turn on the module.
+#  ExpiresActive On
+#  # Set the default expiry times.
+## Set some caching because why not
+## Configure expirations based on types - HTML, CSS, JS, PNG, PDF, ICO
+## 3600 = 1 hour; 86400 = 1 day; 604800 = 1 week; 2628000 = 1 month; 31536000 = 1 year
+#  ExpiresByType text/html M2628000
+#  ExpiresByType text/css M2628000
+#  ExpiresByType text/javascript M31536000
+#  ExpiresByType image/png M31536000
+#  ExpiresByType image/x-icon M31536000
+#</IfModule>  
+
 ## Setup rewriting.
 RewriteEngine On
 RewriteBase     /
 
-
 # COMMENT OUT ON LOCAL DEV ONLY
 # This checks to make sure the connection is not already HTTPS
-#RewriteCond    %{HTTPS}        !=on
-#RewriteRule    ^(.*)$	https://%{HTTP_HOST}%{REQUEST_URI}       [R=301,L]
+RewriteCond    %{HTTPS}        !=on
+RewriteRule    ^(.*)$	https://%{HTTP_HOST}%{REQUEST_URI}       [R=301,L]
 # LEAVE COMMENTED OUT, HANDLED ELSEWHERE
 #RewriteCond    %{HTTP_HOST}    !^antisocialmusic\.com
 #RewriteRule    (.*)    https://antisocialmusic.org/$1       [R=301,L]
 # REFACTORED TO HAVE INCLUDE FILES IN OWN SUBFOLDER; BLOCK DIRECT ACCESS BECAUSE I'M A CONTROLLING JERKFACE
 RewriteRule    ^includes/    -       [F,L,NS]
+# Fixing google canonical indexing issue
+RewriteCond   %{HTTP_HOST}   ^www\.antisocialmusic\.org [NC]
+RewriteRule   ^(.*)$   https://antisocialmusic.org [L,R=301]
 
 # Automatically redirect /performances/*.html requests (except for default and performances) to *.shtml
 RewriteCond     %{REQUEST_URI}  !^/performances/(default|performances).html$
@@ -37,5 +54,3 @@ Redirect 301 /history.html /History.html
 Redirect 301 /press.html /Press.html
 Redirect 301 /store.html /Store.html
 Redirect 301 /pressphotos.html /PressPhotos.html
-
-
