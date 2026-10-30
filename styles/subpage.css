@@ -1034,6 +1034,10 @@ body > div {
 	display: block;
 	font-weight: normal;
 }
+#pastperformances summary {
+	color: rgb(92,124,163);
+	margin-bottom: 13px;
+}
 #performancespage #details ul.upcomingperformances {
 	list-style: none;
 	margin: 0;
