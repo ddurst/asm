@@ -29,18 +29,18 @@ RewriteBase     /
 # This checks to make sure the connection is not already HTTPS
 RewriteCond    %{HTTPS}        !=on
 RewriteRule    ^(.*)$	https://%{HTTP_HOST}%{REQUEST_URI}       [R=301,L]
-# LEAVE COMMENTED OUT, HANDLED ELSEWHERE
-#RewriteCond    %{HTTP_HOST}    !^antisocialmusic\.com
-#RewriteRule    (.*)    https://antisocialmusic.org/$1       [R=301,L]
+## Force HTTPS: DEPRECATED, NOW HANDLED BY THE ABOVE
+##RewriteCond    %{HTTP_HOST}    !^antisocialmusic\.com
+##RewriteRule    (.*)    https://antisocialmusic.org/$1       [R=301,L]
 # REFACTORED TO HAVE INCLUDE FILES IN OWN SUBFOLDER; BLOCK DIRECT ACCESS BECAUSE I'M A CONTROLLING JERKFACE
 RewriteRule    ^includes/    -       [F,L,NS]
 # Fixing google canonical indexing issue
-RewriteCond   %{HTTP_HOST}   ^www\.antisocialmusic\.org [NC]
-RewriteRule   ^(.*)$   https://antisocialmusic.org [L,R=301]
+RewriteCond    %{HTTP_HOST}    ^www\.antisocialmusic\.org [NC]
+RewriteRule    ^(.*)$    https://antisocialmusic.org/$1       [L,R=301]
 
 # Automatically redirect /performances/*.html requests (except for default and performances) to *.shtml
-RewriteCond     %{REQUEST_URI}  !^/performances/(default|performances).html$
-RewriteRule     ^(performances)/([^\./]+)\.html$   /$1/$2.shtml    [R=301,END,NC]
+RewriteCond    %{REQUEST_URI}    !^/performances/(default|performances).html$
+RewriteRule    ^(performances)/([^\./]+)\.html$    /$1/$2.shtml       [R=301,END,NC]
 
 # These are old redirects handled in files via window.location scripting. Putting them here.
 Redirect 301 /performances/performances.html /Performances.shtml
