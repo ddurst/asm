@@ -37,6 +37,10 @@ RewriteRule    ^includes/    -       [F,L,NS]
 # Fixing google canonical indexing issue
 RewriteCond    %{HTTP_HOST}    ^www\.antisocialmusic\.org [NC]
 RewriteRule    ^(.*)$    https://antisocialmusic.org/$1       [L,R=301]
+# Stupid default page not acting like a default
+RewriteCond    %{REQUEST_URI}    ^/default.html      [NC]
+RewriteRule    ^(.*)$    /       [L,R=301]
+
 
 # Automatically redirect /performances/*.html requests (except for default and performances) to *.shtml
 RewriteCond    %{REQUEST_URI}    !^/performances/(default|performances).html$
